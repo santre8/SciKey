@@ -15,13 +15,24 @@ HALL-API-TEST-DB-MYSQL/
 │       └── upec_sample200_keywords_domains.json
 │
 ├── wikidata/
-│   ├── mapping.py
+│   ├── neo4j_io.py
+|   |──wikidata_api.py
+|   |──utils.py
+|   |──pipeline.py
 │   ├── venv/
 │   └── hal_field_audit_out/
 │       └── Upec_Wikidata_Enriched_Improved.csv   # output file
 │
 └── ...
 ```
+
+wikidata/
+├─ neo4j_io.py
+├─ wikidata_api.py
+├─ utils.py
+├─ pipeline.py
+└─ __init__.py            # (opcional, vacío)
+
 
 ---
 
@@ -81,6 +92,7 @@ Once everything is set up, execute the enrichment pipeline:
 
 ```powershell
 python mapping.py
+python Neo4j-wikidata_v3.py
 ```
 
 The script will:

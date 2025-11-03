@@ -5,9 +5,9 @@ from pathlib import Path
 from api.apimodule import NEED_N, choose_url, consolidate_domains, consolidate_keywords, \
     fallback_text_match_for_discipline, fetch_page, hal_record_url, map_codes_to_discipline, savetojson
 
-NEED_N = 5
+NEED_N = 20
 FIELD ="Chemical Engineering"
-FILE ="upec_chemical_20_5.json"
+FILE ="upec_chemical_20.json"
 
 records, cursor = [], "*"
 
@@ -66,6 +66,7 @@ if __name__ == '__main__':
                 "domain_codes": d.get("domain_codes"),  # raw HAL codes (for audit)
                 "domain_labels": d.get("domain_labels"),  # any labels if present
                 "discipline": d.get("discipline"),  # your 5 buckets (clean)
+                'en_domainAllCodeLabel_fs':d.get('en_domainAllCodeLabel_fs'),
                 "url_primary": d.get("url_primary"),
                 "authOrganismId_i": d.get("authOrganismId_i"),
                 #data for autors DANN

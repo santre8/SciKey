@@ -42,6 +42,7 @@ FIELDS = ",".join([
     "keyword*",            # any keyword field variant
     "domainAll_s",         # human-readable domain(s)
     "domainAllCode_s",     # domain code(s)
+    'en_domainAllCodeLabel_fs',
     "linkExtUrl_s",        # external link(s) if any
     "files_s",              # attached file URLs (fallback)
     #data for autors DANN
@@ -58,6 +59,7 @@ FIELDS = ",".join([
     'keyword_s',
     'keyword_sci',
     'keyword_t'
+
 ])
 
 BASE = f"https://api.archives-ouvertes.fr/search/{HAL_PORTAL}/"

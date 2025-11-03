@@ -7,10 +7,6 @@
     "keywords_joined":"3D numerical simulations; CVD; Convective instability; Design of experiments; Harmonic inlet excitation; Mixed convection; Poiseuille-Rayleigh-Bénard flow; Rectangular channel",
     "domain_codes":"phys.meca.mefl; spi.meca.mefl",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "phys.meca.mefl_FacetSep_Physics [physics]\/Mechanics [physics]\/Fluid mechanics [physics.class-ph]",
-      "spi.meca.mefl_FacetSep_Engineering Sciences [physics]\/Mechanics [physics.med-ph]\/Fluids mechanics [physics.class-ph]"
-    ],
     "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -50,9 +46,6 @@
     "keywords_joined":"Combination of techniques; Corrosion; Ni-MH batteries; Raman micro spectroscopy; TEM",
     "domain_codes":"chim.othe",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.othe_FacetSep_Chemical Sciences\/Other"
-    ],
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -98,9 +91,6 @@
     "keywords_joined":"20902069; 21074094; 51173134; National natural science foundation of china; Nsfc",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01060481",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -170,9 +160,6 @@
     "keywords_joined":"Ab-initio calculations; Hydrogen halides; Long range interactions; Potential curves",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01064801",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -211,10 +198,6 @@
     "keywords_joined":"0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles; 5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres; 5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres; And hazes; Clouds",
     "domain_codes":"sdu.astr.ep; phys.astr.ep",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "sdu.astr.ep_FacetSep_Sciences of the Universe [physics]\/Astrophysics [astro-ph]\/Earth and Planetary Astrophysics [astro-ph.EP]",
-      "phys.astr.ep_FacetSep_Physics [physics]\/Astrophysics [astro-ph]\/Earth and Planetary Astrophysics [astro-ph.EP]"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01067996",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -266,9 +249,6 @@
     "keywords_joined":"Charged clusters; Charged droplets; Coarse-grained models; Electrospray ionisation; Monte Carlo simulations; Parallel Charging; Parallel Tempering",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01078652",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -310,9 +290,6 @@
     "keywords_joined":"Excited states; Molecular anions; Potential energy functions",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01078896\/file\/NCSm-article.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -353,10 +330,6 @@
     "keywords_joined":"Amperometric biosensor; Biosensors; Collagen; Glocose oxidase",
     "domain_codes":"chim.anal; sdv.bbm",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology"
-    ],
     "url_primary":"https:\/\/api.istex.fr\/document\/6691CFECF2A230772693D6DFDE81EE4EE32E5AA7\/fulltext\/pdf?sid=hal",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -398,10 +371,6 @@
     "keywords_joined":"Classification; Definition; Electrochemical biosensor",
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm.bc_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology\/Biochemistry [q-bio.BM]"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01083004",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -442,10 +411,6 @@
     "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase; Implantable sensor",
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm.bc_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology\/Biochemistry [q-bio.BM]"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01083007",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -478,10 +443,6 @@
     "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase",
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm.bc_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology\/Biochemistry [q-bio.BM]"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01083014",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -519,9 +480,6 @@
     "keywords_joined":"Chemical bond concepts; Chemistry history",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01083157",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -552,9 +510,6 @@
     "keywords_joined":"Long range interactions; Potential energy functions",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01083160",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -588,10 +543,6 @@
     "keywords_joined":"Activated sludge; Control; Instrumentation; Oxygen; Redox potential; Waste water treatment plant",
     "domain_codes":"sde; chim.anal",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "sde_FacetSep_Environmental Sciences",
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry"
-    ],
     "url_primary":"https:\/\/hal.science\/hal-01084520",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -629,10 +580,6 @@
     "keywords_joined":"Calcium; Glucose sensor; Hydrogen peroxide; Koutecky-Levich plots; Platinum",
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm.bc_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology\/Biochemistry [q-bio.BM]"
-    ],
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-BJW07D28-5\/fulltext.pdf?sid=hal",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -669,10 +616,6 @@
     "keywords_joined":"Analytes; Calibration characteristics; Definition; Electrochemical biosensor; Performance criteria; Single use biosensor",
     "domain_codes":"chim.anal; sdv.bbm.bc",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sdv.bbm.bc_FacetSep_Life Sciences [q-bio]\/Biochemistry, Molecular Biology\/Biochemistry [q-bio.BM]"
-    ],
     "url_primary":"https:\/\/kuscholarworks.ku.edu\/bitstream\/1808\/8413\/1\/Wilson_1999_Electrochemical%20Biosensors.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -716,13 +659,6 @@
     "keywords_joined":"Budget; Cd; Cr; Cu; Heavy metals; Hg; Ni; Pb; River; Seine; Zn",
     "domain_codes":"sde; chim.inor; chim.anal; sde.es; shs.envir",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "sde_FacetSep_Environmental Sciences",
-      "chim.inor_FacetSep_Chemical Sciences\/Inorganic chemistry",
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sde.es_FacetSep_Environmental Sciences\/Environment and Society",
-      "shs.envir_FacetSep_Humanities and Social Sciences\/Environmental studies"
-    ],
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086746\/file\/Thevenot-STOTEN-Critical-Budget-2007-375-180-203.pdf",
     "authOrganismId_i":[
       0
@@ -791,12 +727,6 @@
     "keywords_joined":"Anthropogenic impacts; Atmospheric fallout; Sampling procedures; Trace elements",
     "domain_codes":"sde; chim.anal; sde.es; spi",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "sde_FacetSep_Environmental Sciences",
-      "chim.anal_FacetSep_Chemical Sciences\/Analytical chemistry",
-      "sde.es_FacetSep_Environmental Sciences\/Environment and Society",
-      "spi_FacetSep_Engineering Sciences [physics]"
-    ],
     "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086752\/file\/Azimi-Total-Atm-Deposition-STOTEN-2003-308-247-256.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -838,9 +768,6 @@
     "keywords_joined":"CaO; Calcium monoxide; MRCI+Q; Spin–orbit coupling; Stable dication; Vibronic states",
     "domain_codes":"chim.theo",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.theo_FacetSep_Chemical Sciences\/Theoretical and\/or physical chemistry"
-    ],
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-9RPVHCRF-K\/fulltext.pdf?sid=hal",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -881,10 +808,6 @@
     "keywords_joined":"BLENDS; CARBON NANOTUBES; CLAY NANOCOMPOSITES; COMPOSITES; CRYSTALLIZATION; GAS BARRIER PROPERTIES; MECHANICAL-PROPERTIES; NANOPARTICLES; POLYMER; SILANE-GRAFTED POLYPROPYLENE",
     "domain_codes":"chim.poly; chim.mate",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.poly_FacetSep_Chemical Sciences\/Polymers",
-      "chim.mate_FacetSep_Chemical Sciences\/Material chemistry"
-    ],
     "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/WNG-XS6VKPN7-F\/fulltext.pdf?sid=hal",
     "authOrganismId_i":null,
     "authFirstName_s":[
