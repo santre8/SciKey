@@ -330,3 +330,44 @@ def pick_with_context_then_exact(keyword: str, context: str, domain_cfg: Optiona
                 return top
 
     return pick_exact_label_only(keyword)
+
+
+# ====== DOMINIOS DESCUBIERTOS DESDE JSON ======
+_DOMAIN_QID_CACHE: Dict[str, Optional[str]] = {}  # label_lower -> qid/None
+
+def _resolve_domain_label(label: str) -> Optional[str]:
+    """Resuelve un label de dominio (tal como viene del JSON) a QID (con caché)."""
+    key = (label or "").strip().lower()
+    if not key:
+        return None
+    if key in _DOMAIN_QID_CACHE:
+        return _DOMAIN_QID_CACHE[key]
+    qid = resolve_label_to_qid(label, language="en")  # puedes intentar "fr" si lo deseas
+    _DOMAIN_QID_CACHE[key] = qid
+    return qid
+
+def build_domain_roots_from_records(records: List[Dict]) -> Dict[str, str]:
+    """
+    Explora todos los records y arma un mapeo {label_de_dominio -> QID}
+    Solo entradas con QID resuelto.
+    """
+    seen_labels = set()
+    for rec in records:
+        for lab in U.extract_domain_labels(rec):
+            if lab:
+                seen_labels.add(lab)
+    mapping: Dict[str, str] = {}
+    for lab in sorted(seen_labels):
+        q = _resolve_domain_label(lab)
+        if q and q.startswith("Q"):
+            mapping[lab] = q
+    return mapping
+
+def domain_roots_for_record(rec: Dict, domain_qid_map: Dict[str, str]) -> Set[str]:
+    """Devuelve el set de QIDs raíz (P279) para los labels de este record."""
+    roots: Set[str] = set()
+    for lab in U.extract_domain_labels(rec):
+        q = domain_qid_map.get(lab)
+        if q:
+            roots.add(q)
+    return roots

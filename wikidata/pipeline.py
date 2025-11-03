@@ -3,14 +3,15 @@
 
 import csv
 import json
-from pathlib import Path
+import re
 from typing import Dict, List, Set
 
 import utils as U
 import wikidata_api as W
 from neo4j_io import Neo4jConnector, ingest_p31_types, ingest_p279_hierarchy, ingest_document_map
 
-def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
+
+def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector, domain_qid_map: Dict[str, str]) -> List[Dict]:
     rows = []
     seen_pairs = set()
 
@@ -20,17 +21,23 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
         context = f"{title}. {abstract}".strip(". ")
         docid = rec.get("docid") or rec.get("halId_s") or ""
 
-        # HAL → buckets → cfg
-        hal_buckets = U.extract_hal_buckets(rec)
-        domain_cfg = U.merge_domain_cfg_for_buckets(hal_buckets)
+        # Dominios dinámicos por record (labels y QIDs raíz P279)
+        dom_labels = U.extract_domain_labels(rec)
+        dom_roots = W.domain_roots_for_record(rec, domain_qid_map)
+        domain_cfg = {
+            # Neutral si quieres: "p31_whitelist": set(),
+            # Ligero sesgo positivo por tipos preferidos globales:
+            "p31_whitelist": U.PREFERRED_P31 or set(),
+            "p279_roots": dom_roots
+        }
 
-        # keywords
+        # Keywords
         keywords = rec.get("keyword_s") or []
         if not keywords and rec.get("keywords_joined"):
             raw = rec["keywords_joined"]
             keywords = [k.strip() for k in re.split(r"[;,]", raw) if k.strip()]
 
-        print(f"\n--- Doc {docid} | {len(keywords)} keywords | HAL: {hal_buckets} ---")
+        print(f"\n--- Doc {docid} | {len(keywords)} keywords | Domains: {dom_labels} ---")
 
         for kw in keywords:
             if (docid, kw) in seen_pairs:
@@ -105,15 +112,13 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                     "match_score": round(best_score, 1),
                     "p31_types": ";".join(sorted(p31s_out)) if p31s_out else "",
                     "p31_label": p31_labels_out,
-                    "hal_domains": "|".join(hal_buckets),
+                    "hal_domains": "|".join(dom_labels),
                     "domain_bonus": domain_bonus_val,
                     "domain_hits": domain_hits,
                 })
 
     return rows
 
-# ==================== MAIN ====================
-import re  # requerido aquí (split de keywords)
 
 def main():
     # 1) Conexión a Neo4j
@@ -132,19 +137,19 @@ def main():
     U.set_disallowed_preferred(disallowed, preferred)
     print(f"✅ DISALLOWED_P31: {len(U.DISALLOWED_P31)} | PREFERRED_P31: {len(U.PREFERRED_P31)}")
 
-    # 3) Construir cfg de dominio HAL (whitelist P31 + raíces P279) y guardarlo en utils
-    domain_cfg_qids = W.build_domain_cfg_qids()
-    U.set_domain_cfg_qids(domain_cfg_qids)
-    print("✅ Roots/whitelists de dominio resueltas a QIDs.")
-
-    # 4) Leer JSON
+    # 3) Leer JSON (necesario antes de descubrir dominios)
     print(f"📥 Leyendo JSON: {U.INPUT_JSON}")
     with open(U.INPUT_JSON, "r", encoding="utf-8") as f:
         records = json.load(f)
 
+    # 4) Construir raíces dinámicas de dominios desde el JSON
+    print("🔎 Descubriendo labels de dominios en el JSON y resolviendo QIDs...")
+    domain_qid_map = W.build_domain_roots_from_records(records)
+    print(f"✅ Dominios resueltos: {len(domain_qid_map)} labels → QIDs")
+
     # 5) Procesar y escribir CSV
     print(f"🔍 Procesando {len(records)} records...")
-    rows = map_keywords(records, neo4j_conn)
+    rows = map_keywords(records, neo4j_conn, domain_qid_map)
 
     fieldnames = [
         "docid", "title", "keyword", "wikidata_label", "wikidata_qid",
@@ -162,6 +167,7 @@ def main():
 
     neo4j_conn.close()
     print("✅ Proceso finalizado. Conexión a Neo4j cerrada.")
+
 
 if __name__ == "__main__":
     main()

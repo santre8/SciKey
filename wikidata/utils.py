@@ -59,34 +59,8 @@ PREFERRED_P31_LABELS = [
     "biological process", "disease",
 ]
 
-# ====== Dominio HAL (por LABEL; se resuelve a QIDs en wikidata_api) ======
-DOMAIN_CFG_LABELS = {
-    "Physics": {
-        "p31_whitelist_labels": ["scientific concept", "physical quantity", "physical law", "phenomenon", "academic discipline"],
-        "p279_root_labels": ["physics", "mechanics", "fluid mechanics"]
-    },
-    "Engineering Sciences": {
-        "p31_whitelist_labels": ["engineering concept", "technology", "method", "process", "academic discipline"],
-        "p279_root_labels": ["engineering", "civil engineering", "mechanical engineering", "chemical engineering"]
-    },
-    "Mechanics": {
-        "p31_whitelist_labels": ["scientific concept", "physical quantity", "phenomenon", "method", "model"],
-        "p279_root_labels": ["mechanics"]
-    },
-    "Fluid mechanics": {
-        "p31_whitelist_labels": ["scientific concept", "physical quantity", "phenomenon", "method", "model"],
-        "p279_root_labels": ["fluid mechanics", "fluid dynamics"]
-    },
-}
 
-# Mapeo de cadenas → buckets HAL
-_HAL_DOMAIN_BUCKETS_MAP = {
-    "physics": "Physics",
-    "engineering sciences": "Engineering Sciences",
-    "mechanics": "Mechanics",
-    "fluid mechanics": "Fluid mechanics",
-    "fluids mechanics": "Fluid mechanics",
-}
+
 
 # ====== Caches/globals compartidos entre módulos ======
 DISALLOWED_P31: Set[str] = set()
@@ -125,31 +99,33 @@ def singularize_en(word: str) -> str:
     return w
 
 # ==================== HAL DOMAINS ====================
-def extract_hal_buckets(rec: Dict) -> List[str]:
-    """Extrae buckets de dominio desde el campo 'en_domainAllCodeLabel_fs' del JSON HAL."""
+
+# ==================== DOMINIOS (GENÉRICO) ====================
+_DOM_LABEL_CLEAN_RE = re.compile(r"\[[^\]]*\]")  # quita corchetes tipo [physics]
+_DOM_SPLIT_RE = re.compile(r"[\/>]+")
+
+def _clean_domain_piece(seg: str) -> str:
+    """Limpia un segmento de dominio (sin corchetes, sin basura, trim)."""
+    s = seg or ""
+    s = _DOM_LABEL_CLEAN_RE.sub("", s)   # remove [ ... ]
+    s = _ws_re.sub(" ", s.strip(" >/|,"))  # normaliza espacios
+    return s
+
+def extract_domain_labels(rec: Dict) -> List[str]:
+    """
+    Extrae *labels de dominio* tal como vienen en el JSON (sin mapear a buckets).
+    Lee el campo 'en_domainAllCodeLabel_fs' y devuelve una lista única (ordenada).
+    """
     out = set()
-    for raw in rec.get("en_domainAllCodeLabel_fs", []) or []:
-        part = raw
-        if "FacetSep_" in raw:
-            part = raw.split("FacetSep_", 1)[1]
-        for seg in re.split(r"[\/>]", part):
-            seg_clean = re.sub(r"\[[^\]]*\]", "", seg).strip().lower()
-            if not seg_clean:
-                continue
-            for key, bucket in _HAL_DOMAIN_BUCKETS_MAP.items():
-                if key in seg_clean:
-                    out.add(bucket)
+    dom_list = rec.get("en_domainAllCodeLabel_fs") or []
+    for raw in dom_list:
+        part = raw.split("FacetSep_", 1)[1] if isinstance(raw, str) and "FacetSep_" in raw else raw
+        if not part:
+            continue
+        # dividir por / o >
+        for seg in _DOM_SPLIT_RE.split(part):
+            seg_clean = _clean_domain_piece(seg)
+            if seg_clean:
+                out.add(seg_clean)
     return sorted(out)
 
-def merge_domain_cfg_for_buckets(buckets: List[str]) -> Dict[str, Set[str]]:
-    """Une whitelists P31 y raíces P279 de los buckets HAL presentes en el record."""
-    if not buckets or not DOMAIN_CFG_QIDS:
-        return {"p31_whitelist": set(), "p279_roots": set()}
-    wl, roots = set(), set()
-    for b in buckets:
-        c = DOMAIN_CFG_QIDS.get(b)
-        if not c:
-            continue
-        wl |= c["p31_whitelist"]
-        roots |= c["p279_roots"]
-    return {"p31_whitelist": wl, "p279_roots": roots}
