@@ -151,7 +151,9 @@ Artificial Intelligence,Computational modeling,Artificial intelligence,Q11660,No
 
 ---
 
-## 👩‍💻 Author
-For academic and data enrichment purposes within the *SciKey* and *Wikidata mapping* projects.
 
----
+
+pip install -r requirements.txtc
+
+
+python -m wikidata.main
