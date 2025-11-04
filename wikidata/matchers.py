@@ -80,7 +80,7 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
             candidates.append(c)
 
         if candidates:
-            # orden: score, similarity, preferencia de idiomas definidos
+            # order: score, similarity, preference of defined languages
             candidates.sort(
                 key=lambda c: (
                     c["match_score"],

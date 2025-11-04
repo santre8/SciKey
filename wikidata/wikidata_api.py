@@ -12,8 +12,7 @@ def _get(params: Dict, sleep_sec: float = 0.1) -> Dict:
             data = r.json()
             if "error" in data:
                 raise RuntimeError(data["error"])
-            # ritmo para no abusar del endpoint
-            import time; time.sleep(sleep_sec)
+            # 
             return data
         except Exception:
             if attempt == 4:

@@ -10,7 +10,7 @@ from .wikidata_api import (
     wbgetentities, extract_bnf_id, extract_label, is_disambiguation,
     get_p31_ids, expand_p279_paths, _claim_ids
 )
-from .wikidata_api import wbgetentities as _wbget  # alias explícito
+from .wikidata_api import wbgetentities as _wbget  # explicit alias
 from .wikidata_api import _claim_ids as claim_ids
 from .wikidata_api import extract_label as get_label
 from .wikidata_api import extract_bnf_id as get_bnf
@@ -18,13 +18,14 @@ from .wikidata_api import wbgetentities as fetch_entities
 from .wikidata_api import _claim_ids as get_claim_ids
 from .wikidata_api import wbgetentities as get_entities
 from .wikidata_api import _claim_ids as claim_ids_util
-from .wikidata_api import wbgetentities as entities_fetcher  # (opcionales, pero dejan claro que es el mismo)
+from .wikidata_api import wbgetentities as entities_fetcher  # optional, just clarifies aliasing
 
 def _split_keywords(raw: str) -> List[str]:
+    """Split keywords separated by commas or semicolons."""
     return [k.strip() for k in re.split(r"[;,]", raw) if k.strip()]
 
 def get_labels_for(qids: List[str], languages: List[str] = None) -> Dict[str, str]:
-    # versión ligera para CSV
+    """Lightweight version to retrieve labels for QIDs (used for CSV output)."""
     languages = languages or config.LANGS
     entities = _wbget(qids, languages)
     labels = {}
@@ -32,11 +33,13 @@ def get_labels_for(qids: List[str], languages: List[str] = None) -> Dict[str, st
         lab = None
         for lg in languages:
             if "labels" in ent and lg in ent["labels"]:
-                lab = ent["labels"][lg]["value"]; break
+                lab = ent["labels"][lg]["value"]
+                break
         labels[q] = lab or q
     return labels
 
 def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
+    """Map HAL keywords to Wikidata QIDs, create Neo4j nodes, and prepare CSV rows."""
     rows = []
     seen_pairs = set()
 
@@ -50,7 +53,7 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
         if not keywords and rec.get("keywords_joined"):
             keywords = _split_keywords(rec["keywords_joined"])
 
-        print(f"\n--- Procesando Documento {docid} con {len(keywords)} keywords ---")
+        print(f"\n--- Processing Document {docid} with {len(keywords)} keywords ---")
 
         for kw in keywords:
             if (docid, kw) in seen_pairs:
@@ -66,6 +69,7 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
             p31_labels_out = ""
             p279_paths_labels: List[str] = []
 
+            # Try to find the best Wikidata match for the keyword
             cand = pick_with_context_then_exact(kw, context)
 
             if cand:
@@ -80,31 +84,35 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                         best_sim = cand.get("label_similarity", 0.0)
                         best_score = cand.get("match_score", 0.0)
 
-                        # P31
+                        # P31 (instance of)
                         p31s_out = get_p31_ids(ent)
                         p31_labels = get_labels_for(list(p31s_out)) if p31s_out else {}
                         p31_labels_out = ";".join(p31_labels.get(x, x) for x in p31s_out)
 
-                        # Neo4j: P31
+                        # Neo4j: insert P31 relationships
                         ingest_p31_types(neo4j_conn, qid, p31s_out, p31_labels)
 
-                        # P279
+                        # P279 (subclass of)
                         direct_p279 = claim_ids(ent, config.P_SUBCLASS_OF)
                         if direct_p279:
-                            qid_paths = expand_p279_paths(direct_p279, config.MAX_LEVELS_LINEAGE, config.LANGS)
+                            qid_paths = expand_p279_paths(
+                                direct_p279,
+                                config.MAX_LEVELS_LINEAGE,
+                                config.LANGS
+                            )
 
-                            # Neo4j: P279
+                            # Neo4j: insert P279 hierarchy
                             ingest_p279_hierarchy(neo4j_conn, qid, label, qid_paths)
 
-                            # CSV: etiquetas
+                            # CSV: collect subclass labels
                             for qpath in qid_paths:
                                 labs = get_labels_for(qpath, config.LANGS)
                                 p279_paths_labels.append(" > ".join(labs.get(q, q) for q in qpath))
 
-                        # Neo4j: mapeo Documento-Keyword-Item
+                        # Neo4j: create Document–Keyword–Item mapping
                         ingest_document_map(neo4j_conn, docid, kw, qid)
 
-            # CSV (replicar por cada camino P279; si no hubo QID, una fila vacía)
+            # CSV (replicate for each P279 path; if no QID, create an empty row)
             paths = p279_paths_labels or [""] if qid else [""]
             for path_text in paths:
                 rows.append({
@@ -121,13 +129,13 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
     return rows
 
 def write_csv(rows: List[Dict], out_path):
+    """Write the mapping results to a CSV file."""
     fieldnames = [
         "docid", "title", "keyword", "wikidata_label", "wikidata_qid",
         "bnf_id", "p279_path", "retry_source", "match_stage", "is_disambiguation",
         "label_similarity", "match_score", "p31_types", "p31_label"
     ]
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    import csv
     with open(out_path, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

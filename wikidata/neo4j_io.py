@@ -2,27 +2,31 @@ from typing import Dict, Optional, List, Set
 from neo4j import GraphDatabase, Driver, WRITE_ACCESS
 
 class Neo4jConnector:
-    """Gestión de conexión y transacciones con Neo4j."""
+    """Manages connection and transactions with Neo4j."""
     def __init__(self, uri: str, user: str, password: str):
         self.driver: Driver = GraphDatabase.driver(uri, auth=(user, password))
 
     def close(self):
+        """Close the Neo4j connection."""
         self.driver.close()
 
     def run_query(self, query: str, parameters: Optional[Dict] = None):
+        """Execute a Cypher query with optional parameters using write access."""
         with self.driver.session(default_access_mode=WRITE_ACCESS) as session:
             try:
                 result = session.execute_write(self._execute_query, query, parameters)
                 return result
             except Exception as e:
-                print(f"Error al ejecutar Cypher: {e}\nConsulta: {query}\nParámetros: {parameters}")
+                print(f"Error executing Cypher query: {e}\nQuery: {query}\nParameters: {parameters}")
                 return None
 
     @staticmethod
     def _execute_query(tx, query, parameters):
+        """Internal helper to run a query within a transaction."""
         return tx.run(query, parameters).consume()
 
 def ingest_p279_hierarchy(connector: Neo4jConnector, entity_qid: str, entity_label: str, qid_paths: List[List[str]]):
+    """Insert subclass hierarchy (P279) relationships into Neo4j."""
     connector.run_query("""
         MERGE (e:Item {qid: $qid})
         SET e.label = $label
@@ -41,6 +45,7 @@ def ingest_p279_hierarchy(connector: Neo4jConnector, entity_qid: str, entity_lab
             current_child_qid = parent_qid
 
 def ingest_document_map(connector: Neo4jConnector, docid: str, keyword: str, qid: str):
+    """Insert mapping between document, keyword, and Wikidata entity into Neo4j."""
     connector.run_query("""
         MERGE (d:Document {id: $docid})
         MERGE (k:Keyword {name: $keyword})
@@ -50,6 +55,7 @@ def ingest_document_map(connector: Neo4jConnector, docid: str, keyword: str, qid
     """, {"docid": docid, "keyword": keyword, "qid": qid})
 
 def ingest_p31_types(connector: Neo4jConnector, entity_qid: str, p31_ids: Set[str], p31_labels: Dict[str, str]):
+    """Insert 'instance of' (P31) relationships for a given entity."""
     for p31_qid in p31_ids:
         label = p31_labels.get(p31_qid, p31_qid)
         connector.run_query("""
