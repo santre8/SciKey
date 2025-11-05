@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Django: runserver (.venv)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/manage.py",
+      "args": ["runserver", "0.0.0.0:8000"],
+      "django": true,
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "env": {
+        "DJANGO_SETTINGS_MODULE": "neo4j_keywords.settings",
+        "NEOMODEL_NEO4J_BOLT_URL": "bolt://neo4j:test@localhost:7687"
+      }
+    }
+  ]
+}

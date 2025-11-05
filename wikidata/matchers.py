@@ -4,7 +4,7 @@ from .utils import normalize_kw, singularize_en
 from .scoring import label_similarity, total_score
 from .wikidata_api import (
     wbsearchentities, wbsearch_label_only, wbgetentities,
-    get_p31_ids
+    get_p31_ids, _claim_ids
 )
 
 def _type_bonus_or_block(p31s: set) -> (bool, float):
@@ -25,6 +25,8 @@ def pick_exact_label_only(keyword: str) -> Optional[Dict]:
             if lbl in targets:
                 qid = h.get("id")
                 ent = wbgetentities([qid]).get(qid, {})
+                if not _is_semantically_valid(ent):
+                    continue
                 p31s = get_p31_ids(ent)
                 block, type_bonus = _type_bonus_or_block(p31s)
                 if block:
@@ -68,6 +70,8 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
         candidates = []
         for c in raw:
             ent = ents.get(c["id"], {})
+            if not _is_semantically_valid(ent):
+                continue
             p31s = get_p31_ids(ent)
             block, type_bonus = _type_bonus_or_block(p31s)
             if block:
@@ -95,3 +99,20 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
                 return top
 
     return pick_exact_label_only(keyword)
+
+def _is_semantically_valid(entity: Dict) -> bool:
+    """
+    We consider an entity 'valid' if it:
+    - has a P31 or P279 property (some type or superclass), and
+    - includes either a description or aliases (indicating it’s not an empty stub),
+    - and is not a disambiguation page (already covered by DISALLOWED_P31 if included).
+    """
+    if not entity:
+        return False
+
+    claims = entity.get("claims", {})
+    has_p31 = bool(claims.get(config.P_INSTANCE_OF))
+    has_p279 = bool(claims.get(config.P_SUBCLASS_OF))
+    has_desc = bool(entity.get("descriptions"))
+    has_alias = bool(entity.get("aliases"))
+    return (has_p31 or has_p279) and (has_desc or has_alias)

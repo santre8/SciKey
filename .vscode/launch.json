@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Django",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/neo4j-keywords/manage.py",
+      "python": "${workspaceFolder}/neo4j-keywords/.venv/Scripts/python.exe",
+      "args": [
+        "runserver",
+        "8000"
+      ],
+      "django": true,
+      "jinja": true,
+      "justMyCode": false
+    }
+  ]
+}

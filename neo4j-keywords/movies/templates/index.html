@@ -18,7 +18,7 @@
                     <li>
                         <form role="search" class="navbar-form" id="search">
                             <div class="form-group">
-                                <input type="text" value="Matrix" placeholder="Search for Movie Title" class="form-control" name="search">
+                                <input type="text" value="" placeholder="Search for Movie Title" class="form-control" name="search">
                             </div>
                             <button class="btn btn-default" type="submit">Search</button>
                         </form>
@@ -46,9 +46,9 @@
             <table id="results" class="table table-striped table-hover">
                 <thead>
                 <tr>
-                    <th>Movie</th>
-                    <th>Released</th>
-                    <th>Tagline</th>
+                    <th>DOCID</th>
+                    <!-- <th>Released</th>
+                    <th>Tagline</th> -->
                 </tr>
                 </thead>
                 <tbody>
@@ -103,7 +103,10 @@
                         const t = $("table#results tbody").empty();
                         if (!data || data.length == 0) return;
                         data.forEach(function (movie) {
-                            $("<tr><td class='movie'>" + movie.title + "</td><td>" + movie.released + "</td><td>" + movie.tagline + "</td></tr>").appendTo(t)
+                            $("<tr><td class='movie'>" + movie.id + 
+                                "</td>"
+                                // +"<td>" + movie.released + "</td><td>" + movie.tagline + "</td>"
+                                +"</tr>").appendTo(t)
                                     .click(function() { showMovie($(this).find("td.movie").text());})
                         });
                         showMovie(data[0].title);
