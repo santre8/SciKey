@@ -10,3 +10,13 @@ api/__pycache__/apimodule.cpython-313.pyc
 
 api/__pycache__/main.cpython-313.pyc
 wikidata/hal_field_audit_out/Wikidata_upec_chemical_20_v2.csv
+api/data/upec_chemical_20_domain.json
+api/data/upec_chemical_20.json
+api/data/upec_chemical_20.json
+wikidata/hal_field_audit_out/~$Wikidata_upec_Checked.xlsx
+wikidata/__pycache__/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

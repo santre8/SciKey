@@ -1,8 +1,8 @@
 from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
-INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_20_5.json")
-OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_chemical_20_5.csv")
+INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_20.json")
+OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_chemical_20.csv")
 
 # =============== NEO4J CONFIGURATION =================
 NEO4J_URI = "bolt://127.0.0.1:7687"
@@ -27,5 +27,27 @@ P_BNF_ID = "P268"
 Q_DISAMBIGUATION = "Q4167410"
 
 # P31 filters
-DISALLOWED_P31 = { "Q13442814", "Q571", "Q1002697", "Q737498", "Q732577", "Q47461344" }
+DISALLOWED_P31 = {
+    "Q13442814",  # scholarly article
+    "Q571",       # book
+    "Q1002697",   # written work
+    "Q737498",    # document
+    "Q47461344",  # written work (broad)
+    "Q732577",    # publication
+    #"Q5",         # human
+    "Q215627",    # person
+    "Q43229",     # organization
+    "Q1656682",   # company
+    "Q4830453",   # business
+    "Q17334923",  # research project
+    "Q1371598",   # software
+    "Q35127",     # website
+    #"Q101352",    # university
+    #"Q3918",      # educational institution
+    "Q95074",     # award
+    "Q4167410",   # Wikidata disambiguation page
+    "Q4167836",   # Wikimedia category
+    "Q24046192"   # academic journal article
+}
+
 PREFERRED_P31  = { "Q486972", "Q618123", "Q82794", "Q16889133", "Q151885", "Q11173", "Q11862829", "Q7187", "Q16521" }
