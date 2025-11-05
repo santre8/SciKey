@@ -22,7 +22,10 @@ docker compose down --rmi all --volumes
 docker rm -f mysql-container-scikey && docker rmi scikey-mysql-db
 ```
 
-
+verificar si esta activo 
+```sh
+docker ps --filter name=neo4j
+```
 ##  project structur scaffoldingh 
 modulos 
 

@@ -7,32 +7,22 @@ def movies_index(request):
     documents = Document.nodes.all()
     return render(request, "index.html", {"movies": documents})
 
-
 def graph(request):
     docid = request.GET.get("docid", "1006198")
-    stats = ingest_doc_graph(docid)
-    return JsonResponse(stats)
-
-
+    graph_payload = ingest_doc_graph(docid)
+    return JsonResponse(graph_payload)  # ahora devuelve nodes/links (+ stats)
 
 def search(request):
-    # pass
     try:
         q = request.GET["q"]
     except KeyError:
-        return JsonResponse([])
-
-    documents = documents = Document.nodes.filter(docid__icontains=q)
+        return JsonResponse([], safe=False)
+    documents = Document.nodes.filter(docid__icontains=q)
     return JsonResponse(
-        [
-            {
-                "id": doc.docid,
-             
-            }
-            for doc in documents
-        ],
+        [{"id": doc.docid} for doc in documents],
         safe=False,
     )
+
 
 
 # def serialize_cast(person, job, rel=None):
