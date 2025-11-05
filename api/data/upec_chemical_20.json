@@ -7,10 +7,6 @@
     "keywords_joined":"3D numerical simulations; CVD; Convective instability; Design of experiments; Harmonic inlet excitation; Mixed convection; Poiseuille-Rayleigh-Bénard flow; Rectangular channel",
     "domain_codes":"phys.meca.mefl; spi.meca.mefl",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "phys.meca.mefl_FacetSep_Physics [physics]\/Mechanics [physics]\/Fluid mechanics [physics.class-ph]",
-      "spi.meca.mefl_FacetSep_Engineering Sciences [physics]\/Mechanics [physics.med-ph]\/Fluids mechanics [physics.class-ph]"
-    ],
     "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
@@ -50,9 +46,6 @@
     "keywords_joined":"Combination of techniques; Corrosion; Ni-MH batteries; Raman micro spectroscopy; TEM",
     "domain_codes":"chim.othe",
     "discipline":"Chemical Engineering",
-    "en_domainAllCodeLabel_fs":[
-      "chim.othe_FacetSep_Chemical Sciences\/Other"
-    ],
     "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
     "authOrganismId_i":null,
     "authFirstName_s":[
