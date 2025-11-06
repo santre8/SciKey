@@ -39,6 +39,7 @@ DISALLOWED_P31 = {
     "Q43229",     # organization
     "Q1656682",   # company
     "Q4830453",   # business
+    "Q167037",      # corporation
     "Q17334923",  # research project
     "Q1371598",   # software
     "Q35127",     # website
