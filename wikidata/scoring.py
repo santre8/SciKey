@@ -36,11 +36,11 @@ def total_score(keyword: str, context: str, ent_like: Dict, allow_exact_bonus: b
     kw_norm = normalize_kw(keyword).lower()
     kw_sing = singularize_en(kw_norm).lower()
     exact = (lbl == kw_norm) or (lbl == kw_sing)
-    exact_bonus = 8.0 if (allow_exact_bonus and exact) else 0.0  # ↓ reduced from 50 → 8
+    exact_bonus = 2.0 if (allow_exact_bonus and exact) else 0.0  # ↓ reduced from 50 → 8
 
     # — Weighting: context > label
     ctx_sim = _context_similarity(context, ent_like)          # 0..100
     lbl_sim = label_similarity(keyword, ent_like)             # 0..100
 
     # — Final score (adjust if needed)
-    return 1.6 * ctx_sim + 0.6 * lbl_sim + exact_bonus
+    return 2.5 * ctx_sim + 0.4 * lbl_sim + exact_bonus

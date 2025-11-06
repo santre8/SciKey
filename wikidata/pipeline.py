@@ -93,23 +93,28 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                         if neo4j_conn and config.ENABLE_NEO4J_INGEST:
                             ingest_p31_types(neo4j_conn, qid, p31s_out, p31_labels)
 
-                        # P279 (subclass of)
-                        direct_p279 = claim_ids(ent, config.P_SUBCLASS_OF)
-                        if direct_p279:
-                            qid_paths = expand_p279_paths(
-                                direct_p279,
-                                config.MAX_LEVELS_LINEAGE,
-                                config.LANGS
-                            )
+                        # P279 (subclass of) – optional for speed
+                        p279_paths_labels = []
+                        if config.ENABLE_P279_PATHS:
+                            direct_p279 = claim_ids(ent, config.P_SUBCLASS_OF)
+                            if direct_p279:
+                                qid_paths = expand_p279_paths(
+                                    direct_p279,
+                                    config.MAX_LEVELS_LINEAGE,
+                                    config.LANGS
+                                )
 
-                            # Neo4j: insert P279 hierarchy
-                            if neo4j_conn and config.ENABLE_NEO4J_INGEST:
-                                ingest_p279_hierarchy(neo4j_conn, qid, label, qid_paths)
+                                # Neo4j: insert P279 hierarchy
+                                if neo4j_conn and config.ENABLE_NEO4J_INGEST:
+                                    ingest_p279_hierarchy(neo4j_conn, qid, label, qid_paths)
 
-                            # CSV: collect subclass labels
-                            for qpath in qid_paths:
-                                labs = get_labels_for(qpath, config.LANGS)
-                                p279_paths_labels.append(" > ".join(labs.get(q, q) for q in qpath))
+                                # CSV: collect subclass labels
+                                for qpath in qid_paths:
+                                    labs = get_labels_for(qpath, config.LANGS)
+                                    p279_paths_labels.append(" > ".join(labs.get(q, q) for q in qpath))
+                        else:
+                            # skip hierarchy expansion for faster runs
+                            p279_paths_labels = [""]
 
                         # Neo4j: create Document–Keyword–Item mapping
                         if neo4j_conn and config.ENABLE_NEO4J_INGEST:

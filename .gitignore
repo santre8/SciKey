@@ -20,3 +20,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+wikidata/hal_field_audit_out/Wikidata_upec_chemical_20_rev1.xlsx
+wikidata/hal_field_audit_out/Wikidata_upec_chemical_20.csv
+wikidata/hal_field_audit_out/Wikidata_upec_chemical_20.csv
+wikidata/hal_field_audit_out/Wikidata_upec_Checked.xlsx
+wikidata/hal_field_audit_out/~$Wikidata_upec_chemical_20_rev1.xlsx

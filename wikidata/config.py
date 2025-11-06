@@ -23,6 +23,8 @@ SEARCH_LIMIT = 50
 #====================Neo4j================
 ENABLE_NEO4J_INGEST = False  # <- set it to True only when you actually want to load into Neo4j
 
+# =============== PERFORMANCE OPTIONS =================
+ENABLE_P279_PATHS = False  # Set to True when you want to generate full subclass paths
 
 # Properties and QIDs
 P_INSTANCE_OF = "P31"
@@ -63,6 +65,7 @@ DISALLOWED_P31 = {
     "Q7366",      # song
     "Q11424",     # film
     "Q15416",     # television series
+    "Q21191270"     #television series episode
 
 }
 
