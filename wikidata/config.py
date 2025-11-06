@@ -20,6 +20,10 @@ MIN_TOTAL_SCORE = 30
 MAX_LEVELS_LINEAGE = 5
 SEARCH_LIMIT = 50
 
+#====================Neo4j================
+ENABLE_NEO4J_INGEST = False  # <- set it to True only when you actually want to load into Neo4j
+
+
 # Properties and QIDs
 P_INSTANCE_OF = "P31"
 P_SUBCLASS_OF = "P279"

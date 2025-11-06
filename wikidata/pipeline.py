@@ -90,7 +90,8 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                         p31_labels_out = ";".join(p31_labels.get(x, x) for x in p31s_out)
 
                         # Neo4j: insert P31 relationships
-                        ingest_p31_types(neo4j_conn, qid, p31s_out, p31_labels)
+                        if neo4j_conn and config.ENABLE_NEO4J_INGEST:
+                            ingest_p31_types(neo4j_conn, qid, p31s_out, p31_labels)
 
                         # P279 (subclass of)
                         direct_p279 = claim_ids(ent, config.P_SUBCLASS_OF)
@@ -102,7 +103,8 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                             )
 
                             # Neo4j: insert P279 hierarchy
-                            ingest_p279_hierarchy(neo4j_conn, qid, label, qid_paths)
+                            if neo4j_conn and config.ENABLE_NEO4J_INGEST:
+                                ingest_p279_hierarchy(neo4j_conn, qid, label, qid_paths)
 
                             # CSV: collect subclass labels
                             for qpath in qid_paths:
@@ -110,7 +112,8 @@ def map_keywords(records: List[Dict], neo4j_conn: Neo4jConnector) -> List[Dict]:
                                 p279_paths_labels.append(" > ".join(labs.get(q, q) for q in qpath))
 
                         # Neo4j: create Document–Keyword–Item mapping
-                        ingest_document_map(neo4j_conn, docid, kw, qid)
+                        if neo4j_conn and config.ENABLE_NEO4J_INGEST:
+                            ingest_document_map(neo4j_conn, docid, kw, qid)
 
             # CSV (replicate for each P279 path; if no QID, create an empty row)
             paths = p279_paths_labels or [""] if qid else [""]
