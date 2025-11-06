@@ -47,10 +47,18 @@ DISALLOWED_P31 = {
     "Q95074",     # award
     "Q4167410",   # Wikidata disambiguation page
     "Q4167836",   # Wikimedia category
-    "Q24046192"   # academic journal article
-    "Q41298"       # magazine
-    "Q5633421"      #scientific journal
-    "Q1980247"      #chapter
+    "Q24046192",   # academic journal article
+    "Q41298",       # magazine
+    "Q5633421",      #scientific journal
+    "Q1980247",      #chapter
+    
+    # --- Media / entertainment (to avoid false positives) ---
+    "Q169930",    # extended play (EP)
+    "Q482994",    # album
+    "Q7366",      # song
+    "Q11424",     # film
+    "Q15416",     # television series
+
 }
 
 PREFERRED_P31  = { "Q486972", "Q618123", "Q82794", "Q16889133", "Q151885", "Q11173", "Q11862829", "Q7187", "Q16521" }
