@@ -47,7 +47,7 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
     terms = [keyword]; kw_sing = singularize_en(keyword)
     if kw_sing != keyword:
         terms.append(kw_sing)
-
+    
     raw, seen = [], set()
     for term in terms:
         for lg in config.LANGS:
@@ -84,6 +84,13 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
             candidates.append(c)
 
         if candidates:
+            # --- AGREGAR ESTE BLOQUE PARA DEBUGGING ---
+            if keyword == "Glucose oxidase":
+                print(f"\n--- DEBUG: Candidates for '{keyword}' ---")
+                for c in candidates:
+                    print(f"  QID: {c['id']} | Label: {c['label']:<30} | Score: {c['match_score']:.1f} | Sim: {c['label_similarity']:.1f} | Lang: {c['language']}")
+                print("-------------------------------------------\n")
+            # ------------------------------------------
             # order: score, similarity, preference of defined languages
             candidates.sort(
                 key=lambda c: (

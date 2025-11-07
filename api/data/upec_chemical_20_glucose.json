@@ -1,0 +1,71 @@
+[
+    {
+    "docid":"1083007",
+    "halId_s":"hal-01083007",
+    "title_s":"Problems in Adapting a Glucose-Oxidase Electrochemical Sensor into an Implantable Glucose-Sensing Device",
+    "abstract_s":"Taking into account the analytic patterns of different types of glucose-oxidase electrochemical sensors, the specific problems which have to be solved for such a sensor to be implantable are outlined. Of partic-ular interest is the lifetime of enzymatic membrane and the dependence of the sensor responses to oxygen concentration and hydrodynamics.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase; Implantable sensor",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083007",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Implantable sensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  },
+  {
+    "docid":"1083014",
+    "halId_s":"hal-01083014",
+    "title_s":"A glucose electrode using high-stability glucose-oxidase collagen membranes",
+    "abstract_s":"A very sensitive glucose electrode was developed using a glucose-oxidase membrane and an anodically polarized platinum disk. Calibration curves were linear over 4.5 concentration decades. It was adapted for human blood samples. The lifetime of glucose-oxidase collagen membranes was greater than 3 yr at 4°C and was ~ 6 month at 20-30°C.",
+    "keywords_joined":"Electrochemical biosensor; Glucose; Glucose oxidase",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083014",
+    "authOrganismId_i":null,
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre"
+    ],
+    "authFirstName_sci":null,
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet"
+    ],
+    "authLastName_sci":null,
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "authOrganism_s":null,
+    "authorityInstitution_s":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Glucose",
+      "Glucose oxidase"
+    ],
+    "keyword_sci":null,
+    "keyword_t":null
+  }
+ ]

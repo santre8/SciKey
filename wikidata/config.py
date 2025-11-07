@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
-INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_20.json")
+INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_20_glucose.json")
 OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_chemical_20.csv")
 
 # =============== NEO4J CONFIGURATION =================
@@ -69,4 +69,13 @@ DISALLOWED_P31 = {
 
 }
 
-PREFERRED_P31  = { "Q486972", "Q618123", "Q82794", "Q16889133", "Q151885", "Q11173", "Q11862829", "Q7187", "Q16521" }
+PREFERRED_P31  = { #"Q486972", #human settlement 
+                   #"Q618123", #geographical feature
+                   #"Q82794", #region
+                   "Q16889133", # class
+                   "Q151885", # concept 
+                   "Q11173", # chemical compound
+                   "Q11862829", # academic discipline
+                   #"Q7187", # gene
+                   # "Q16521" #taxon 
+                    }
