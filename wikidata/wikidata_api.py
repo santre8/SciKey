@@ -52,7 +52,7 @@ def wbgetentities(ids: List[str], languages: List[str] = None) -> Dict:
         data = _get({
             "action": "wbgetentities",
             "ids": "|".join(batch),
-            "props": "labels|descriptions|aliases|claims",
+            "props": "labels|descriptions|aliases|claims|sitelinks",
             "languages": "|".join(languages),
             "languagefallback": 1,
         }, sleep_sec=0.05)

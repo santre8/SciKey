@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
-INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_20_glucose.json")
+INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_chemical_4.json")
 OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_chemical_20.csv")
 
 # =============== NEO4J CONFIGURATION =================
@@ -75,7 +75,10 @@ PREFERRED_P31  = { #"Q486972", #human settlement
                    "Q16889133", # class
                    "Q151885", # concept 
                    "Q11173", # chemical compound
-                   "Q11862829", # academic discipline
+                   #"Q11862829", # academic discipline
                    #"Q7187", # gene
                    # "Q16521" #taxon 
                     }
+# =============== DEBUG =================
+DEBUG_SCORES = True
+DEBUG_SCORES_PATH = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores.csv")  # cambia la ruta si quieres
