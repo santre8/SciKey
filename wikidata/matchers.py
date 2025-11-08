@@ -4,7 +4,7 @@ from .utils import normalize_kw, singularize_en
 from .scoring import label_similarity, total_score
 from .wikidata_api import (
     wbsearchentities, wbsearch_label_only, wbgetentities,
-    get_p31_ids, _claim_ids
+    get_p31_ids, _claim_ids, get_p101_ids
 )
 from .utils import normalize_kw
 import math
@@ -75,6 +75,11 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
             if not _is_semantically_valid(ent):
                 continue
             p31s = get_p31_ids(ent)
+            p101s = get_p101_ids(ent)   # ← NUEVO
+
+            c["__p31s"] = p31s
+            c["__p101s"] = p101s   # ← NUEVO
+            
             block, type_bonus = _type_bonus_or_block(p31s)
             if block:
                 continue
@@ -109,7 +114,7 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
             c["match_score"] = score
             c["__base_score"] = base_score
             c["__type_bonus"] = type_bonus
-            c["__p31s"] = p31s
+
             candidates.append(c)
 
         # #DEBUG-----------

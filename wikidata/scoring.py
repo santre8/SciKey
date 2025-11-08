@@ -4,10 +4,12 @@ from .utils import normalize_kw, tokenize, singularize_en
 import math
 from . import config
 from pathlib import Path
+import os
 import csv
 from .utils import tokenize, normalize_kw
 
 _DEBUG_HEADER_WRITTEN = False
+
 
 def _debug_log_score(row: list):
     """Append one debug row if DEBUG_SCORES is enabled."""
@@ -15,6 +17,12 @@ def _debug_log_score(row: list):
     if not getattr(config, "DEBUG_SCORES", False):
         return
     path = getattr(config, "DEBUG_SCORES_PATH", Path("debug_scores.csv"))
+
+    # --- NUEVO: borrar archivo si existe en la primera llamada ---
+    if not hasattr(_debug_log_score, "_cleared"):
+        if path.exists():
+            os.remove(path)
+        _debug_log_score._cleared = True
     write_header = (not path.exists()) and (not _DEBUG_HEADER_WRITTEN)
 
     with open(path, "a", encoding="utf-8", newline="") as f:
@@ -22,7 +30,8 @@ def _debug_log_score(row: list):
         if write_header:
             w.writerow([
                 "kw_norm","qid","label","ctx_sim","lbl_sim","canon",
-                "alias_exact_flag","penalty","exact_bonus","alias_bonus","total"
+                "alias_exact_flag","penalty","exact_bonus","alias_bonus","total",
+                "p31_ids","p101_ids","p31_cnt", "p101_cnt"     # ← NUEVO
             ])
             _DEBUG_HEADER_WRITTEN = True
         w.writerow(row)
@@ -131,6 +140,10 @@ def total_score(keyword: str, context: str, ent_like: Dict, allow_exact_bonus: b
     # ... luego compón el total usando estos pesos
     total = ctx_w * ctx_sim + lbl_w * lbl_sim + exact_w * exact_bonus + alias_w * alias_bonus + canon_w * canon - penalty
 
+    p31_ids  = sorted(list(ent_like.get("__p31s", [])))
+    p101_ids = sorted(list(ent_like.get("__p101s", [])))
+    p31_cnt = len(p31_ids)
+    p101_cnt = len(p101_ids)
 
     qid = ent_like.get("id", "")  # suele venir en el cand
     _debug_log_score([
@@ -144,7 +157,11 @@ def total_score(keyword: str, context: str, ent_like: Dict, allow_exact_bonus: b
         round(penalty, 1),
         round(exact_bonus, 1),
         round(alias_bonus, 1),
-        round(total, 1)
+        round(total, 1),
+        ";".join(p31_ids),
+        ";".join(p101_ids),
+        p31_cnt,
+        p101_cnt,
     ])
 
     ent_like["__ctx_sim"] = ctx_sim

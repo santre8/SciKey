@@ -70,6 +70,9 @@ def _claim_ids(entity: Dict, pid: str) -> List[str]:
 def get_p31_ids(entity: Dict) -> set:
     return set(_claim_ids(entity, config.P_INSTANCE_OF))
 
+def get_p101_ids(entity: Dict) -> set:
+    return set(_claim_ids(entity, config.P_FIELD_OF_WORK))
+
 def expand_p279_paths(start_parents: List[str], max_levels: int, languages: List[str]) -> List[List[str]]:
     if not start_parents:
         return []

@@ -1,323 +1,320 @@
-kw_norm,qid,label,ctx_sim,lbl_sim,canon,alias_exact_flag,penalty,exact_bonus,alias_bonus,total
-mixed convection,Q97612642,mixed-convection instabilities in chemical vapor deposition reactors,65.9,35.7,0,FALSE,6,0,0,140.1
-convective instability,Q3268911,convective instability,35.1,100,8.7,FALSE,0,1,0,137.1
-mixed convection,Q97612642,mixed-convection instabilities in chemical vapor deposition reactors,65.9,35.7,0,FALSE,6,0,0,140.1
-convective instability,Q3268911,convective instability,35.1,100,8.7,FALSE,0,1,0,137.1
-cvd,Q389735,cardiovascular disease,35.3,100,15.9,TRUE,0,0,1,99.3
-cvd,Q505668,chemical vapor deposition,71.4,100,13.1,TRUE,0,0,1,144.3
-cvd,Q17928815,flna,19,85.7,8.4,FALSE,3,0,0,94.6
-cvd,Q5692507,heart valve dysplasia,5.4,85.7,7.8,FALSE,6,0,0,62.4
-cvd,Q18030587,pld1,19,85.7,6.5,FALSE,3,0,0,88.7
-cvd,Q102459691,cardiovascular digital health journal,6.5,40,0,FALSE,6,0,0,23.1
-cvd,Q55118269,cardiovascular disease ontology,4.8,85.7,0,FALSE,6,0,0,38
-cvd,Q65391441,cvd 909 vi prime boost study,13,19.4,0,FALSE,6,0,0,27.8
-cvd,Q100262880,clean vehicles directive,10.2,100,2.2,TRUE,0,0,1,56.8
-cvd,Q63394690,cvd nutrition education for low literacy esl students,27.8,10.7,0,FALSE,6,0,0,54
-cvd,Q66065283,cvd 37000: immunity and microbiome studies at intestinal and systemic sites in ty21a vaccinated adults,20.6,5.7,0,FALSE,6,0,0,37.6
-cvd,Q63599804,cvd 38000: study of responses to vaccination with typhoid and/or cholera,38.9,8,0,FALSE,6,0,0,75
-cvd,Q62054033,cvd nutrition education,14.6,23.1,0,FALSE,6,0,0,32.5
-cvd,Q65382839,cvd risk reduction trial,16.7,22.2,0,FALSE,6,0,0,36.2
-cvd,Q96052471,cockpit voice and data recorder,15.4,85.7,2,FALSE,6,0,0,65.1
-cvd,Q63805151,cvd risk factor knowledge across age groups,9.8,13,0,FALSE,6,0,0,18.9
-cvd,Q66061699,cvd risk and health in postmenopausal phytoestrogen users,24.4,10,0,FALSE,6,0,0,46.8
-cvd,Q97615288,cvd techniques for the synthesis or modification of porous ceramics,31.9,8.6,0,FALSE,6,0,0,61.2
-cvd,Q130882675,cardiovascular diseases research institute,9.4,75,0,FALSE,6,0,0,42.9
-cvd,Q126392607,cvd coated cutting tool,13.3,23.1,0,FALSE,6,0,0,29.9
-cvd,Q126392874,cvd coated cutting tool,13.3,23.1,0,FALSE,6,0,0,29.9
-cvd,Q66036763,cvd risk factors and sexual identity in women,28.6,12.5,0,FALSE,6,0,0,56.1
-cvd,Q106641023,cvd-0013943,43.2,42.9,2,FALSE,3,0,0,106.7
-cvd,Q105699400,computer vision meets databases,7.2,85.7,0,FALSE,6,0,0,42.6
-cvd,Q66060160,cvd nutrition modules tailored to low literacy skills,25.6,10.7,0,FALSE,6,0,0,49.6
-cvd,Q559486,cycle de développement,15.9,85.7,12.6,FALSE,6,0,0,97.8
-cvd,Q188722,cqfd,9.2,100,12.4,TRUE,0,0,1,62.9
-cvd,Q105427364,king's commissioner of drenthe,9.8,31.6,2,FALSE,6,0,0,32.2
-cvd,Q2610633,commissariaat voor de media,4.3,85.7,3.5,FALSE,6,0,0,47.5
-cvd,Q27516596,king's commissioner of north holland,7.4,24,2,FALSE,6,0,0,24.4
-cvd,Q28530179,king's commissioner of gelderland,9.1,27.3,2,FALSE,6,0,0,29.1
-cvd,Q28801911,king's commissioner of limburg,9.8,31.6,2,FALSE,6,0,0,32.2
-cvd,Q105427365,king's commissioner of overijssel,9.1,27.3,2,FALSE,6,0,0,29.1
-cvd,Q27531658,king's commissioner of south holland,6.9,25,2,FALSE,6,0,0,23.8
-cvd,Q105427369,king's commissioner of north brabant,7.3,24,2,FALSE,6,0,0,24.2
-cvd,Q27650822,king's commissioner of utrecht,9.8,31.6,2,FALSE,6,0,0,32.2
-cvd,Q110599030,cimetière de vieux doulon,9.2,85.7,0,FALSE,6,0,0,46.7
-cvd,Q105427368,king's commissioner of zeeland,9.8,31.6,2,FALSE,6,0,0,32.2
-cvd,Q105427363,king's commissioner of friesland,9.3,28.6,2,FALSE,6,0,0,30.1
-cvd,Q105427362,commissaire du roi à groningue,6.3,28.6,2,FALSE,6,0,0,24
-cvd,Q105427367,commissaire du roi au flevoland,5.1,28.6,2,FALSE,6,0,0,21.6
-cvd,Q1068846,cheerleadervereinigung deutschland,9.5,100,2.2,TRUE,0,0,1,56
-cvd,Q104970676,cvdqdossutxmst-cywwhkobsa-n,5.3,20,2,FALSE,3,0,0,21.7
-cvd,Q104970674,cvdbemjtpgtiid-jfvxfanosa-n,36.7,20,2,FALSE,3,0,0,84.4
-cvd,Q104970678,cvdqdossutxmst-uhfffaoysa-n,37.7,20,2,FALSE,3,0,0,86.5
-cvd,Q104970677,cvdqdossutxmst-nhzfslkxsa-n,5.1,20,2,FALSE,3,0,0,21.2
-design of experiments,Q2334061,design of experiments,71.2,100,13,FALSE,0,1,0,222.4
-design of experiments,Q123751201,design of experiments for reliability achievement,56,60,0,FALSE,6,0,0,130
-design of experiments,Q136131533,design of experiments for locally weighted regression,44.6,56.8,0,FALSE,6,0,0,106
-corrosion,Q137056,corrosion,37.7,100,16.2,FALSE,0,1,0,165
-corrosion,Q111366900,corrosion inhibition,43.6,62.1,4.2,FALSE,3,0,0,121.7
-corrosion,Q51843949,ghs05: corrosion,30.6,100,0.1,TRUE,0,0,1,102.5
-corrosion,Q1135391,corrosion of conformity,39.3,56.2,9.8,FALSE,6,0,0,124.5
-corrosion,Q56737144,corrosion,52.9,100,0,FALSE,0,1,0,146.9
-corrosion,Q2468815,corrosion inhibitor,41.4,64.3,11.9,FALSE,3,0,0,141.1
-corrosion,Q1550776,korroziya metalla,38.6,66.7,7.1,FALSE,6,0,0,118.9
-corrosion,Q55830125,corrosion resistance,53,62.1,0,FALSE,3,0,0,127.9
-corrosion,Q5173034,corrosion fatigue,48.3,69.2,9.4,FALSE,3,0,0,149.4
-corrosion,Q13405532,anti-corrosion treatment,36.9,69.2,8.2,FALSE,6,0,0,120.3
-corrosion,Q3511129,corrosion engineering,35.3,60,6.2,FALSE,3,0,0,110.3
-corrosion,Q1469751,corrosion protection medium,27.2,50,2,FALSE,6,0,0,74.4
-corrosion,Q113131132,corrosion engineer,47.4,66.7,2,FALSE,3,0,0,124.4
-corrosion,Q101149215,corrosion of conformity's albums in chronological order,32.6,28.1,0,FALSE,6,0,0,70.5
-corrosion,Q65929600,corrosion test,55.2,78.3,4.2,FALSE,3,0,0,151.3
-corrosion,Q101149183,corrosion of conformity discography,46.2,40.9,0,FALSE,6,0,0,102.7
-corrosion,Q63368467,corrosion prediction in residual co2 streams: shifting the paradigm,32,23.7,0,FALSE,6,0,0,67.5
-corrosion,Q26377383,corrosion of commercial alloys in a chlorine-sulfur atmosphere at high temperatures,34.5,19.6,0,FALSE,6,0,0,70.9
-corrosion,Q26359712,corrosion studies in brines of the salton sea geothermal field,32.2,25.4,0,FALSE,6,0,0,68.5
-corrosion,Q56613802,corrosion processes and mechanisms in the presence of monoethylene glycol (meg),51.6,20.5,0,FALSE,6,0,0,105.3
-corrosion,Q26369592,corrosion in geothermal brines of the salton sea known geothermal resource area,34.5,20.5,0,FALSE,6,0,0,71.3
-corrosion,Q68749726,corrosion and environmental degradation ii,43.3,35.3,0,FALSE,6,0,0,94.8
-corrosion,Q58460224,corrosion and erosion-corrosion processes of metal matrix composites in slurry conditions for oilsands application,40.5,14.6,0,FALSE,6,0,0,80.8
-corrosion,Q97612918,corrosion fatigue of structural steel in seawater,48.1,31,0,FALSE,6,0,0,102.5
-corrosion,Q27219557,corrosion engineering,58.5,60,0,FALSE,3,0,0,138.1
-corrosion,Q56612978,corrosion and erosion-corrosion behaviour of lean duplex stainless steels in marine and oilfield environments,27.1,15.3,0,FALSE,6,0,0,54.4
-corrosion,Q112836283,corrosion fatigue of 2024-t4 aluminium alloy in contact with superphosphate fertilizer,29.3,18.9,0,FALSE,6,0,0,60.1
-corrosion,Q11743785,corrosion of metals,66.7,64.3,5.5,FALSE,6,0,0,169.6
-corrosion,Q16919268,corrosion under insulation,31,51.4,4.2,FALSE,6,0,0,89.2
-corrosion,Q5173030,corrosion in space,48.4,66.7,4.2,FALSE,6,0,0,130.1
-corrosion,Q12623189,corrosion science society of korea,52.2,41.9,2.2,FALSE,6,0,0,121.8
-corrosion,Q122761132,corrosion inhibitor composition and methods of inhibiting corrosion during acid pickling,38.3,18.6,0,FALSE,6,0,0,78.1
-corrosion,Q585977,corrosion sous contrainte,26.1,52.9,10.9,FALSE,6,0,0,100
-corrosion,Q1493450,corrosion à haute température,49,47.4,9.1,FALSE,6,0,0,138.1
-corrosion,Q1272537,corrosion des aciers dans le béton,23.3,41.9,7.4,FALSE,6,0,0,79.5
-corrosion,Q2367906,galvanic corrosion,36.4,66.7,12,FALSE,3,0,0,132.5
-corrosion,Q351261,eau d'alimentation de chaudière,28.6,100,9.7,TRUE,0,0,1,127.2
-corrosion,Q1417876,glass disease,16,62.1,9.7,FALSE,6,0,0,79.9
-corrosion,Q56614267,corrosion behaviour of x65 carbon steel under flowing conditions,25.5,24.7,0,FALSE,6,0,0,54.9
-corrosion,Q60349014,corrosion and tribo-corrosion behaviour of metallic orthopaedic implant materials,27.8,20,0,FALSE,6,0,0,57.7
-tem,Q29023906,temporary exhibition,25.8,26.1,6.5,FALSE,6,0,0,75.4
-tem,Q616667,temporal lobe epilepsy,9.8,24,11.4,FALSE,6,0,0,57.5
-tem,Q19887878,wikimedia infobox template,22.4,31.6,2,FALSE,6,0,0,57.6
-tem,Q877647,european route e80,10.3,100,11.7,TRUE,0,0,1,63.8
-tem,Q17911655,cyld,19.4,100,6.5,TRUE,0,0,1,71.9
-tem,Q744818,transmission electron microscope,12.6,100,12.9,TRUE,0,0,1,67.7
-tem,Q132931,buynaksk,24,31.6,13.3,FALSE,3,0,0,97.6
-tem,Q36531,tem,22.2,100,11.6,FALSE,0,1,0,120.3
-tem,Q21113782,tetraspanin-enriched microdomain,38.9,100,2,TRUE,0,0,1,94.1
-tem,Q1756116,temnora,15.4,60,8,FALSE,3,0,0,75.6
-tem,Q492419,fcr 2001 duisburg,13.5,20.7,9.6,FALSE,6,0,0,58.3
-tem,Q7698689,temple university beasley school of law,15.9,14.3,5.2,FALSE,6,0,0,47
-tem,Q110779037,transmission electron microscopy,14.1,100,9.4,TRUE,0,0,1,67.1
-tem,Q43018,temple of ephesian artemis,21.7,20.7,14.5,FALSE,6,0,0,89.3
-tem,Q6811189,template:infobox character,11.7,20.7,16.7,FALSE,6,0,0,75.7
-tem,Q5830052,template:infobox officeholder,12,18.8,18.2,FALSE,6,0,0,79.9
-tem,Q6919004,template:merge,8.9,35.3,17.6,FALSE,6,0,0,78.7
-tem,Q603255,percichthyidae,11.7,33.3,10.9,FALSE,3,0,0,66.4
-tem,Q739827,tém,4.6,66.7,7.4,FALSE,3,0,0,55.1
-tem,Q7444259,template:compact toc,10.3,26.1,16.2,FALSE,6,0,0,73.7
-tem,Q1053973,temptation,29.5,46.2,14,FALSE,3,0,0,116.6
-tem,Q19281,tem,9.5,100,8.7,FALSE,0,1,0,86
-tem,Q13384512,template:infobox lighthouse,11.9,20,12.8,FALSE,6,0,0,64.3
-tem,Q1517587,témiscouata,13.8,28.6,7.7,FALSE,3,0,0,59.1
-tem,Q999473,temora,25.5,66.7,8.2,FALSE,3,0,0,99.4
-tem,Q18047858,plxdc2,18.2,75,8.2,FALSE,3,0,0,88.1
-tem,Q5461410,template:wikisource,10.1,27.3,17.6,FALSE,6,0,0,77.7
-tem,Q14888544,temperature homeostasis,21.9,23.1,2,FALSE,6,0,0,53.1
-tem,Q68816637,temple,12.8,66.7,2.2,FALSE,3,0,0,55.9
-tem,Q6117427,template:multicol-end,10.6,25,15.8,FALSE,6,0,0,72.6
-tem,Q5547386,template:user de-2,13.3,28.6,18.3,FALSE,6,0,0,87
-tem,Q5829701,template:country data venezuela,12.2,17.6,15.6,FALSE,6,0,0,72.1
-tem,Q7000262,template:country data mauritania,13.6,17.1,15.1,FALSE,6,0,0,73.5
-tem,Q842400,temples of kwan tai,10.3,27.3,8.2,FALSE,6,0,0,50.3
-tem,Q5832631,template:country data european union,13.6,15.4,15.4,FALSE,6,0,0,73.4
-tem,Q5621415,template:country data austria,12.8,18.8,16.1,FALSE,6,0,0,75.4
-tem,Q18615962,temnaspis,14.3,50,6.7,FALSE,3,0,0,65.5
-tem,Q6602990,template:spaces,9.5,33.3,16.9,FALSE,6,0,0,77.2
-tem,Q5621848,template:str left,10.1,30,17.5,FALSE,6,0,0,78.8
-tem,Q5618588,template:hide in print,10.9,24,16.1,FALSE,6,0,0,73.8
-tem,Q6091158,template:days of the week,24,21.4,16.6,FALSE,6,0,0,100.5
-tem,Q6021960,template:smiley,9.2,33.3,16.1,FALSE,6,0,0,74.2
-tem,Q622088,temnitztal,13.9,46.2,11.2,FALSE,3,0,0,76.8
-tem,Q7670676,template:country data singapore,13.4,17.6,15.7,FALSE,6,0,0,75
-tem,Q7169254,template:bcdb title,9.8,27.3,12.2,FALSE,6,0,0,61
-tem,Q7668142,template:country data oman,12.3,20.7,15.2,FALSE,6,0,0,72.4
-tem,Q6271187,template:convert,9.2,31.6,17.3,FALSE,6,0,0,77
-tem,Q5851699,template:country data nigeria,12.8,18.8,15.5,FALSE,6,0,0,73.6
-tem,Q16970,église,10.6,33.3,18.6,FALSE,3,0,0,87.2
-tem,Q842402,mandir,12.5,37.5,15,FALSE,3,0,0,82
-tem,Q44539,temple,7.2,66.7,17.3,FALSE,3,0,0,89.9
-tem,Q34627,synagogue,31.8,42.9,17.6,FALSE,3,0,0,130.4
-tem,Q175166,tempera,17.9,60,15.5,FALSE,3,0,0,103.2
-tem,Q5393308,temple bouddhiste,13.3,30,13.2,FALSE,6,0,0,72.2
-tem,Q425088,témozolomide,7.5,26.7,12.9,FALSE,3,0,0,61.5
-tem,Q83404,timișoara,9.5,54.5,15.4,FALSE,3,0,0,83.9
-tem,Q1420239,université temple,10.6,30,11.5,FALSE,6,0,0,61.6
-tem,Q2635276,temps immémorial,22.4,31.6,8.5,FALSE,6,0,0,76.7
-tem,Q11471,temps,20.6,75,19.7,FALSE,3,0,0,127.1
-tem,Q158106,arrondissement de tempelhof-schöneberg,13.8,26.1,12.1,FALSE,6,0,0,68.3
-tem,Q929313,temponade cardiaque,20.9,27.3,12.8,FALSE,6,0,0,85
-tem,Q3517772,temps des fêtes,22.4,33.3,13,FALSE,6,0,0,91
-tem,Q408265,lorazépam,14.3,60,14.5,FALSE,3,0,0,93.2
-tem,Q81054,tempête,12.4,60,17.5,FALSE,3,0,0,98.4
-tem,Q184872,loisir,12,42.9,16,FALSE,3,0,0,86.1
-tem,Q30192,temps moyen de greenwich,14.4,22.2,14.2,FALSE,6,0,0,74.2
-tem,Q849737,tomographie d'émission monophotonique,19.3,85.7,12.8,FALSE,6,0,0,105.1
-tem,Q11663,temps,13.6,75,18.6,FALSE,3,0,0,109.9
-tem,Q1144385,taux de prothrombine,24.5,26.1,12.9,FALSE,6,0,0,92.2
-tem,Q182878,tempête de sable,25.2,31.6,15.7,FALSE,6,0,0,104.2
-tem,Q28130149,temps-écran,16.6,42.9,11.9,FALSE,3,0,0,83.1
-tem,Q31621,coenraad jacob temminck,12,54.5,12.5,FALSE,6,0,0,77.3
-tem,Q1536,temps universel coordonné,24.1,21.4,16.2,FALSE,6,0,0,99.4
-tem,Q3281534,histoire moderne,25.1,37.5,16.1,FALSE,6,0,0,107.3
-tem,Q21196,pâques,17.3,22.2,17.3,FALSE,3,0,0,92.6
-tem,Q1755136,temps de céphaline activée,28.6,20.7,11.5,FALSE,6,0,0,93.9
-tem,Q185586,timiș,12.5,50,13.7,FALSE,3,0,0,83.1
-tem,Q519157,templin,7.5,60,12.5,FALSE,3,0,0,73.6
-tem,Q2680845,temple chinois,28.2,35.3,9.4,FALSE,6,0,0,92.6
-tem,Q51685,tempe,6.4,75,13.8,FALSE,3,0,0,81.1
-tem,Q130011,orage magnétique,19.2,28.6,14.6,FALSE,6,0,0,87.7
-tem,Q260732,temps de travail,14.9,31.6,14.4,FALSE,6,0,0,79.6
-tem,Q3157041,tempête tropicale,25.4,30,8.7,FALSE,6,0,0,82.9
-tem,Q6807904,maison d'assemblée,19.4,66.7,6.5,FALSE,6,0,0,78.9
-tem,Q1076369,choc cytokinique,25.5,27.3,12.5,FALSE,6,0,0,93.2
-tem,Q82128,temuco,7.3,66.7,14.8,FALSE,3,0,0,82.5
-tem,Q11466,température,7.5,42.9,18.3,FALSE,3,0,0,84.1
-tem,Q1136687,temple de la renommée du hockey,15.9,17.6,10.8,FALSE,6,0,0,65.3
-tem,Q196939,témoin,14.1,44.4,15.5,FALSE,3,0,0,89.6
-tem,Q1454583,temple maçonnique,13.4,30,10.5,FALSE,6,0,0,64.3
-tem,Q663272,expert ou experte judiciaire,31,25,12.6,FALSE,6,0,0,103.8
-tem,Q1046088,temple de la renommée,10.9,25,12.7,FALSE,6,0,0,63.9
-tem,Q414796,témazépam,6.3,33.3,12.9,FALSE,3,0,0,61.6
-tem,Q1997676,tempoal,11.4,60,8,FALSE,3,0,0,67.6
-tem,Q1196258,témoignage,10.6,30.8,12.8,FALSE,3,0,0,68.9
-tem,Q720,gengis khan,17.3,54.5,17.2,FALSE,6,0,0,102.1
-tem,Q363830,tempelhof,12.3,50,10.6,FALSE,3,0,0,73.2
-tem,Q4050817,temnothorax,8.1,42.9,8.5,FALSE,3,0,0,55.8
-nsfc,Q4501917,national natural science foundation of china,11.4,100,5.7,TRUE,0,0,1,61
-nsfc,Q21866939,national society of film critics award,7.9,53.3,4.2,FALSE,6,0,0,43.9
-nsfc,Q1206671,national society of film critics,8.9,100,10.1,TRUE,0,0,1,60.8
-national natural science foundation of china,Q4501917,national natural science foundation of china,10.8,100,5.7,FALSE,0,1,0,79.8
-national natural science foundation of china,Q52217896,national natural science foundation of china open access policy,12.5,82.2,0,FALSE,6,0,0,51.9
-long range interactions,Q59623883,long range interactions regulate v(d)j recombination at the murine immunoglobulin lambda locus,27,39.3,0,FALSE,6,0,0,63.7
-ab-initio calculations,Q112880948,"ab initio calculations of water and ice : structural, electronic and optical properties",29.6,38.5,0,FALSE,6,0,0,68.6
-ab-initio calculations,Q97611808,ab initio calculations in scintillator research,37.7,60.9,0,FALSE,6,0,0,93.8
-hydrogen halides,Q1572088,hydrogen halide,34.3,96.8,12.2,FALSE,3,1,0,141.9
-clouds,Q8074,cloud,26.7,100,19.4,TRUE,0,1,1,153.6
-clouds,Q868447,the clouds,30.8,100,10.9,TRUE,0,0,1,135.3
-clouds,Q203247,nuages,7,100,5.2,TRUE,0,0,1,70.5
-clouds,Q2111939,clouds,3.1,100,5.7,FALSE,0,1,0,64.3
-clouds,Q18676757,clouds,12.1,100,0,FALSE,0,1,0,65.2
-clouds,Q20174091,clouds,12.5,100,2.2,FALSE,0,1,0,72.7
-clouds,Q7723503,the clouds,10.9,100,3.5,TRUE,0,0,1,73.4
-clouds,Q21198594,les nuées,27.3,100,2.2,TRUE,0,0,1,102.3
-clouds,Q100937286,clouds,10,100,0,FALSE,0,1,0,61
-clouds,Q50947865,clouds,12.9,100,0,FALSE,0,1,0,66.8
-clouds,Q20634460,clouds,9.8,100,0,FALSE,0,1,0,60.5
-clouds,Q21620788,clouds,11.1,100,0,FALSE,0,1,0,63.2
-clouds,Q28039548,clouds,9.5,100,0,FALSE,0,1,0,60
-clouds,Q19888744,clouds,11.1,100,0,FALSE,0,1,0,63.2
-clouds,Q98706478,clouds,22,100,0,FALSE,0,1,0,84.9
-clouds,Q20421180,clouds,11.4,100,0,FALSE,0,1,0,63.9
-clouds,Q5135768,clouds house,8.3,66.7,5.7,FALSE,3,0,0,57.6
-clouds,Q1102640,cloudesley shovell,6.3,54.5,8,FALSE,6,0,0,52.4
-clouds,Q106566827,clouds,11.4,100,0,FALSE,0,1,0,63.9
-clouds,Q100367914,clouds,11.8,100,0,FALSE,0,1,0,64.5
-clouds,Q113723376,clouds,1.8,100,0,FALSE,0,1,0,44.7
-clouds,Q20087051,cloud towers,7.3,100,0,TRUE,0,0,1,55.6
-clouds,Q24055379,clouds,12.1,100,0,FALSE,0,1,0,65.2
-clouds,Q96000175,clouds,4.4,100,3.5,FALSE,0,1,0,60.2
-clouds,Q1228867,clouds of witness,18.5,52.2,6.2,FALSE,6,0,0,70.6
-clouds,Q19082498,the clouds,26.1,100,2.2,TRUE,0,0,1,99.9
-clouds,Q16155561,clouds,12.9,100,2.2,FALSE,0,1,0,73.5
-clouds,Q5135764,clouds,10.3,100,2.2,FALSE,0,1,0,68.2
-clouds,Q79288279,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q79291843,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q79288389,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q79294867,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q18563217,clouds,8,100,0,FALSE,0,1,0,57
-clouds,Q79288341,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q102080180,clouds,24,100,0,FALSE,0,1,0,89
-clouds,Q79294053,clouds,6.2,100,0,FALSE,0,1,0,53.5
-clouds,Q110218463,clouds,4,100,0,FALSE,0,1,0,48.9
-clouds,Q79288240,clouds,9.3,100,0,FALSE,0,1,0,59.6
-clouds,Q110548120,clouds,17.3,100,0,FALSE,0,1,0,75.6
-clouds,Q112635406,clouds,10.5,100,0,FALSE,0,1,0,62.1
-clouds,Q616706,apache derby,5.9,75,8.7,FALSE,6,0,0,62
-clouds,Q391351,clouds rest,5.1,70.6,6.7,FALSE,3,0,0,55.5
-clouds,Q1102652,cloudscape,2.5,75,5.2,FALSE,3,0,0,47.4
-clouds,Q59506817,clouds,3.4,100,0,FALSE,0,1,0,47.7
-clouds,Q2496860,apache cloudstack,5.3,75,8,FALSE,6,0,0,58.6
-clouds,Q49397,cloudsat,4.3,85.7,9.6,FALSE,3,0,0,68.6
-clouds,Q4042322,cloudstore,30,75,5.2,FALSE,3,0,0,102.5
-clouds,Q20900263,cloudsley louis rutter,5.4,42.9,3.6,FALSE,6,0,0,32.7
-clouds,Q22095616,cloudsim,3.5,85.7,3.5,FALSE,3,0,0,48.8
-clouds,Q5135766,clouds across the moon,18.2,42.9,5.2,FALSE,6,0,0,63
-clouds,Q19461057,clouds hill,6.8,70.6,2.2,FALSE,3,0,0,45.4
-clouds,Q107123053,clouds,12.1,100,2.2,FALSE,0,1,0,71.9
-clouds,Q104765433,nuages en finlande,7.3,52.2,0,FALSE,6,0,0,29.5
-clouds,Q5135617,cloudsnap,3.5,80,0,FALSE,3,0,0,35.9
-clouds,Q59497131,clouds and black hills,11.5,42.9,0,FALSE,6,0,0,34.2
-clouds,Q107385682,cloudscraper,4.2,66.7,0,FALSE,3,0,0,32
-clouds,Q24469,ceinture de gould,21.2,66.7,11.5,FALSE,6,0,0,97.5
-clouds,Q5534660,geoffrey hendricks,4.7,75,5.8,FALSE,6,0,0,50.6
-clouds,Q3399465,clouds hill,14.7,70.6,6.7,FALSE,3,0,0,74.6
-clouds,Q5135780,cloudstreet,3.2,70.6,3.5,FALSE,3,0,0,42.1
-clouds,Q124316328,cloudsurfers,2.4,66.7,2.2,FALSE,3,0,0,35
-clouds,Q483639,cloud computing,23.9,47.6,16.5,FALSE,6,0,0,110.5
-clouds,Q914359,cloud storage,36.4,63.2,13.3,FALSE,6,0,0,131.9
-clouds,Q160092,rubus chamaemorus,36.4,62.5,13.5,FALSE,6,0,0,132.3
-clouds,Q4817119,atmospheric river,16.7,62.5,11.8,FALSE,6,0,0,87.7
-clouds,Q5135629,cloud,1.7,90.9,4.4,FALSE,3,1,0,51.2
-clouds,Q35494,calipso,17.8,46.2,9.6,FALSE,3,0,0,79.9
-clouds,Q1343205,file-hosting service,9,58.8,12.2,FALSE,6,0,0,71.9
-clouds,Q36135,clouded leopard,46.5,47.6,14.1,FALSE,6,0,0,148.5
-clouds,Q376353,cloud county,10.3,55.6,12.3,FALSE,6,0,0,73.6
-clouds,Q1346018,infrastructure as a service,33.9,46.2,12.1,FALSE,6,0,0,116.4
-clouds,Q1798592,cloud strife,30.2,66.7,9.3,FALSE,6,0,0,108.9
-clouds,Q30665,clouded apollo,44.4,50,11.4,FALSE,6,0,0,137.1
-clouds,Q214469,cloud forest,15.5,66.7,14.3,FALSE,6,0,0,94.5
-clouds,Q113100,cloud,3.4,90.9,9.4,FALSE,3,1,0,69.3
-clouds,Q180382,cloud burst,14.3,70.6,14,FALSE,6,0,0,92.9
-clouds,Q4778915,cloudflare,8,62.5,11.6,FALSE,3,0,0,72.8
-clouds,Q16829781,cloud rap,10.8,66.7,11.1,FALSE,6,0,0,75.5
-clouds,Q664424,cloud,26.5,90.9,6.7,FALSE,3,1,0,107.4
-clouds,Q110160416,cloud region,8.8,55.6,2,FALSE,6,0,0,39.9
-clouds,Q2553613,internet video,9.2,52.2,8.7,FALSE,6,0,0,59.4
-clouds,Q2592476,cloud,2.2,90.9,3.5,FALSE,3,1,0,49.2
-clouds,Q1055865,overcast,4.1,83.3,8.7,FALSE,3,0,0,64.5
-clouds,Q105071964,cloud,1.6,90.9,2.2,FALSE,3,1,0,44.3
-clouds,Q637169,cloudy with a chance of meatballs,17.6,30.8,12.8,FALSE,6,0,0,80
-clouds,Q19827848,cloud9,3.6,83.3,9.6,FALSE,3,0,0,66.3
-clouds,Q12108188,cloud 9,9.8,76.9,9.2,FALSE,6,0,0,72
-clouds,Q5135628,cloud,2.2,90.9,7.7,FALSE,3,1,0,61.8
-clouds,Q277157,cloudy with a chance of meatballs 2,20.8,29.3,12,FALSE,6,0,0,83.2
-clouds,Q13479680,cloud species,70,63.2,7.2,FALSE,6,0,0,180.7
-clouds,Q85632250,cloud gaming service,36,46.2,2,FALSE,6,0,0,90.4
-clouds,Q2024390,remote backup service,44,55.6,10,FALSE,6,0,0,134.1
-clouds,Q520871,colias croceus,33.3,50,11.6,FALSE,6,0,0,115.4
-clouds,Q830457,cloud cover,21.6,58.8,14.3,FALSE,6,0,0,103.5
-clouds,Q77977294,cloud,13.3,90.9,0,FALSE,3,1,0,61
-clouds,Q105692813,ieee international conference on cloud computing,5.5,90.9,0,FALSE,6,0,0,41.5
-clouds,Q50889494,cloud,10.5,90.9,0,FALSE,3,1,0,55.4
-clouds,Q18615484,cloud,26.7,90.9,0,FALSE,3,1,0,87.8
-clouds,Q432556,cloudcroft,6.3,62.5,11,FALSE,3,0,0,67.7
-clouds,Q1064312,cloud cult,3.4,62.5,7.7,FALSE,6,0,0,48.7
-clouds,Q2499178,cloud database,18.8,60,10.7,FALSE,6,0,0,87.6
-clouds,Q87526641,☁,2.5,90.9,2.2,FALSE,0,0,0,48
-clouds,Q11193408,cloud,1.9,90.9,2.2,FALSE,3,1,0,44.9
-clouds,Q3548033,cloud,3,90.9,2.2,FALSE,3,1,0,46.9
-clouds,Q589099,cloud gate,6.7,62.5,11,FALSE,6,0,0,65.4
-clouds,Q2979728,cloudera,3.8,71.4,8.2,FALSE,3,0,0,57.7
-clouds,Q40205,cartographie des nuages,6.4,70.6,10.9,FALSE,6,0,0,67.7
-clouds,Q93133342,cloudpunk,3.2,66.7,7,FALSE,3,0,0,51.1
-clouds,Q1102629,jeu à la demande,30.8,55.6,12.7,FALSE,6,0,0,115.9
-clouds,Q1102645,cloud nothings,4.2,60,8.2,FALSE,6,0,0,50.9
-clouds,Q16540469,cloud imperium games,3.9,46.2,5.2,FALSE,6,0,0,35.7
-clouds,Q5135728,cloudberry kingdom,3.4,41.7,5.2,FALSE,6,0,0,32.8
-clouds,Q5135791,cloudy with a chance of meatballs,30,30.8,5.7,FALSE,6,0,0,83.5
-clouds,Q50866964,cloud native computing foundation,6,25.6,8.2,FALSE,6,0,0,41
-clouds,Q4036320,cloud9,4.1,83.3,7,FALSE,3,0,0,59.6
-clouds,Q5135655,cloud county community college,21.7,27.8,3.5,FALSE,6,0,0,59
-clouds,Q3681214,cloudkicker,3.8,58.8,5.2,FALSE,3,0,0,43.5
-clouds,Q2162831,cloud nine,25,62.5,3.5,FALSE,6,0,0,79.5
-clouds,Q509074,cloudina,11.1,71.4,8.2,FALSE,3,0,0,72.4
-clouds,Q111854927,cloud m1,4,71.4,0,FALSE,6,0,0,30.5
-clouds,Q28974776,cloud-init,2.5,62.5,2.2,FALSE,3,0,0,33.6
-clouds,Q29186572,cloudesley brereton,4.6,48,4.5,FALSE,6,0,0,35.7
+kw_norm,qid,label,ctx_sim,lbl_sim,canon,alias_exact_flag,penalty,exact_bonus,alias_bonus,total,p31_ids,p101_ids,p31_cnt,p101_cnt
+mixed convection,Q97612642,mixed-convection instabilities in chemical vapor deposition reactors,65.9,35.7,0.0,False,6.0,0.0,0.0,140.1,Q187685,,1,0
+convective instability,Q3268911,convective instability,35.1,100.0,8.7,False,0.0,1.0,0.0,137.1,,,0,0
+cvd,Q389735,cardiovascular disease,35.3,100.0,15.9,True,0.0,0.0,1.0,99.3,Q112193867;Q11862829,,2,0
+cvd,Q505668,chemical vapor deposition,71.4,100.0,13.1,True,0.0,0.0,1.0,144.3,,,0,0
+cvd,Q17928815,flna,19.0,85.7,8.4,False,3.0,0.0,0.0,94.6,Q7187,,1,0
+cvd,Q5692507,heart valve dysplasia,5.4,85.7,7.8,False,6.0,0.0,0.0,62.4,Q112193867;Q929833,,2,0
+cvd,Q18030587,pld1,19.0,85.7,6.5,False,3.0,0.0,0.0,88.7,Q7187,,1,0
+cvd,Q102459691,cardiovascular digital health journal,6.5,40.0,0.0,False,6.0,0.0,0.0,23.1,Q16024164,,1,0
+cvd,Q55118269,cardiovascular disease ontology,4.8,85.7,0.0,False,6.0,0.0,0.0,38.0,Q324254,,1,0
+cvd,Q65391441,cvd 909 vi prime boost study,13.0,19.4,0.0,False,6.0,0.0,0.0,27.8,Q30612,,1,0
+cvd,Q100262880,clean vehicles directive,10.2,100.0,2.2,True,0.0,0.0,1.0,56.8,Q326124,,1,0
+cvd,Q63394690,cvd nutrition education for low literacy esl students,27.8,10.7,0.0,False,6.0,0.0,0.0,54.0,Q30612,,1,0
+cvd,Q66065283,cvd 37000: immunity and microbiome studies at intestinal and systemic sites in ty21a vaccinated adults,20.6,5.7,0.0,False,6.0,0.0,0.0,37.6,Q30612,,1,0
+cvd,Q63599804,cvd 38000: study of responses to vaccination with typhoid and/or cholera,38.9,8.0,0.0,False,6.0,0.0,0.0,75.0,Q30612,,1,0
+cvd,Q62054033,cvd nutrition education,14.6,23.1,0.0,False,6.0,0.0,0.0,32.5,Q30612,,1,0
+cvd,Q65382839,cvd risk reduction trial,16.7,22.2,0.0,False,6.0,0.0,0.0,36.2,Q30612,,1,0
+cvd,Q96052471,cockpit voice and data recorder,15.4,85.7,2.0,False,6.0,0.0,0.0,65.1,,,0,0
+cvd,Q63805151,cvd risk factor knowledge across age groups,9.8,13.0,0.0,False,6.0,0.0,0.0,18.9,Q30612,,1,0
+cvd,Q66061699,cvd risk and health in postmenopausal phytoestrogen users,24.4,10.0,0.0,False,6.0,0.0,0.0,46.8,Q30612,,1,0
+cvd,Q97615288,cvd techniques for the synthesis or modification of porous ceramics,31.9,8.6,0.0,False,6.0,0.0,0.0,61.2,Q187685,,1,0
+cvd,Q130882675,cardiovascular diseases research institute,9.4,75.0,0.0,False,6.0,0.0,0.0,42.9,Q13226383,,1,0
+cvd,Q126392607,cvd coated cutting tool,13.3,23.1,0.0,False,6.0,0.0,0.0,29.9,Q43305660,,1,0
+cvd,Q126392874,cvd coated cutting tool,13.3,23.1,0.0,False,6.0,0.0,0.0,29.9,Q43305660,,1,0
+cvd,Q66036763,cvd risk factors and sexual identity in women,28.6,12.5,0.0,False,6.0,0.0,0.0,56.1,Q30612,,1,0
+cvd,Q106641023,cvd-0013943,43.2,42.9,2.0,False,3.0,0.0,0.0,106.7,Q113145171,,1,0
+cvd,Q105699400,computer vision meets databases,7.2,85.7,0.0,False,6.0,0.0,0.0,42.6,Q47258130,,1,0
+cvd,Q66060160,cvd nutrition modules tailored to low literacy skills,25.6,10.7,0.0,False,6.0,0.0,0.0,49.6,Q30612,,1,0
+cvd,Q559486,cycle de développement,15.9,85.7,12.6,False,6.0,0.0,0.0,97.8,,,0,0
+cvd,Q188722,cqfd,9.2,100.0,12.4,True,0.0,0.0,1.0,62.9,Q187931;Q3062294,,2,0
+cvd,Q105427364,king's commissioner of drenthe,9.8,31.6,2.0,False,6.0,0.0,0.0,32.2,Q4164871,,1,0
+cvd,Q2610633,commissariaat voor de media,4.3,85.7,3.5,False,6.0,0.0,0.0,47.5,Q32798322,,1,0
+cvd,Q27516596,king's commissioner of north holland,7.4,24.0,2.0,False,6.0,0.0,0.0,24.4,Q4164871,,1,0
+cvd,Q28530179,king's commissioner of gelderland,9.1,27.3,2.0,False,6.0,0.0,0.0,29.1,Q4164871,,1,0
+cvd,Q28801911,king's commissioner of limburg,9.8,31.6,2.0,False,6.0,0.0,0.0,32.2,Q4164871,,1,0
+cvd,Q105427365,king's commissioner of overijssel,9.1,27.3,2.0,False,6.0,0.0,0.0,29.1,Q4164871,,1,0
+cvd,Q27531658,king's commissioner of south holland,6.9,25.0,2.0,False,6.0,0.0,0.0,23.8,Q4164871,,1,0
+cvd,Q105427369,king's commissioner of north brabant,7.3,24.0,2.0,False,6.0,0.0,0.0,24.2,Q4164871,,1,0
+cvd,Q27650822,king's commissioner of utrecht,9.8,31.6,2.0,False,6.0,0.0,0.0,32.2,Q4164871,,1,0
+cvd,Q110599030,cimetière de vieux doulon,9.2,85.7,0.0,False,6.0,0.0,0.0,46.7,Q548662,,1,0
+cvd,Q105427368,king's commissioner of zeeland,9.8,31.6,2.0,False,6.0,0.0,0.0,32.2,Q4164871,,1,0
+cvd,Q105427363,king's commissioner of friesland,9.3,28.6,2.0,False,6.0,0.0,0.0,30.1,Q4164871,,1,0
+cvd,Q105427362,commissaire du roi à groningue,6.3,28.6,2.0,False,6.0,0.0,0.0,24.0,Q4164871,,1,0
+cvd,Q105427367,commissaire du roi au flevoland,5.1,28.6,2.0,False,6.0,0.0,0.0,21.6,Q4164871,,1,0
+cvd,Q1068846,cheerleadervereinigung deutschland,9.5,100.0,2.2,True,0.0,0.0,1.0,56.0,Q2485448,,1,0
+cvd,Q104970676,cvdqdossutxmst-cywwhkobsa-n,5.3,20.0,2.0,False,3.0,0.0,0.0,21.7,Q113145171,,1,0
+cvd,Q104970674,cvdbemjtpgtiid-jfvxfanosa-n,36.7,20.0,2.0,False,3.0,0.0,0.0,84.4,Q59199015,,1,0
+cvd,Q104970678,cvdqdossutxmst-uhfffaoysa-n,37.7,20.0,2.0,False,3.0,0.0,0.0,86.5,Q59199015,,1,0
+cvd,Q104970677,cvdqdossutxmst-nhzfslkxsa-n,5.1,20.0,2.0,False,3.0,0.0,0.0,21.2,Q113145171,,1,0
+design of experiments,Q2334061,design of experiments,71.2,100.0,13.0,False,0.0,1.0,0.0,222.4,Q1047113;Q1799072,,2,0
+design of experiments,Q123751201,design of experiments for reliability achievement,56.0,60.0,0.0,False,6.0,0.0,0.0,130.0,Q3331189,,1,0
+corrosion,Q137056,corrosion,37.7,100.0,16.2,False,0.0,1.0,0.0,165.0,Q3382117,,1,0
+corrosion,Q111366900,corrosion inhibition,43.6,62.1,4.2,False,3.0,0.0,0.0,121.7,Q268592,,1,0
+corrosion,Q51843949,ghs05: corrosion,30.6,100.0,0.1,True,0.0,0.0,1.0,102.5,Q19360817,,1,0
+corrosion,Q1135391,corrosion of conformity,39.3,56.2,9.8,False,6.0,0.0,0.0,124.5,Q215380,,1,0
+corrosion,Q56737144,corrosion,52.9,100.0,0.0,False,0.0,1.0,0.0,146.9,Q12640000,,1,0
+corrosion,Q2468815,corrosion inhibitor,41.4,64.3,11.9,False,3.0,0.0,0.0,141.1,Q100434640,,1,0
+corrosion,Q1550776,korroziya metalla,38.6,66.7,7.1,False,6.0,0.0,0.0,118.9,Q215380,,1,0
+corrosion,Q55830125,corrosion resistance,53.0,62.1,0.0,False,3.0,0.0,0.0,127.9,Q764285,,1,0
+corrosion,Q5173034,corrosion fatigue,48.3,69.2,9.4,False,3.0,0.0,0.0,149.4,Q1925224,,1,0
+corrosion,Q13405532,anti-corrosion treatment,36.9,69.2,8.2,False,6.0,0.0,0.0,120.3,,,0,0
+corrosion,Q3511129,corrosion engineering,35.3,60.0,6.2,False,3.0,0.0,0.0,110.3,Q11862829,,1,0
+corrosion,Q1469751,corrosion protection medium,27.2,50.0,2.0,False,6.0,0.0,0.0,74.4,Q16829513,,1,0
+corrosion,Q113131132,corrosion engineer,47.4,66.7,2.0,False,3.0,0.0,0.0,124.4,Q12737077;Q28640,,2,0
+corrosion,Q101149215,corrosion of conformity's albums in chronological order,32.6,28.1,0.0,False,6.0,0.0,0.0,70.5,Q59191021,,1,0
+corrosion,Q65929600,corrosion test,55.2,78.3,4.2,False,3.0,0.0,0.0,151.3,Q217602,,1,0
+corrosion,Q101149183,corrosion of conformity discography,46.2,40.9,0.0,False,6.0,0.0,0.0,102.7,Q273057,,1,0
+corrosion,Q63368467,corrosion prediction in residual co2 streams: shifting the paradigm,32.0,23.7,0.0,False,6.0,0.0,0.0,67.5,Q1298668;Q54875403,,2,0
+corrosion,Q26377383,corrosion of commercial alloys in a chlorine-sulfur atmosphere at high temperatures,34.5,19.6,0.0,False,6.0,0.0,0.0,70.9,Q591041,,1,0
+corrosion,Q26359712,corrosion studies in brines of the salton sea geothermal field,32.2,25.4,0.0,False,6.0,0.0,0.0,68.5,Q3099732,,1,0
+corrosion,Q56613802,corrosion processes and mechanisms in the presence of monoethylene glycol (meg),51.6,20.5,0.0,False,6.0,0.0,0.0,105.3,Q187685,,1,0
+corrosion,Q26369592,corrosion in geothermal brines of the salton sea known geothermal resource area,34.5,20.5,0.0,False,6.0,0.0,0.0,71.3,Q21481766,,1,0
+corrosion,Q68749726,corrosion and environmental degradation ii,43.3,35.3,0.0,False,6.0,0.0,0.0,94.8,Q7725634,,1,0
+corrosion,Q58460224,corrosion and erosion-corrosion processes of metal matrix composites in slurry conditions for oilsands application,40.5,14.6,0.0,False,6.0,0.0,0.0,80.8,Q187685,,1,0
+corrosion,Q97612918,corrosion fatigue of structural steel in seawater,48.1,31.0,0.0,False,6.0,0.0,0.0,102.5,Q187685,,1,0
+corrosion,Q27219557,corrosion engineering,58.5,60.0,0.0,False,3.0,0.0,0.0,138.1,Q7725634,,1,0
+corrosion,Q56612978,corrosion and erosion-corrosion behaviour of lean duplex stainless steels in marine and oilfield environments,27.1,15.3,0.0,False,6.0,0.0,0.0,54.4,Q187685,,1,0
+corrosion,Q112836283,corrosion fatigue of 2024-t4 aluminium alloy in contact with superphosphate fertilizer,29.3,18.9,0.0,False,6.0,0.0,0.0,60.1,Q187685,,1,0
+corrosion,Q11743785,corrosion of metals,66.7,64.3,5.5,False,6.0,0.0,0.0,169.6,,,0,0
+corrosion,Q16919268,corrosion under insulation,31.0,51.4,4.2,False,6.0,0.0,0.0,89.2,,,0,0
+corrosion,Q5173030,corrosion in space,48.4,66.7,4.2,False,6.0,0.0,0.0,130.1,,,0,0
+corrosion,Q12623189,corrosion science society of korea,52.2,41.9,2.2,False,6.0,0.0,0.0,121.8,Q955824,,1,0
+corrosion,Q122761132,corrosion inhibitor composition and methods of inhibiting corrosion during acid pickling,38.3,18.6,0.0,False,6.0,0.0,0.0,78.1,Q43305660,,1,0
+corrosion,Q585977,corrosion sous contrainte,26.1,52.9,10.9,False,6.0,0.0,0.0,100.0,,,0,0
+corrosion,Q1493450,corrosion à haute température,49.0,47.4,9.1,False,6.0,0.0,0.0,138.1,,,0,0
+corrosion,Q1272537,corrosion des aciers dans le béton,23.3,41.9,7.4,False,6.0,0.0,0.0,79.5,Q3249551,,1,0
+corrosion,Q2367906,galvanic corrosion,36.4,66.7,12.0,False,3.0,0.0,0.0,132.5,,,0,0
+corrosion,Q351261,eau d'alimentation de chaudière,28.6,100.0,9.7,True,0.0,0.0,1.0,127.2,,,0,0
+corrosion,Q1417876,glass disease,16.0,62.1,9.7,False,6.0,0.0,0.0,79.9,,,0,0
+corrosion,Q56614267,corrosion behaviour of x65 carbon steel under flowing conditions,25.5,24.7,0.0,False,6.0,0.0,0.0,54.9,Q187685,,1,0
+corrosion,Q60349014,corrosion and tribo-corrosion behaviour of metallic orthopaedic implant materials,27.8,20.0,0.0,False,6.0,0.0,0.0,57.7,Q187685,,1,0
+tem,Q29023906,temporary exhibition,25.8,26.1,6.5,False,6.0,0.0,0.0,75.4,,,0,0
+tem,Q616667,temporal lobe epilepsy,9.8,24.0,11.4,False,6.0,0.0,0.0,57.5,Q112193867;Q929833,,2,0
+tem,Q19887878,wikimedia infobox template,22.4,31.6,2.0,False,6.0,0.0,0.0,57.6,,,0,0
+tem,Q877647,european route e80,10.3,100.0,11.7,True,0.0,0.0,1.0,63.8,Q34442,,1,0
+tem,Q17911655,cyld,19.4,100.0,6.5,True,0.0,0.0,1.0,71.9,Q7187,,1,0
+tem,Q744818,transmission electron microscope,12.6,100.0,12.9,True,0.0,0.0,1.0,67.7,,,0,0
+tem,Q132931,buynaksk,24.0,31.6,13.3,False,3.0,0.0,0.0,97.6,Q192287;Q7930989,,2,0
+tem,Q36531,tem,22.2,100.0,11.6,False,0.0,1.0,0.0,120.3,Q1288568;Q34770,,2,0
+tem,Q21113782,tetraspanin-enriched microdomain,38.9,100.0,2.0,True,0.0,0.0,1.0,94.1,Q5058355,,1,0
+tem,Q1756116,temnora,15.4,60.0,8.0,False,3.0,0.0,0.0,75.6,Q16521,,1,0
+tem,Q492419,fcr 2001 duisburg,13.5,20.7,9.6,False,6.0,0.0,0.0,58.3,Q51481377,,1,0
+tem,Q7698689,temple university beasley school of law,15.9,14.3,5.2,False,6.0,0.0,0.0,47.0,Q1321960,,1,0
+tem,Q110779037,transmission electron microscopy,14.1,100.0,9.4,True,0.0,0.0,1.0,67.1,,,0,0
+tem,Q43018,temple of ephesian artemis,21.7,20.7,14.5,False,6.0,0.0,0.0,89.3,Q19860854;Q267596;Q44539;Q66108498;Q93342462,,5,0
+tem,Q6811189,template:infobox character,11.7,20.7,16.7,False,6.0,0.0,0.0,75.7,Q11266439;Q19887878,,2,0
+tem,Q5830052,template:infobox officeholder,12.0,18.8,18.2,False,6.0,0.0,0.0,79.9,Q19887878,,1,0
+tem,Q6919004,template:merge,8.9,35.3,17.6,False,6.0,0.0,0.0,78.7,Q11266439,,1,0
+tem,Q603255,percichthyidae,11.7,33.3,10.9,False,3.0,0.0,0.0,66.4,Q16521,,1,0
+tem,Q739827,tém,4.6,66.7,7.4,False,3.0,0.0,0.0,55.1,Q41710,,1,0
+tem,Q7444259,template:compact toc,10.3,26.1,16.2,False,6.0,0.0,0.0,73.7,Q11266439,,1,0
+tem,Q1053973,temptation,29.5,46.2,14.0,False,3.0,0.0,0.0,116.6,,,0,0
+tem,Q19281,tem,9.5,100.0,8.7,False,0.0,1.0,0.0,86.0,Q5,,1,0
+tem,Q13384512,template:infobox lighthouse,11.9,20.0,12.8,False,6.0,0.0,0.0,64.3,Q19887878,,1,0
+tem,Q1517587,témiscouata,13.8,28.6,7.7,False,3.0,0.0,0.0,59.1,Q204613,,1,0
+tem,Q999473,temora,25.5,66.7,8.2,False,3.0,0.0,0.0,99.4,Q3257686;Q3957,,2,0
+tem,Q18047858,plxdc2,18.2,75.0,8.2,False,3.0,0.0,0.0,88.1,Q7187,,1,0
+tem,Q5461410,template:wikisource,10.1,27.3,17.6,False,6.0,0.0,0.0,77.7,Q11266439,,1,0
+tem,Q14888544,temperature homeostasis,21.9,23.1,2.0,False,6.0,0.0,0.0,53.1,Q2996394,,1,0
+tem,Q68816637,temple,12.8,66.7,2.2,False,3.0,0.0,0.0,55.9,Q5124673,,1,0
+tem,Q6117427,template:multicol-end,10.6,25.0,15.8,False,6.0,0.0,0.0,72.6,Q11266439,,1,0
+tem,Q5547386,template:user de-2,13.3,28.6,18.3,False,6.0,0.0,0.0,87.0,Q19842659,,1,0
+tem,Q5829701,template:country data venezuela,12.2,17.6,15.6,False,6.0,0.0,0.0,72.1,Q108783631,,1,0
+tem,Q7000262,template:country data mauritania,13.6,17.1,15.1,False,6.0,0.0,0.0,73.5,Q108783631,,1,0
+tem,Q842400,temples of kwan tai,10.3,27.3,8.2,False,6.0,0.0,0.0,50.3,,,0,0
+tem,Q5832631,template:country data european union,13.6,15.4,15.4,False,6.0,0.0,0.0,73.4,Q108783631,,1,0
+tem,Q5621415,template:country data austria,12.8,18.8,16.1,False,6.0,0.0,0.0,75.4,Q108783631,,1,0
+tem,Q18615962,temnaspis,14.3,50.0,6.7,False,3.0,0.0,0.0,65.5,Q16521,,1,0
+tem,Q6602990,template:spaces,9.5,33.3,16.9,False,6.0,0.0,0.0,77.2,Q11266439,,1,0
+tem,Q5621848,template:str left,10.1,30.0,17.5,False,6.0,0.0,0.0,78.8,Q11266439,,1,0
+tem,Q5618588,template:hide in print,10.9,24.0,16.1,False,6.0,0.0,0.0,73.8,Q11266439,,1,0
+tem,Q6091158,template:days of the week,24.0,21.4,16.6,False,6.0,0.0,0.0,100.5,Q11753321,,1,0
+tem,Q6021960,template:smiley,9.2,33.3,16.1,False,6.0,0.0,0.0,74.2,Q11266439,,1,0
+tem,Q622088,temnitztal,13.9,46.2,11.2,False,3.0,0.0,0.0,76.8,Q116457956,,1,0
+tem,Q7670676,template:country data singapore,13.4,17.6,15.7,False,6.0,0.0,0.0,75.0,Q108783631;Q11266439,,2,0
+tem,Q7169254,template:bcdb title,9.8,27.3,12.2,False,6.0,0.0,0.0,61.0,Q11266439,,1,0
+tem,Q7668142,template:country data oman,12.3,20.7,15.2,False,6.0,0.0,0.0,72.4,Q108783631,,1,0
+tem,Q6271187,template:convert,9.2,31.6,17.3,False,6.0,0.0,0.0,77.0,Q11266439,,1,0
+tem,Q5851699,template:country data nigeria,12.8,18.8,15.5,False,6.0,0.0,0.0,73.6,Q108783631;Q11266439,,2,0
+tem,Q16970,église,10.6,33.3,18.6,False,3.0,0.0,0.0,87.2,Q811102,,1,0
+tem,Q842402,mandir,12.5,37.5,15.0,False,3.0,0.0,0.0,82.0,,,0,0
+tem,Q44539,temple,7.2,66.7,17.3,False,3.0,0.0,0.0,89.9,,,0,0
+tem,Q34627,synagogue,31.8,42.9,17.6,False,3.0,0.0,0.0,130.4,,,0,0
+tem,Q175166,tempera,17.9,60.0,15.5,False,3.0,0.0,0.0,103.2,,,0,0
+tem,Q5393308,temple bouddhiste,13.3,30.0,13.2,False,6.0,0.0,0.0,72.2,,,0,0
+tem,Q425088,témozolomide,7.5,26.7,12.9,False,3.0,0.0,0.0,61.5,Q113145171,,1,0
+tem,Q83404,timișoara,9.5,54.5,15.4,False,3.0,0.0,0.0,83.9,Q1187811;Q1549591;Q2264924;Q34843301;Q640364,,5,0
+tem,Q1420239,université temple,10.6,30.0,11.5,False,6.0,0.0,0.0,61.6,Q23002039;Q2668072;Q3918,,3,0
+tem,Q2635276,temps immémorial,22.4,31.6,8.5,False,6.0,0.0,0.0,76.7,Q187931;Q3062294,,2,0
+tem,Q11471,temps,20.6,75.0,19.7,False,3.0,0.0,0.0,127.1,Q181175;Q58415929,,2,0
+tem,Q158106,arrondissement de tempelhof-schöneberg,13.8,26.1,12.1,False,6.0,0.0,0.0,68.3,Q821435,,1,0
+tem,Q929313,temponade cardiaque,20.9,27.3,12.8,False,6.0,0.0,0.0,85.0,Q112193867;Q18553676,,2,0
+tem,Q3517772,temps des fêtes,22.4,33.3,13.0,False,6.0,0.0,0.0,91.0,Q11483816,,1,0
+tem,Q408265,lorazépam,14.3,60.0,14.5,False,3.0,0.0,0.0,93.2,Q113145171,,1,0
+tem,Q81054,tempête,12.4,60.0,17.5,False,3.0,0.0,0.0,98.4,Q118733587,,1,0
+tem,Q184872,loisir,12.0,42.9,16.0,False,3.0,0.0,0.0,86.1,,,0,0
+tem,Q30192,temps moyen de greenwich,14.4,22.2,14.2,False,6.0,0.0,0.0,74.2,Q12143;Q6313217,,2,0
+tem,Q849737,tomographie d'émission monophotonique,19.3,85.7,12.8,False,6.0,0.0,0.0,105.1,Q2671652,,1,0
+tem,Q11663,temps,13.6,75.0,18.6,False,3.0,0.0,0.0,109.9,Q1322005,,1,0
+tem,Q1144385,taux de prothrombine,24.5,26.1,12.9,False,6.0,0.0,0.0,92.2,,,0,0
+tem,Q182878,tempête de sable,25.2,31.6,15.7,False,6.0,0.0,0.0,104.2,Q16332653,,1,0
+tem,Q28130149,temps-écran,16.6,42.9,11.9,False,3.0,0.0,0.0,83.1,,,0,0
+tem,Q31621,coenraad jacob temminck,12.0,54.5,12.5,False,6.0,0.0,0.0,77.3,Q5,Q431,1,1
+tem,Q1536,temps universel coordonné,24.1,21.4,16.2,False,6.0,0.0,0.0,99.4,Q12143;Q6313217,,2,0
+tem,Q3281534,histoire moderne,25.1,37.5,16.1,False,6.0,0.0,0.0,107.3,Q11514315;Q11862829;Q4671286;Q6428674,,4,0
+tem,Q21196,pâques,17.3,22.2,17.3,False,3.0,0.0,0.0,92.6,Q1825417;Q60075825,,2,0
+tem,Q1755136,temps de céphaline activée,28.6,20.7,11.5,False,6.0,0.0,0.0,93.9,Q886837,,1,0
+tem,Q185586,timiș,12.5,50.0,13.7,False,3.0,0.0,0.0,83.1,Q1776764,,1,0
+tem,Q519157,templin,7.5,60.0,12.5,False,3.0,0.0,0.0,73.6,Q42744322;Q6882870,,2,0
+tem,Q2680845,temple chinois,28.2,35.3,9.4,False,6.0,0.0,0.0,92.6,,,0,0
+tem,Q51685,tempe,6.4,75.0,13.8,False,3.0,0.0,0.0,81.1,Q1093829;Q1549591,,2,0
+tem,Q130011,orage magnétique,19.2,28.6,14.6,False,6.0,0.0,0.0,87.7,,,0,0
+tem,Q260732,temps de travail,14.9,31.6,14.4,False,6.0,0.0,0.0,79.6,,,0,0
+tem,Q3157041,tempête tropicale,25.4,30.0,8.7,False,6.0,0.0,0.0,82.9,,,0,0
+tem,Q6807904,maison d'assemblée,19.4,66.7,6.5,False,6.0,0.0,0.0,78.9,,,0,0
+tem,Q1076369,choc cytokinique,25.5,27.3,12.5,False,6.0,0.0,0.0,93.2,Q1931388,,1,0
+tem,Q82128,temuco,7.3,66.7,14.8,False,3.0,0.0,0.0,82.5,Q1549591;Q25412763,,2,0
+tem,Q11466,température,7.5,42.9,18.3,False,3.0,0.0,0.0,84.1,Q230937,,1,0
+tem,Q1136687,temple de la renommée du hockey,15.9,17.6,10.8,False,6.0,0.0,0.0,65.3,Q42245028,,1,0
+tem,Q196939,témoin,14.1,44.4,15.5,False,3.0,0.0,0.0,89.6,Q176763;Q851176,,2,0
+tem,Q1454583,temple maçonnique,13.4,30.0,10.5,False,6.0,0.0,0.0,64.3,,,0,0
+tem,Q663272,expert ou experte judiciaire,31.0,25.0,12.6,False,6.0,0.0,0.0,103.8,Q214339;Q28640,,2,0
+tem,Q1046088,temple de la renommée,10.9,25.0,12.7,False,6.0,0.0,0.0,63.9,Q107467117,,1,0
+tem,Q414796,témazépam,6.3,33.3,12.9,False,3.0,0.0,0.0,61.6,Q113145171,,1,0
+tem,Q1997676,tempoal,11.4,60.0,8.0,False,3.0,0.0,0.0,67.6,Q1952852,,1,0
+tem,Q1196258,témoignage,10.6,30.8,12.8,False,3.0,0.0,0.0,68.9,Q21484471;Q23847174,,2,0
+tem,Q720,gengis khan,17.3,54.5,17.2,False,6.0,0.0,0.0,102.1,Q5,,1,0
+tem,Q363830,tempelhof,12.3,50.0,10.6,False,3.0,0.0,0.0,73.2,Q35034452,,1,0
+tem,Q4050817,temnothorax,8.1,42.9,8.5,False,3.0,0.0,0.0,55.8,Q16521,,1,0
+nsfc,Q4501917,national natural science foundation of china,11.4,100.0,5.7,True,0.0,0.0,1.0,61.0,Q327333;Q45400320;Q5509032;Q98675100,,4,0
+nsfc,Q21866939,national society of film critics award,7.9,53.3,4.2,False,6.0,0.0,0.0,43.9,Q107655869,,1,0
+nsfc,Q1206671,national society of film critics,8.9,100.0,10.1,True,0.0,0.0,1.0,60.8,Q101007233;Q4220917,,2,0
+national natural science foundation of china,Q4501917,national natural science foundation of china,10.8,100.0,5.7,False,0.0,1.0,0.0,79.8,Q327333;Q45400320;Q5509032;Q98675100,,4,0
+national natural science foundation of china,Q52217896,national natural science foundation of china open access policy,12.5,82.2,0.0,False,6.0,0.0,0.0,51.9,Q2000006,,1,0
+long range interactions,Q59623883,long range interactions regulate v(d)j recombination at the murine immunoglobulin lambda locus,27.0,39.3,0.0,False,6.0,0.0,0.0,63.7,Q187685,,1,0
+ab-initio calculations,Q112880948,"ab initio calculations of water and ice : structural, electronic and optical properties",29.6,38.5,0.0,False,6.0,0.0,0.0,68.6,Q187685,,1,0
+ab-initio calculations,Q97611808,ab initio calculations in scintillator research,37.7,60.9,0.0,False,6.0,0.0,0.0,93.8,Q187685,,1,0
+hydrogen halides,Q1572088,hydrogen halide,34.3,96.8,12.2,False,3.0,1.0,0.0,141.9,Q47154513,,1,0
+clouds,Q8074,cloud,26.7,100.0,19.4,True,0.0,1.0,1.0,153.6,Q118733587,,1,0
+clouds,Q868447,the clouds,30.8,100.0,10.9,True,0.0,0.0,1.0,135.3,Q116476516,,1,0
+clouds,Q203247,nuages,7.0,100.0,5.2,True,0.0,0.0,1.0,70.5,Q105543609,,1,0
+clouds,Q2111939,clouds,3.1,100.0,5.7,False,0.0,1.0,0.0,64.3,Q215380,,1,0
+clouds,Q18676757,clouds,12.1,100.0,0.0,False,0.0,1.0,0.0,65.2,Q1902763;Q3305213,,2,0
+clouds,Q20174091,clouds,12.5,100.0,2.2,False,0.0,1.0,0.0,72.7,Q3305213,,1,0
+clouds,Q7723503,the clouds,10.9,100.0,3.5,True,0.0,0.0,1.0,73.4,Q215380,,1,0
+clouds,Q21198594,les nuées,27.3,100.0,2.2,True,0.0,0.0,1.0,102.3,Q3331189,,1,0
+clouds,Q100937286,clouds,10.0,100.0,0.0,False,0.0,1.0,0.0,61.0,Q7302866,,1,0
+clouds,Q50947865,clouds,12.9,100.0,0.0,False,0.0,1.0,0.0,66.8,Q3305213,,1,0
+clouds,Q20634460,clouds,9.8,100.0,0.0,False,0.0,1.0,0.0,60.5,Q3305213,,1,0
+clouds,Q21620788,clouds,11.1,100.0,0.0,False,0.0,1.0,0.0,63.2,Q3305213,,1,0
+clouds,Q28039548,clouds,9.5,100.0,0.0,False,0.0,1.0,0.0,60.0,Q3305213,,1,0
+clouds,Q19888744,clouds,11.1,100.0,0.0,False,0.0,1.0,0.0,63.2,Q3305213,,1,0
+clouds,Q98706478,clouds,22.0,100.0,0.0,False,0.0,1.0,0.0,84.9,Q860861,,1,0
+clouds,Q20421180,clouds,11.4,100.0,0.0,False,0.0,1.0,0.0,63.9,Q3305213,,1,0
+clouds,Q5135768,clouds house,8.3,66.7,5.7,False,3.0,0.0,0.0,57.6,Q3947,,1,0
+clouds,Q1102640,cloudesley shovell,6.3,54.5,8.0,False,6.0,0.0,0.0,52.4,Q5,,1,0
+clouds,Q106566827,clouds,11.4,100.0,0.0,False,0.0,1.0,0.0,63.9,Q3305213,,1,0
+clouds,Q100367914,clouds,11.8,100.0,0.0,False,0.0,1.0,0.0,64.5,Q3305213,,1,0
+clouds,Q113723376,clouds,1.8,100.0,0.0,False,0.0,1.0,0.0,44.7,Q101352,,1,0
+clouds,Q20087051,cloud towers,7.3,100.0,0.0,True,0.0,0.0,1.0,55.6,Q3305213,,1,0
+clouds,Q24055379,clouds,12.1,100.0,0.0,False,0.0,1.0,0.0,65.2,Q3305213,,1,0
+clouds,Q96000175,clouds,4.4,100.0,3.5,False,0.0,1.0,0.0,60.2,Q215380,,1,0
+clouds,Q1228867,clouds of witness,18.5,52.2,6.2,False,6.0,0.0,0.0,70.6,Q7725634,,1,0
+clouds,Q19082498,the clouds,26.1,100.0,2.2,True,0.0,0.0,1.0,99.9,Q7725634,,1,0
+clouds,Q16155561,clouds,12.9,100.0,2.2,False,0.0,1.0,0.0,73.5,Q134556,,1,0
+clouds,Q5135764,clouds,10.3,100.0,2.2,False,0.0,1.0,0.0,68.2,Q134556,,1,0
+clouds,Q79288279,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q79291843,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q79288389,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q79294867,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q18563217,clouds,8.0,100.0,0.0,False,0.0,1.0,0.0,57.0,Q18761202,,1,0
+clouds,Q79288341,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q102080180,clouds,24.0,100.0,0.0,False,0.0,1.0,0.0,89.0,Q860861,,1,0
+clouds,Q79294053,clouds,6.2,100.0,0.0,False,0.0,1.0,0.0,53.5,Q3305213,,1,0
+clouds,Q110218463,clouds,4.0,100.0,0.0,False,0.0,1.0,0.0,48.9,Q125191,,1,0
+clouds,Q79288240,clouds,9.3,100.0,0.0,False,0.0,1.0,0.0,59.6,Q3305213,,1,0
+clouds,Q110548120,clouds,17.3,100.0,0.0,False,0.0,1.0,0.0,75.6,Q11060274;Q18218093;Q838948,,3,0
+clouds,Q112635406,clouds,10.5,100.0,0.0,False,0.0,1.0,0.0,62.1,Q3305213,,1,0
+clouds,Q616706,apache derby,5.9,75.0,8.7,False,6.0,0.0,0.0,62.0,Q1130645;Q176165;Q341,,3,0
+clouds,Q391351,clouds rest,5.1,70.6,6.7,False,3.0,0.0,0.0,55.5,Q8502,,1,0
+clouds,Q1102652,cloudscape,2.5,75.0,5.2,False,3.0,0.0,0.0,47.4,Q215380,,1,0
+clouds,Q59506817,clouds,3.4,100.0,0.0,False,0.0,1.0,0.0,47.7,Q3305213,,1,0
+clouds,Q2496860,apache cloudstack,5.3,75.0,8.0,False,6.0,0.0,0.0,58.6,Q341,,1,0
+clouds,Q49397,cloudsat,4.3,85.7,9.6,False,3.0,0.0,0.0,68.6,Q854845,,1,0
+clouds,Q4042322,cloudstore,30.0,75.0,5.2,False,3.0,0.0,0.0,102.5,Q17088419;Q174989;Q341,,3,0
+clouds,Q20900263,cloudsley louis rutter,5.4,42.9,3.6,False,6.0,0.0,0.0,32.7,Q5,,1,0
+clouds,Q22095616,cloudsim,3.5,85.7,3.5,False,3.0,0.0,0.0,48.8,Q7397,,1,0
+clouds,Q5135766,clouds across the moon,18.2,42.9,5.2,False,6.0,0.0,0.0,63.0,Q134556,,1,0
+clouds,Q19461057,clouds hill,6.8,70.6,2.2,False,3.0,0.0,0.0,45.4,Q3947,,1,0
+clouds,Q107123053,clouds,12.1,100.0,2.2,False,0.0,1.0,0.0,71.9,Q134556,,1,0
+clouds,Q104765433,nuages en finlande,7.3,52.2,0.0,False,6.0,0.0,0.0,29.5,Q3305213,,1,0
+clouds,Q5135617,cloudsnap,3.5,80.0,0.0,False,3.0,0.0,0.0,35.9,Q341,,1,0
+clouds,Q59497131,clouds and black hills,11.5,42.9,0.0,False,6.0,0.0,0.0,34.2,Q3305213,,1,0
+clouds,Q107385682,cloudscraper,4.2,66.7,0.0,False,3.0,0.0,0.0,32.0,Q29642950,,1,0
+clouds,Q24469,ceinture de gould,21.2,66.7,11.5,False,6.0,0.0,0.0,97.5,Q11387,,1,0
+clouds,Q5534660,geoffrey hendricks,4.7,75.0,5.8,False,6.0,0.0,0.0,50.6,Q5,,1,0
+clouds,Q3399465,clouds hill,14.7,70.6,6.7,False,3.0,0.0,0.0,74.6,Q2087181,,1,0
+clouds,Q5135780,cloudstreet,3.2,70.6,3.5,False,3.0,0.0,0.0,42.1,Q7725634,,1,0
+clouds,Q124316328,cloudsurfers,2.4,66.7,2.2,False,3.0,0.0,0.0,35.0,Q215380,,1,0
+clouds,Q483639,cloud computing,23.9,47.6,16.5,False,6.0,0.0,0.0,110.5,,,0,0
+clouds,Q914359,cloud storage,36.4,63.2,13.3,False,6.0,0.0,0.0,131.9,,,0,0
+clouds,Q160092,rubus chamaemorus,36.4,62.5,13.5,False,6.0,0.0,0.0,132.3,Q16521,,1,0
+clouds,Q4817119,atmospheric river,16.7,62.5,11.8,False,6.0,0.0,0.0,87.7,,,0,0
+clouds,Q5135629,cloud,1.7,90.9,4.4,False,3.0,1.0,0.0,51.2,Q101352,,1,0
+clouds,Q35494,calipso,17.8,46.2,9.6,False,3.0,0.0,0.0,79.9,Q854845,,1,0
+clouds,Q1343205,file-hosting service,9.0,58.8,12.2,False,6.0,0.0,0.0,71.9,,,0,0
+clouds,Q36135,clouded leopard,46.5,47.6,14.1,False,6.0,0.0,0.0,148.5,Q16521,,1,0
+clouds,Q376353,cloud county,10.3,55.6,12.3,False,6.0,0.0,0.0,73.6,Q13410444,,1,0
+clouds,Q1346018,infrastructure as a service,33.9,46.2,12.1,False,6.0,0.0,0.0,116.4,Q131339603,,1,0
+clouds,Q1798592,cloud strife,30.2,66.7,9.3,False,6.0,0.0,0.0,108.9,Q15632617;Q1569167,Q838498,2,1
+clouds,Q30665,clouded apollo,44.4,50.0,11.4,False,6.0,0.0,0.0,137.1,Q16521,,1,0
+clouds,Q214469,cloud forest,15.5,66.7,14.3,False,6.0,0.0,0.0,94.5,,,0,0
+clouds,Q113100,cloud,3.4,90.9,9.4,False,3.0,1.0,0.0,69.3,Q7889,,1,0
+clouds,Q180382,cloud burst,14.3,70.6,14.0,False,6.0,0.0,0.0,92.9,Q118733587,,1,0
+clouds,Q4778915,cloudflare,8.0,62.5,11.6,False,3.0,0.0,0.0,72.8,Q18388277;Q19967801;Q891723,,3,0
+clouds,Q16829781,cloud rap,10.8,66.7,11.1,False,6.0,0.0,0.0,75.5,Q188451,,1,0
+clouds,Q664424,cloud,26.5,90.9,6.7,False,3.0,1.0,0.0,107.4,Q101965,,1,0
+clouds,Q110160416,cloud region,8.8,55.6,2.0,False,6.0,0.0,0.0,39.9,,,0,0
+clouds,Q2553613,internet video,9.2,52.2,8.7,False,6.0,0.0,0.0,59.4,,,0,0
+clouds,Q2592476,cloud,2.2,90.9,3.5,False,3.0,1.0,0.0,49.2,Q58180408,,1,0
+clouds,Q1055865,overcast,4.1,83.3,8.7,False,3.0,0.0,0.0,64.5,Q830457,,1,0
+clouds,Q105071964,cloud,1.6,90.9,2.2,False,3.0,1.0,0.0,44.3,Q202444,,1,0
+clouds,Q637169,cloudy with a chance of meatballs,17.6,30.8,12.8,False,6.0,0.0,0.0,80.0,Q202866,,1,0
+clouds,Q19827848,cloud9,3.6,83.3,9.6,False,3.0,0.0,0.0,66.3,Q4438121;Q61974339;Q989470,,3,0
+clouds,Q12108188,cloud 9,9.8,76.9,9.2,False,6.0,0.0,0.0,72.0,Q506240,,1,0
+clouds,Q5135628,cloud,2.2,90.9,7.7,False,3.0,1.0,0.0,61.8,Q5,,1,0
+clouds,Q277157,cloudy with a chance of meatballs 2,20.8,29.3,12.0,False,6.0,0.0,0.0,83.2,Q202866,,1,0
+clouds,Q13479680,cloud species,70.0,63.2,7.2,False,6.0,0.0,0.0,180.7,,,0,0
+clouds,Q85632250,cloud gaming service,36.0,46.2,2.0,False,6.0,0.0,0.0,90.4,,,0,0
+clouds,Q2024390,remote backup service,44.0,55.6,10.0,False,6.0,0.0,0.0,134.1,,,0,0
+clouds,Q520871,colias croceus,33.3,50.0,11.6,False,6.0,0.0,0.0,115.4,Q16521,,1,0
+clouds,Q830457,cloud cover,21.6,58.8,14.3,False,6.0,0.0,0.0,103.5,,,0,0
+clouds,Q77977294,cloud,13.3,90.9,0.0,False,3.0,1.0,0.0,61.0,Q3305213,,1,0
+clouds,Q105692813,ieee international conference on cloud computing,5.5,90.9,0.0,False,6.0,0.0,0.0,41.5,Q47258130,,1,0
+clouds,Q50889494,cloud,10.5,90.9,0.0,False,3.0,1.0,0.0,55.4,Q3305213,,1,0
+clouds,Q18615484,cloud,26.7,90.9,0.0,False,3.0,1.0,0.0,87.8,Q838795,,1,0
+clouds,Q432556,cloudcroft,6.3,62.5,11.0,False,3.0,0.0,0.0,67.7,Q751708,,1,0
+clouds,Q1064312,cloud cult,3.4,62.5,7.7,False,6.0,0.0,0.0,48.7,Q215380,,1,0
+clouds,Q2499178,cloud database,18.8,60.0,10.7,False,6.0,0.0,0.0,87.6,,,0,0
+clouds,Q87526641,☁,2.5,90.9,2.2,False,0.0,0.0,0.0,48.0,Q1049294;Q29654788,,2,0
+clouds,Q11193408,cloud,1.9,90.9,2.2,False,3.0,1.0,0.0,44.9,Q215380,,1,0
+clouds,Q3548033,cloud,3.0,90.9,2.2,False,3.0,1.0,0.0,46.9,Q1114461;Q30174902,,2,0
+clouds,Q589099,cloud gate,6.7,62.5,11.0,False,6.0,0.0,0.0,65.4,Q570116;Q860861,,2,0
+clouds,Q2979728,cloudera,3.8,71.4,8.2,False,3.0,0.0,0.0,57.7,Q6881511;Q891723,,2,0
+clouds,Q40205,cartographie des nuages,6.4,70.6,10.9,False,6.0,0.0,0.0,67.7,Q7725634,,1,0
+clouds,Q93133342,cloudpunk,3.2,66.7,7.0,False,3.0,0.0,0.0,51.1,Q7889,,1,0
+clouds,Q1102629,jeu à la demande,30.8,55.6,12.7,False,6.0,0.0,0.0,115.9,Q81941037,,1,0
+clouds,Q1102645,cloud nothings,4.2,60.0,8.2,False,6.0,0.0,0.0,50.9,Q215380,,1,0
+clouds,Q16540469,cloud imperium games,3.9,46.2,5.2,False,6.0,0.0,0.0,35.7,Q210167,,1,0
+clouds,Q5135728,cloudberry kingdom,3.4,41.7,5.2,False,6.0,0.0,0.0,32.8,Q7889,,1,0
+clouds,Q5135791,cloudy with a chance of meatballs,30.0,30.8,5.7,False,6.0,0.0,0.0,83.5,Q7889,,1,0
+clouds,Q50866964,cloud native computing foundation,6.0,25.6,8.2,False,6.0,0.0,0.0,41.0,Q18325460;Q39998995,,2,0
+clouds,Q4036320,cloud9,4.1,83.3,7.0,False,3.0,0.0,0.0,59.6,Q13741;Q341,,2,0
+clouds,Q5135655,cloud county community college,21.7,27.8,3.5,False,6.0,0.0,0.0,59.0,Q1336920;Q23002039,,2,0
+clouds,Q3681214,cloudkicker,3.8,58.8,5.2,False,3.0,0.0,0.0,43.5,Q215380,,1,0
+clouds,Q2162831,cloud nine,25.0,62.5,3.5,False,6.0,0.0,0.0,79.5,Q105543609,,1,0
+clouds,Q509074,cloudina,11.1,71.4,8.2,False,3.0,0.0,0.0,72.4,Q23038290,,1,0
+clouds,Q111854927,cloud m1,4.0,71.4,0.0,False,6.0,0.0,0.0,30.5,Q210167,,1,0
+clouds,Q28974776,cloud-init,2.5,62.5,2.2,False,3.0,0.0,0.0,33.6,Q7397,,1,0
+clouds,Q29186572,cloudesley brereton,4.6,48.0,4.5,False,6.0,0.0,0.0,35.7,Q5,,1,0
