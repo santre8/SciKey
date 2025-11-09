@@ -83,3 +83,10 @@ PREFERRED_P31  = { #"Q486972", #human settlement
 # =============== DEBUG =================
 DEBUG_SCORES = True
 DEBUG_SCORES_PATH = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores.csv")  # cambia la ruta si quieres
+
+# --- Context similarity filters ---
+STOPWORDS = {
+    "the","and","of","in","on","for","with","by","from","to","at","as","is","are","was","were",
+    "a","an","this","that","these","those","it","its","their","our"
+}
+MIN_TOKEN_LEN = 4   # ignora tokens cortos en el cálculo de contexto
