@@ -5,16 +5,39 @@ from typing import Dict, List, Iterable
 _ws_re = re.compile(r"\s+", re.UNICODE)
 _token_re = re.compile(r"[^\w\-]+")
 
+# def normalize_kw(s: str) -> str:
+#     if not s:
+#         return ""
+#     s = s.replace("\u00A0", " ").replace("\ufeff", "")
+#     s = _ws_re.sub(" ", s.strip())
+#     s = s.strip(";, ")
+#     return s
+
+
+
 def normalize_kw(s: str) -> str:
+    """
+    Normaliza texto para comparación semántica:
+    - Convierte todo a minúsculas, EXCEPTO tokens que son
+      acrónimos técnicos de 2–5 letras en mayúsculas (e.g., TEM, CVD, XRD, DNA).
+    - Elimina signos de puntuación y separadores.
+    """
     if not s:
         return ""
-    s = s.replace("\u00A0", " ").replace("\ufeff", "")
-    s = _ws_re.sub(" ", s.strip())
-    s = s.strip(";, ")
-    return s
+    
+    tokens = re.findall(r"[A-Za-z0-9\-\+]+", s)
+    normalized = []
+    for t in tokens:
+        # Si el token es todo mayúsculas, alfabético, y de 2–5 letras → conserva
+        if t.isalpha() and t.isupper() and 2 <= len(t) <= 5:
+            normalized.append(t)
+        else:
+            normalized.append(t.lower())
+    return " ".join(normalized)
+
 
 def tokenize(text: str) -> List[str]:
-    return [t for t in _token_re.split((text or "").lower()) if t]
+    return [t for t in _token_re.split((text or "")) if t]
 
 def singularize_en(word: str) -> str:
     w = normalize_kw(word)

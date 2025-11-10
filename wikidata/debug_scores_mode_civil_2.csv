@@ -1,0 +1,1038 @@
+kw,qid,label,mode,exact_label,exact_alias,ctx,sl_log1p,p31_cnt,p279_cnt,ctx_p31,ctx_p279,alias_inv,w_ctx,w_sl,w_p31,w_p279,w_ctx_p31,w_ctx_p279,w_alias_inv,bonus_label,bonus_alias,total
+rock glacier,Q884736,rock glacier,label,1,0,1.4,2.77,0.0,5.0,0.0,33.0,0.333,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.91
+rock glacier,Q31484210,Rock Glacier,label,1,0,1.0,0.69,1.0,0.0,37.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.49
+rock glacier,Q115111391,Rock glacier destabilization in the French Alps : insights from regional and local scale assessments,none,0,0,0.5,0.0,1.0,0.0,22.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.6
+pleistocene,Q25546,Pleistocene,label,1,0,0.0,4.55,2.0,0.0,27.5,0.0,0.333,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.15
+pleistocene,Q1759232,Quaternary extinction event,none,0,0,0.0,3.22,1.0,0.0,20.7,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.47
+pleistocene,Q1040770,Quaternary glaciation,none,0,0,0.0,3.22,1.0,0.0,25.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.66
+pleistocene,Q1632825,Pleistocene rewilding,none,0,0,0.0,2.48,1.0,3.0,15.6,40.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.32
+pleistocene,Q106770863,"Pleistocene Epoch, New York",none,0,0,0.5,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+pleistocene,Q2099296,Pleistocene Park,none,0,0,0.0,3.04,2.0,0.0,16.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.29
+pleistocene,Q1237403,Pleistocene megafauna,none,0,0,0.0,2.83,0.0,2.0,0.0,27.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.84
+pleistocene,Q106768037,Pleistocene Edentates of Patagoni,none,0,0,0.0,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.99
+pleistocene,Q106774771,"Pleistocene Epoch, Austria",none,0,0,0.5,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+pleistocene,Q4754,Discus macclintocki,none,0,0,0.0,2.08,1.0,0.0,21.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.26
+pleistocene,Q106768380,Pleistocene Fauna of Asia,none,0,0,0.0,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.99
+pleistocene,Q106773779,"Pleistocene Epoch, Ireland",none,0,0,0.5,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+pleistocene,Q106767818,"Pleistocene Epoch, Australia",none,0,0,0.5,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+pleistocene,Q106774619,"Pleistocene Epoch, New Jersey",none,0,0,0.5,0.0,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+pleistocene,Q2710152,Panthera onca augusta,none,0,0,0.5,2.4,1.0,0.0,12.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.7
+pleistocene,Q2710439,Panthera onca mesembrina,none,0,0,0.0,2.08,1.0,0.0,12.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.97
+pleistocene,Q117084638,Pleistocene,label,1,0,0.0,0.69,1.0,0.0,14.5,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.09
+pleistocene,Q20720501,Canis latrans orcutti,none,0,0,0.0,1.79,1.0,0.0,12.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.32
+pleistocene,Q28182554,Pleistocene New Zealand sea lion,none,0,0,0.0,1.39,1.0,0.0,12.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.62
+pleistocene,Q122934793,Pleistocene Skeleton,none,0,0,0.0,0.0,1.0,0.0,10.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.9
+pleistocene,Q77015485,Pleistocene Monarchs,none,0,0,0.0,0.0,1.0,0.0,30.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.11
+pleistocene,Q492596,Chibanien,none,0,0,1.9,3.43,2.0,0.0,22.7,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.71
+pleistocene,Q498831,Pléistocène supérieur,none,0,0,2.9,3.33,2.0,0.0,22.7,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.81
+pleistocene,Q444693,Pléistocène inférieur,none,0,0,1.9,2.77,2.0,0.0,12.3,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.42
+pleistocene,Q110655160,Pléistocène moyen,none,0,0,1.4,0.69,2.0,0.0,12.3,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.8
+late glacial,Q2741484,Late Glacial Maximum,none,0,0,0.0,1.95,1.0,0.0,14.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.92
+late glacial,Q109676376,Late Glacial fire and nitrogen dynamics at lacustrine sites in Alabama and Michigan: Evidence of an acid rain event?,none,0,0,0.0,0.0,1.0,0.0,13.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.94
+glacier rocheux,Q884736,rock glacier,alias,0,1,1.9,2.77,0.0,5.0,0.0,33.0,0.333,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,40.02
+glacier rocheux,Q3108377,Laurichard Glacier,none,0,0,1.9,1.39,1.0,0.0,37.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.18
+tardiglaciaire,Q2741484,Late Glacial Maximum,alias,0,1,0.0,1.95,1.0,0.0,14.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,29.98
+structural dynamics,Q811197,structural dynamics,label,1,0,4.0,2.3,1.0,2.0,23.5,45.6,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,50.43
+structural dynamics,Q106486962,Structural dynamics analysis report Apollo 14 LRRR,none,0,0,1.0,0.0,1.0,0.0,28.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.29
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,5.1,0.69,0.0,3.0,0.0,48.9,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,45.4
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,2.0,0.0,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.48
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,3.0,0.0,2.0,0.0,35.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.59
+structural dynamics,Q811197,structural dynamics,label,1,0,8.7,2.3,1.0,2.0,28.9,53.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,64.66
+structural dynamics,Q106486962,Structural dynamics analysis report Apollo 14 LRRR,none,0,0,5.8,0.0,1.0,0.0,29.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.05
+global modes,Q63368576,Global Modelling of Aerosols and Chemistry in Support of SOLAS-UK,none,0,0,5.8,0.0,2.0,0.0,40.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.96
+computational model,Q1122506,computational model,label,1,0,5.8,2.2,0.0,6.0,0.0,45.8,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,58.1
+computational model,Q105698420,Computational Modeling of Objects Represented in Images,none,0,0,2.9,0.0,1.0,0.0,39.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+computational model,Q16950320,COMBINE,none,0,0,8.7,1.1,1.0,0.0,20.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.99
+computational model,Q113582117,Computational Models in Language and Speech Workshop (CMLS 2020),none,0,0,2.9,0.0,1.0,0.0,10.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.38
+computational model,Q113583229,Computational Models in Language and Speech Workshop (CMLS 2018),none,0,0,2.9,0.0,1.0,0.0,10.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.38
+computational model,Q106331602,"Computational Modelling of Objects Represented in Images - Fundamentals, Methods and Applications III, Third International Symposium, CompIMAGE 2012, Rome, Italy, September 5-7, 2012",none,0,0,4.3,0.0,1.0,0.0,40.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.43
+computational model,Q106331604,"Computational Models of Argument - COMMA 2012, Vienna, Austria, September 10-12, 2012",none,0,0,1.4,0.0,1.0,0.0,40.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.95
+computational model,Q106243093,"Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications - 4th International Conference, CompIMAGE 2014, Pittsburgh, PA, USA, September 3-5, 2014",none,0,0,4.3,0.0,1.0,0.0,40.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.43
+computational model,Q106243091,"Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications - 5th International Symposium, CompIMAGE 2016, Niagara Falls, NY, USA, September 21-23, 2016",none,0,0,4.3,0.0,1.0,0.0,40.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.43
+computational model,Q113095709,computational modelling and simulation in earth sciences,none,0,0,4.3,0.0,1.0,3.0,28.9,43.6,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.46
+computational model,Q105695465,Computational Models of Argument,none,0,0,1.4,0.0,1.0,0.0,39.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.93
+computational model,Q111382150,CMGS database (CMGSDB),none,0,0,2.9,0.0,1.0,0.0,20.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.98
+computational model,Q46405782,"Computational modeling, docking and molecular dynamics of the transcriptional activator ComA bound to a newly-identified functional DNA binding site.",none,0,0,8.7,0.0,1.0,0.0,28.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.52
+computational model,Q63365808,Computational modelling for nuclear reactor thermal hydraulics,none,0,0,1.4,0.0,2.0,0.0,40.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.74
+computational model,Q106243094,"Computational Modeling of Objects Represented in Images, Second International Symposium, CompIMAGE 2010, Buffalo, NY, USA, May 5-7, 2010",none,0,0,2.9,0.0,1.0,0.0,40.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.69
+frequency range,Q16023911,radio frequency range,alias,0,1,4.3,3.18,0.0,7.0,0.0,42.8,0.222,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,50.17
+vibroacoustic,Q9190385,Vibroacoustic disease,none,0,0,0.0,1.39,1.0,3.0,34.5,48.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.02
+vibroacoustic,Q7924691,Vibroacoustic stimulation,none,0,0,1.0,1.39,0.0,2.0,0.0,40.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.44
+vibration,Q3695508,vibration,label,1,0,2.0,4.01,1.0,3.0,26.0,38.7,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,52.67
+vibration,Q2031871,vibration white finger,none,0,0,0.0,2.56,1.0,4.0,34.5,45.1,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.05
+vibration,Q19883016,Vibration,label,1,0,0.0,0.0,1.0,0.0,24.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,26.53
+vibration,Q3556810,Vibration,label,1,0,1.0,1.1,1.0,0.0,27.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.05
+vibration,Q108467928,vibration,label,1,0,1.0,0.69,1.0,2.0,26.7,31.7,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.72
+vibration,Q78236821,vibration damping,none,0,0,2.0,0.0,0.0,2.0,0.0,40.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.97
+vibration,Q26373241,Vibration,label,1,0,1.0,0.0,1.0,0.0,29.4,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.71
+vibration,Q107542035,Vibration,label,1,0,1.0,0.0,1.0,0.0,17.4,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.44
+vibration,Q59567070,Vibration,label,1,0,0.0,0.0,1.0,0.0,24.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,26.53
+vibration,Q64790929,Vibration,label,1,0,0.0,0.0,1.0,0.0,24.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,26.53
+vibration,Q3305953,Vibration control (earthquake engineering),none,0,0,0.0,1.79,0.0,2.0,0.0,30.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.34
+vibration,Q105637294,density of vibrational states,none,0,0,1.0,0.0,0.0,2.0,0.0,39.3,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.49
+vibration,Q101652899,Vibrations,none,0,0,1.0,0.0,1.0,0.0,22.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.25
+vibration,Q19887023,Vibrational Structure from a Circle Series B,none,0,0,2.0,0.0,1.0,0.0,24.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.49
+vibration,Q102976709,"Vibrations/Metaphors, from the Revolutions Per Minute (The Art Record)",none,0,0,2.0,0.0,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.5
+vibration,Q66318425,Vibration and Tolerance Test (NAID 81438727),none,0,0,3.1,0.0,1.0,0.0,34.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.82
+vibration,Q20193595,Vibrations of Aurora,none,0,0,2.0,0.0,1.0,0.0,24.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.49
+vibration,Q2257794,vibratory conveyor,none,0,0,4.1,0.69,0.0,2.0,0.0,27.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.67
+vibration,Q77582803,"Vibration des adjacents rouge-bleu, fond violet",none,0,0,0.0,0.0,1.0,0.0,24.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.04
+vibration,Q109968206,vibration isolation,none,0,0,1.0,2.08,1.0,7.0,24.6,49.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.91
+vibration,Q7924648,vibration galvanometer,none,0,0,0.0,1.39,0.0,2.0,0.0,17.1,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.03
+vibration,Q7924692,vibromassage,none,0,0,3.1,1.1,0.0,3.0,0.0,44.9,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.98
+vibration,Q15846913,vibrational spectroscopy,none,0,0,2.0,1.1,1.0,2.0,25.1,38.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.56
+vibration,Q86750626,Vibrations,none,0,0,1.0,0.69,1.0,0.0,33.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.7
+vibration,Q70906,spectroscopie infrarouge,none,0,0,4.1,3.81,0.0,2.0,0.0,42.2,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.09
+vibration,Q900121,Vibration moléculaire,none,0,0,0.0,3.0,0.0,5.0,0.0,44.7,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.36
+vibration,Q927160,Vibrations vocales,none,0,0,2.0,2.08,1.0,2.0,31.0,12.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.9
+vibration,Q87577856,📳,none,0,0,0.0,0.69,2.0,0.0,34.5,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.29
+vibration,Q31009,stabilisation d'image,none,0,0,2.0,3.18,1.0,4.0,18.0,46.1,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.54
+vibration,Q5647138,vibrations mains-bras,none,0,0,2.0,1.1,0.0,3.0,0.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.63
+vibration,Q328835,somesthésie,none,0,0,0.0,4.01,0.0,2.0,0.0,32.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.96
+vibration,Q115742480,Vibration,label,1,0,0.0,0.0,2.0,0.0,34.4,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.76
+vibration,Q3556859,vibreur,none,0,0,0.0,2.77,0.0,3.0,0.0,32.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+vibration,Q1671046,plate-forme vibrante,none,0,0,1.0,2.4,0.0,2.0,0.0,35.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.91
+vibration,Q134470333,vibrations latérales des passerelles sous l'effet des piétons,none,0,0,2.0,0.69,0.0,3.0,0.0,47.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.98
+vibration,Q2521791,Vibrating alert,none,0,0,2.0,2.08,1.0,3.0,30.7,47.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.78
+vibration,Q67955745,vibration monochromatique,none,0,0,0.0,0.0,0.0,2.0,0.0,38.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.01
+vibration,Q26329945,Vibrations professionnelles en fonderie,none,0,0,1.0,0.0,1.0,0.0,25.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.28
+vibration,Q15852805,Bol vibrant,none,0,0,3.1,2.08,0.0,4.0,0.0,45.8,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.98
+vibration,Q1530642,Tribofinition,none,0,0,4.1,1.61,1.0,2.0,25.1,40.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.28
+vibration,Q47523545,Vibration VIII,none,0,0,0.0,0.0,1.0,0.0,24.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.04
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,6.1,0.69,0.0,3.0,0.0,48.3,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,48.61
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,4.1,0.0,1.0,0.0,24.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.94
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,4.1,0.0,2.0,0.0,35.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.85
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,6.6,0.69,0.0,3.0,0.0,51.8,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,50.09
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,4.4,0.0,1.0,0.0,25.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.33
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,4.4,0.0,2.0,0.0,39.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.27
+neural networks,Q192776,artificial neural network,none,0,0,7.4,4.37,1.0,9.0,23.9,44.8,0.071,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,18.04
+neural networks,Q14565187,IEEE Neural Networks Pioneer Award,none,0,0,2.1,0.69,1.0,0.0,36.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.04
+neural networks,Q26376287,"Neural networks for processing data from multiple redundant sensors for mine systems management, operation, maintenance, and control",none,0,0,5.3,0.0,1.0,0.0,24.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.36
+neural networks,Q65383351,Neural Networks and Language Recovery in Aphasia From Stroke: fMRI Studies,none,0,0,4.2,0.0,1.0,0.0,28.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.14
+neural networks,Q60892611,Neural networks in chemical reaction dynamics,none,0,0,3.2,0.0,1.0,0.0,15.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.74
+neural networks,Q43283,circuit neuronal,alias,0,1,3.2,3.61,0.0,2.0,0.0,41.3,1.0,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,49.54
+neural networks,Q28854771,neural network,label,1,0,2.1,0.0,0.0,2.0,0.0,19.4,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.7
+neural networks,Q96072451,network pruning,none,0,0,5.3,1.39,0.0,1.0,0.0,23.9,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.0
+neural networks,Q24895600,AI accelerator,none,0,0,4.2,3.09,1.0,9.0,23.5,46.5,0.1,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.71
+neural networks,Q17004595,neural network software,none,0,0,5.3,1.61,1.0,0.0,16.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.09
+neural networks,Q110404576,neural network model,none,0,0,3.2,0.0,0.0,5.0,0.0,51.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.2
+neural networks,Q12811862,neural network,label,1,0,4.2,3.18,0.0,3.0,0.0,47.7,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,54.8
+robust optimization,Q2160088,robust optimization,label,1,0,3.1,1.95,0.0,2.0,0.0,35.6,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.8
+bayesian inference,Q812535,Bayesian inference,label,1,0,9.8,3.61,0.0,5.0,0.0,50.9,0.182,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,72.96
+bayesian inference,Q4874472,Bayesian inference in phylogeny,none,0,0,8.5,2.2,0.0,3.0,0.0,51.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,16.56
+bayesian inference,Q102054476,Bayesian inference for dependent chains applied to neural phenomena,none,0,0,3.7,0.0,1.0,0.0,28.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.48
+bayesian inference,Q4874471,Bayesian inference in motor learning,none,0,0,1.2,0.69,0.0,3.0,0.0,51.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.02
+bayesian inference,Q4874473,Bayesian inference using Gibbs sampling,none,0,0,1.2,0.69,1.0,3.0,31.7,51.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.14
+bayesian inference,Q135102253,Bayesian inference for Plackett-Luce ranking models,none,0,0,2.4,0.0,1.0,0.0,28.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.01
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,8.1,0.69,0.0,3.0,0.0,48.5,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,54.44
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,3.2,0.0,1.0,0.0,33.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.0
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,4.8,0.0,2.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.83
+monocristallin,Q754943,single crystal,none,0,0,5.5,3.53,0.0,4.0,0.0,49.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.17
+microstructure,Q1498213,microstructure,label,1,0,1.6,3.04,1.0,3.0,27.3,42.6,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,48.85
+microstructure,Q1431442,microreactor,none,0,0,1.6,2.3,0.0,2.0,0.0,34.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.71
+microstructure,Q6481705,lamellar structure,none,0,0,1.6,1.61,1.0,4.0,19.3,43.5,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.94
+microstructure,Q104522312,Microstructures,none,0,0,0.0,0.0,1.0,0.0,28.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.08
+microstructure,Q77076988,Microstructure and Pores,none,0,0,2.4,0.0,1.0,0.0,23.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.87
+microstructure,Q106045641,microstructure,label,1,0,7.1,0.0,0.0,2.0,0.0,27.2,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,46.8
+microstructure,Q107973476,Microstructure of Ingestive Behavior and Body Weight Loss After Roux-en-Y Gastric Bypass,none,0,0,3.9,0.0,1.0,0.0,22.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.75
+microstructure,Q74276020,Microstructure Imaging in Stroke Patients,none,0,0,1.6,0.0,1.0,0.0,22.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.92
+microstructure,Q3312415,microstructure,label,1,0,0.8,0.69,1.0,0.0,22.0,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,30.29
+cristallographie,Q826582,X-ray crystallography,none,0,0,7.1,4.01,1.0,4.0,13.1,42.9,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.93
+cristallographie,Q160398,crystallography,alias,0,1,1.6,4.45,3.0,7.0,31.1,45.7,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,52.88
+cristallographie,Q62968506,serial femtosecond crystallography,none,0,0,1.6,0.69,0.0,2.0,0.0,42.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.78
+cristallographie,Q30262304,"Laboratory of Crystallography, Nuclear Magnetic Resonance and Modelling",none,0,0,3.1,0.0,1.0,0.0,19.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.98
+nouvelle generation,Q111707902,Nouvelle Generation IX,none,0,0,1.6,0.0,1.0,0.0,35.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.05
+nouvelle generation,Q7062768,Nothing Important Happened Today,none,0,0,2.4,2.08,1.0,0.0,19.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.87
+nouvelle generation,Q954025,future generation,none,0,0,4.7,3.18,1.0,2.0,23.8,33.6,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.76
+nouvelle generation,Q17960318,Nouvelle génération très prometteuse de cellules photovoltaïques développées au Luxembourg,none,0,0,0.8,0.69,1.0,0.0,11.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.21
+nouvelle generation,Q123953917,Nouvelle génération pour la République,none,0,0,0.8,0.0,1.0,0.0,27.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.02
+turbine GAZ,Q900729,combined cycle power station,none,0,0,2.4,3.5,0.0,4.0,0.0,41.4,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.78
+structural dynamics,Q811197,structural dynamics,label,1,0,8.6,2.3,1.0,2.0,28.5,53.7,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,64.29
+structural dynamics,Q106486962,Structural dynamics analysis report Apollo 14 LRRR,none,0,0,5.7,0.0,1.0,0.0,28.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.95
+computational model,Q1122506,computational model,label,1,0,7.1,2.2,0.0,6.0,0.0,47.4,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,62.16
+computational model,Q105698420,Computational Modeling of Objects Represented in Images,none,0,0,4.3,0.0,1.0,0.0,37.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.32
+computational model,Q16950320,COMBINE,none,0,0,11.4,1.1,1.0,0.0,20.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,17.27
+computational model,Q113582117,Computational Models in Language and Speech Workshop (CMLS 2020),none,0,0,5.7,0.0,1.0,0.0,10.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.76
+computational model,Q113583229,Computational Models in Language and Speech Workshop (CMLS 2018),none,0,0,5.7,0.0,1.0,0.0,10.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.76
+computational model,Q106331602,"Computational Modelling of Objects Represented in Images - Fundamentals, Methods and Applications III, Third International Symposium, CompIMAGE 2012, Rome, Italy, September 5-7, 2012",none,0,0,5.7,0.0,1.0,0.0,42.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.08
+computational model,Q106331604,"Computational Models of Argument - COMMA 2012, Vienna, Austria, September 10-12, 2012",none,0,0,4.3,0.0,1.0,0.0,42.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.37
+computational model,Q106243093,"Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications - 4th International Conference, CompIMAGE 2014, Pittsburgh, PA, USA, September 3-5, 2014",none,0,0,5.7,0.0,1.0,0.0,42.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.08
+computational model,Q106243091,"Computational Modeling of Objects Presented in Images. Fundamentals, Methods, and Applications - 5th International Symposium, CompIMAGE 2016, Niagara Falls, NY, USA, September 21-23, 2016",none,0,0,5.7,0.0,1.0,0.0,42.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.08
+computational model,Q113095709,computational modelling and simulation in earth sciences,none,0,0,5.7,0.0,1.0,3.0,28.5,45.3,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.11
+computational model,Q105695465,Computational Models of Argument,none,0,0,4.3,0.0,1.0,0.0,37.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.32
+computational model,Q111382150,CMGS database (CMGSDB),none,0,0,5.7,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.37
+computational model,Q46405782,"Computational modeling, docking and molecular dynamics of the transcriptional activator ComA bound to a newly-identified functional DNA binding site.",none,0,0,10.0,0.0,1.0,0.0,27.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,16.08
+computational model,Q63365808,Computational modelling for nuclear reactor thermal hydraulics,none,0,0,2.9,0.0,2.0,0.0,41.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.44
+computational model,Q106243094,"Computational Modeling of Objects Represented in Images, Second International Symposium, CompIMAGE 2010, Buffalo, NY, USA, May 5-7, 2010",none,0,0,4.3,0.0,1.0,0.0,42.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.37
+frequency range,Q16023911,radio frequency range,alias,0,1,5.7,3.18,0.0,7.0,0.0,42.0,0.222,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,54.26
+nonlinear dynamics,Q1985198,nonlinear dynamics,label,1,0,2.7,1.1,1.0,10.0,23.6,50.8,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,55.04
+nonlinear dynamics,Q660848,système non linéaire,alias,0,1,8.1,3.69,0.0,3.0,0.0,43.6,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,63.07
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,4.5,0.69,0.0,3.0,0.0,47.5,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,43.74
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,1.8,0.0,1.0,0.0,24.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.2
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,2.7,0.0,2.0,0.0,35.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.2
+robust optimization,Q2160088,robust optimization,label,1,0,1.8,1.95,0.0,2.0,0.0,30.6,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,40.8
+site-directed mutagenesis,Q2642668,site-directed mutagenesis,label,1,0,0.0,2.64,0.0,3.0,0.0,29.0,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,37.64
+electrophysiology,Q1154774,electrophysiology,label,1,0,1.6,3.5,1.0,2.0,21.7,28.2,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,46.55
+electrophysiology,Q356991,Electrophysiology study,none,0,0,0.0,1.79,1.0,3.0,21.8,37.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.02
+electrophysiology,Q13923742,LIRYC,none,0,0,0.5,1.1,2.0,0.0,35.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.36
+electrophysiology,Q64122841,Electrophysiology of Fetal Arrhythmia,none,0,0,0.5,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.64
+electrophysiology,Q63808654,Electrophysiology of Brain Activity During Electrode Implantation in Patients Treated With Deep Brain Stimulation,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+electrophysiology,Q50037471,Electrophysiology Research Foundation,none,0,0,0.5,0.0,1.0,0.0,32.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.78
+electrophysiology,Q61694866,Electrophysiology and Blood Flow in Patients With Schizophrenia and Their Siblings,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+electrophysiology,Q113885280,Electrophysiology in Congenital Cataract After Lensectomy and Anterior,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+immunohistochemistry,Q899285,immunohistochemistry,label,1,0,1.1,3.47,1.0,8.0,31.6,42.4,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,54.69
+biotinylation,Q864854,biotinylation,label,1,0,1.1,1.61,0.0,6.0,0.0,47.4,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,43.66
+loss of function,Q27907094,Loss Of Function Variant,none,0,0,3.3,0.0,0.0,2.0,0.0,32.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.39
+loss of function,Q28445224,CYP2D6 LOSS-OF-FUNCTION,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28444938,BRCA2 Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28444947,VHL Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28444937,BRCA1 Loss-of-function,none,0,0,1.1,0.0,2.0,0.0,36.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.28
+loss of function,Q15832730,loss of function mutation,none,0,0,3.8,0.69,0.0,5.0,0.0,44.8,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.69
+loss of function,Q56860940,Loss of function of MECP2 in Rett syndrome,none,0,0,2.2,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+loss of function,Q45314396,Loss of Function of SMAD2/3 in Cancer,none,0,0,2.2,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+loss of function,Q45314403,Loss of Function of TGFBR1 in Cancer,none,0,0,2.2,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+loss of function,Q45314400,Loss of Function of TGFBR2 in Cancer,none,0,0,2.2,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+loss of function,Q37754794,Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling,none,0,0,3.3,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.98
+loss of function,Q45314393,Loss of Function of SMAD4 in Cancer,none,0,0,2.2,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+loss of function,Q50288954,Loss-of-function NF1 variants don't stimulate RAS GTPase activity,none,0,0,3.3,0.0,1.0,0.0,30.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.04
+loss of function,Q113000703,loss of function of TP53 in cancer due to loss of tetramerization ability,none,0,0,3.3,0.0,1.0,0.0,24.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.98
+loss of function,Q113000705,loss of function of TP53 in cancer,none,0,0,2.7,0.0,1.0,0.0,24.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.32
+loss of function,Q28444985,CHEK2 Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28444986,CDK12 LOSS-OF-FUNCTION,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28445232,PTPRB Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28371045,TSC1 Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+loss of function,Q28444951,KMT2D Loss-of-function,none,0,0,1.1,0.0,1.0,0.0,44.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+zebrafish,Q169444,Danio rerio,alias,0,1,1.1,3.97,2.0,0.0,30.6,0.0,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,40.2
+zebrafish,Q64442284,Zebrafish protein,none,0,0,1.6,0.0,0.0,5.0,0.0,35.7,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.11
+zebrafish,Q81661845,Zebrafish Experimental Conditions Ontology,none,0,0,2.2,0.0,1.0,0.0,21.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.64
+zebrafish,Q29822085,Cytoplasmic polyadenylation element binding protein 1b,none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+zebrafish,Q81661530,Zebrafish anatomy and development ontology,none,0,0,2.7,0.0,1.0,0.0,21.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.3
+zebrafish,Q54995906,ZFL,none,0,0,1.1,0.0,2.0,0.0,29.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.21
+zebrafish,Q590928,Zebrafish Information Network,none,0,0,1.1,1.39,2.0,0.0,15.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.26
+zebrafish,Q29832813,Cyclin D-type binding-protein 1,none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.48
+zebrafish,Q81661852,Zebrafish Phenotype Ontology,none,0,0,2.2,0.0,1.0,0.0,21.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.64
+zebrafish,Q81661847,Zebrafish developmental stages ontology,none,0,0,1.6,0.0,1.0,0.0,21.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.98
+zebrafish,Q29782417,zte38,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+zebrafish,Q55118656,Zebrafish Anatomical Ontology,none,0,0,0.5,0.0,1.0,0.0,21.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.67
+zebrafish,Q29836004,Zebrafish testis-expressed 38,none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.47
+zebrafish,Q54995900,ZES1,none,0,0,1.1,0.0,2.0,0.0,29.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.2
+zebrafish,Q54995938,ZKS,none,0,0,1.1,0.0,2.0,0.0,23.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.15
+zebrafish,Q54995905,ZFB1,none,0,0,1.1,0.0,2.0,0.0,29.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.21
+zebrafish,Q54995917,ZG,none,0,0,1.1,0.0,2.0,0.0,29.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.21
+zebrafish,Q106517063,zebrafish pigment progenitor cell,none,0,0,2.2,0.0,1.0,2.0,23.7,32.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.12
+zebrafish,Q111416546,zebrafish Schwann cell,none,0,0,2.2,0.0,1.0,2.0,23.7,30.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.1
+zebrafish,Q106602131,zebrafish early differentiating enteric neurons,none,0,0,2.7,0.0,1.0,2.0,23.7,24.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.71
+zebrafish,Q122906670,Zebrafish embryo neonicotinoid developmental neurotoxicity in the FET test and behavioral assays_suppl,none,0,0,2.2,0.0,1.0,0.0,13.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.55
+zebrafish,Q106410739,zebrafish sensory dorsal root ganglion (DRG) progenitors,none,0,0,2.2,0.0,1.0,2.0,23.7,32.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.12
+zebrafish,Q108821559,ZBE3,none,0,0,1.1,0.0,2.0,0.0,29.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.2
+zebrafish,Q114815101,Effects of the gravity on maintenance of muscle mass in zebrafish,none,0,0,2.2,0.0,1.0,0.0,14.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.57
+zebrafish,Q111729427,zebrafish body melanocyte,none,0,0,2.2,0.0,1.0,3.0,23.7,25.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.66
+zebrafish,Q113856196,ZInC,none,0,0,1.6,0.0,1.0,0.0,12.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.89
+zebrafish,Q106410740,zebrafish  pigment cell,none,0,0,2.2,0.0,1.0,3.0,23.7,34.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.73
+zebrafish,Q111729429,zebrafish fin melanocyte,none,0,0,2.2,0.0,1.0,3.0,23.7,25.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.66
+zebrafish,Q23037766,zebrafish allergy,none,0,0,1.1,0.0,1.0,3.0,23.5,30.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.39
+zebrafish,Q106517058,zebrafish melanophore,none,0,0,2.2,0.0,1.0,2.0,23.7,31.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.11
+zebrafish,Q114814731,Identification of Space Environment-sensitive Gene and Investigation of the Sensing Mechanism Using Zebrafish,none,0,0,3.3,0.0,1.0,0.0,14.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.88
+zebrafish,Q106517045,zebrafish neural crest cell,none,0,0,2.2,0.0,1.0,3.0,23.7,23.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.64
+zebrafish,Q106602130,zebrafish  enteric neural crest cell,none,0,0,2.2,0.0,1.0,2.0,23.7,40.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.19
+zebrafish,Q106517059,zebrafish xanthophore,none,0,0,2.2,0.0,1.0,2.0,23.7,29.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.1
+zebrafish,Q106517062,zebrafish iridophore,none,0,0,2.2,0.0,1.0,2.0,23.7,29.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.1
+zebrafish,Q111416542,zebrafish neural crest derived pigment cell,none,0,0,2.2,0.0,1.0,2.0,23.7,25.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.06
+sequencing,Q1764062,sequencing,label,1,0,2.7,3.09,0.0,2.0,0.0,23.9,0.25,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,45.04
+sequencing,Q5250436,high-coverage sequencing,none,0,0,0.5,1.61,0.0,5.0,0.0,37.4,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.16
+sequencing,Q908889,DNA sequencer,none,0,0,1.6,2.71,0.0,3.0,0.0,33.6,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.99
+sequencing,Q1341745,sequencing batch reactor,none,0,0,1.6,2.08,0.0,4.0,0.0,32.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.67
+sequencing,Q7452486,sequencing fountain,none,0,0,2.2,0.69,0.0,5.0,0.0,34.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.25
+sequencing,Q17144128,sequencing by ligation,none,0,0,3.8,0.69,1.0,3.0,38.6,33.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.19
+sequencing,Q21050393,plasma sequencing,none,0,0,0.5,0.69,0.0,3.0,0.0,33.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+sequencing,Q64657426,Sequencing Of Endocrine Therapy In Post-Menopausal Women With Early Breast Cancer (FAST),none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+sequencing,Q65359916,Sequencing Abiraterone and Enzalutamide in mCRPC,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+sequencing,Q63012565,Sequencing of Radium-223 and Docetaxel in Symptomatic Bone-only Metastatic Castration-resistant Prostate Cancer,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+sequencing,Q64648282,Sequencing of Sipuleucel-T and ADT in Men With Non-metastatic Prostate Cancer,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+sequencing,Q63811383,Sequencing of Stereotactic Ablative Body Radiotherapy in Combination With PD-1 Blockade Using Pembrolizumab in Metastatic Non-Small Cell Lung Carcinoma,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+sequencing,Q92273141,Sequencing and Tracking of Phylogeny in COVID-19 Study,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+sequencing,Q64363854,Sequencing T-cells in Type I Diabetes Mellitus,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+sequencing,Q64623039,Sequencing to Identify Gene Variants in Familial Colorectal Cancer,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+sequencing,Q64352790,Sequencing CBT for Child Anxiety: CBT Plus Sertraline Versus Switch to Sertraline,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+sequencing,Q64625642,Sequencing Treatments for Mothers With ADHD and Their At - Risk Children,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+sequencing,Q113936846,"Sequencing and Combination of Mirabegron and TTNS in Overactive Bladder Syndrome: a Multicenter, Randomized, Open-label, Crossover Trial",none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+mutation screening,Q63595392,Mutation Screening and Translocation Detection of DISC1 Gene in Schizophrenia,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+mutation screening,Q86248918,Mutation Screening and Translocation Detection of DISC1 Gene in Schizophrenia (2002-08-31),none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+long term potentiation,Q1805481,long-term potentiation,none,0,0,2.2,3.26,1.0,8.0,30.9,50.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.76
+long term potentiation,Q100235740,Long-term potentiation,none,0,0,3.3,0.0,2.0,0.0,33.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.87
+synaptic plasticity,Q1551556,synaptic plasticity,label,1,0,4.4,3.04,0.0,2.0,0.0,38.8,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,50.67
+synaptic plasticity,Q113920620,Synaptic Plasticity in the Epicardial Ganglionated Plexi,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+synaptic plasticity,Q64641425,Synaptic Plasticity Imaging With Diffusion MRI,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+synaptic plasticity,Q64185057,Synaptic Plasticity and Cognitive Function in RASopathies,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+language delay,Q997841,language delay,label,1,0,2.2,2.4,0.0,5.0,0.0,31.4,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,48.28
+language delay,Q54963646,language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia; LADCI,none,0,0,2.7,0.0,2.0,3.0,31.6,39.5,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.81
+interneuron,Q1500732,interneuron,label,1,0,2.7,3.26,1.0,4.0,23.7,29.7,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,51.94
+interneuron,Q24467899,interneuron migration,none,0,0,4.4,0.0,1.0,2.0,30.9,34.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.03
+interneuron,Q21106479,interneuron migration from the subpallium to the cortex,none,0,0,3.8,0.0,1.0,2.0,30.9,31.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.15
+interneuron,Q22295895,interneuron axon guidance,none,0,0,6.6,0.0,1.0,2.0,30.9,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.45
+interneuron,Q105584035,Interneuronal mechanisms of hippocampal theta oscillation in full-scale model of the CA1 circuit,none,0,0,2.2,0.0,1.0,0.0,15.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.58
+interneuron,Q22269727,interneuron sorting involved in substrate-independent cerebral cortex tangential migration,none,0,0,4.9,0.0,1.0,3.0,30.9,29.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.05
+interneuron,Q22299520,interneuron-substratum interaction involved in interneuron migration from the subpallium to the cortex,none,0,0,6.6,0.0,1.0,2.0,30.9,34.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.45
+interneuron,Q87410595,interneuron from layer I of the cortex,none,0,0,2.7,0.0,1.0,3.0,23.7,33.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.39
+intellectual disability,Q183560,intellectual disability,label,1,0,1.1,4.25,1.0,12.0,23.5,48.4,0.074,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,62.05
+intellectual disability,Q3317827,disability affecting intellectual abilities,alias,0,1,1.1,1.79,1.0,6.0,26.8,50.4,0.4,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,37.49
+intellectual disability,Q1164401,Pitt-Hopkins syndrome,none,0,0,3.3,2.77,2.0,11.0,29.6,51.2,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.98
+intellectual disability,Q4731121,Allan-Herndon-Dudley syndrome,none,0,0,2.7,1.95,2.0,17.0,29.6,51.5,0.1,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,17.06
+intellectual disability,Q12145457,mental disability,alias,0,1,0.5,2.08,2.0,5.0,28.3,47.3,0.222,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,36.15
+intellectual disability,Q6714500,L1 syndrome,none,0,0,4.9,1.79,1.0,15.0,23.5,50.9,0.118,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,17.59
+intellectual disability,Q28065629,Christianson syndrome,none,0,0,5.5,1.61,3.0,14.0,35.0,50.2,0.118,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,19.27
+intellectual disability,Q109933168,"intellectual disability, autosomal recessive 18",none,0,0,0.0,0.0,1.0,4.0,26.8,38.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.78
+intellectual disability,Q1019940,Borjeson-Forssman-Lehmann syndrome,none,0,0,1.6,2.2,3.0,18.0,35.0,51.6,0.125,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,17.4
+intellectual disability,Q21051307,FRAXE intellectual disability,none,0,0,4.9,1.39,3.0,7.0,31.0,47.1,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.48
+intellectual disability,Q22030615,MEDNIK syndrome,none,0,0,4.4,1.1,4.0,24.0,38.6,49.2,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,24.72
+intellectual disability,Q26492833,multiple congenital anomalies-hypotonia-seizures syndrome 3,none,0,0,0.0,0.0,3.0,14.0,35.0,48.7,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.14
+intellectual disability,Q50349611,autosomal dominant non-syndromic intellectual disability 7,none,0,0,3.8,0.0,3.0,10.0,35.0,47.4,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.47
+intellectual disability,Q55784027,"intellectual disability, anterior maxillary Protrusion, and strabismus",none,0,0,0.5,0.0,2.0,3.0,31.6,39.5,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.89
+intellectual disability,Q21124578,autosomal recessive spinocerebellar ataxia 20,none,0,0,0.0,0.0,3.0,17.0,35.0,50.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.02
+intellectual disability,Q6717114,MORM syndrome,none,0,0,0.5,1.39,3.0,11.0,35.0,50.7,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.77
+intellectual disability,Q18553391,Birk-Barel syndrome,none,0,0,0.0,1.1,2.0,10.0,29.6,51.2,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.6
+intellectual disability,Q55782521,"intellectual disability, X-linked, syndromic, Bain type",none,0,0,1.1,1.1,2.0,5.0,31.6,44.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.13
+intellectual disability,Q50349623,autosomal dominant non-syndromic intellectual disability 19,none,0,0,3.3,1.1,3.0,10.0,35.0,47.4,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.21
+intellectual disability,Q55782514,"intellectual disability, X-linked 61",none,0,0,0.5,0.0,2.0,5.0,29.6,44.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.91
+intellectual disability,Q55787983,MAN1B1-CDG,none,0,0,0.0,0.0,1.0,7.0,23.5,41.3,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.56
+intellectual disability,Q55999494,"intellectual disability, X-linked, with panhypopituitarism",none,0,0,1.1,0.0,0.0,7.0,0.0,48.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.4
+intellectual disability,Q5474830,Fountain syndrome,none,0,0,3.8,1.39,3.0,15.0,36.1,50.7,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,18.05
+intellectual disability,Q7900262,Urban–Rogers–Meyer syndrome,none,0,0,0.5,1.39,2.0,7.0,30.5,42.5,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.79
+intellectual disability,Q18412811,intellectual disability-spasticity-ectrodactyly syndrome,none,0,0,0.5,1.1,2.0,4.0,26.7,38.1,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.44
+intellectual disability,Q55782513,intellectual disability-balding-patella luxation-acromicria syndrome,none,0,0,0.0,0.69,2.0,9.0,30.5,44.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.2
+intellectual disability,Q51796815,Bd syndrome,none,0,0,0.0,0.69,2.0,13.0,30.5,48.5,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.44
+intellectual disability,Q56014612,"intellectual disability, autosomal recessive 53",none,0,0,0.0,0.0,1.0,0.0,23.5,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,1.89
+intellectual disability,Q101080302,Intellectual Disability (Compulsory Care and Rehabilitation) Amendment Act 2008 Commencement Order 2009,none,0,0,0.5,0.0,1.0,0.0,26.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.72
+intellectual disability,Q55999515,"intellectual disability, X-linked, with or without seizures, Arx-related",none,0,0,1.6,0.0,2.0,5.0,31.6,44.7,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.7
+intellectual disability,Q55784612,intellectual disability-strabismus syndrome,none,0,0,0.0,0.0,2.0,6.0,29.6,40.6,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.68
+intellectual disability,Q101078981,Intellectual Disability (Compulsory Care and Rehabilitation) Act Commencement Order 2004,none,0,0,0.5,0.0,1.0,0.0,26.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.72
+intellectual disability,Q7458705,sexual abuse and intellectual disability,none,0,0,0.5,1.61,0.0,4.0,0.0,28.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.59
+intellectual disability,Q48989140,Wieacker syndrome,none,0,0,0.5,1.39,1.0,5.0,23.5,44.7,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.34
+intellectual disability,Q104414279,Skraban-Deardorff syndrome,none,0,0,0.0,1.1,1.0,2.0,23.5,38.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.1
+intellectual disability,Q55782075,Mietens syndrome,none,0,0,4.9,0.69,2.0,6.0,30.5,30.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.19
+intellectual disability,Q111211724,intellectual disability sports,none,0,0,1.1,0.69,0.0,2.0,0.0,30.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.1
+intellectual disability,Q55785189,"intellectual disability, autosomal recessive 59; MRT59",none,0,0,0.0,0.69,2.0,4.0,31.6,38.2,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.97
+intellectual disability,Q55787265,intellectual disability-short stature-hypertelorism syndrome,none,0,0,0.0,0.69,2.0,7.0,30.5,42.5,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.99
+intellectual disability,Q55785120,"intellectual disability, autosomal recessive 56; MRT56",none,0,0,0.0,0.0,2.0,4.0,31.6,38.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.82
+intellectual disability,Q55785075,"intellectual disability, autosomal recessive 54; MRT54",none,0,0,0.0,0.0,2.0,4.0,31.6,38.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.82
+intellectual disability,Q55782511,"intellectual disability, X-linked 99, syndromic, female-restricted; MRXS99F",none,0,0,0.5,0.0,2.0,5.0,31.6,44.7,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.43
+intellectual disability,Q55782502,"intellectual disability, X-linked 101",none,0,0,0.5,0.0,2.0,0.0,31.6,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.57
+intellectual disability,Q55784826,"intellectual disability, autosomal recessive 45",none,0,0,0.0,0.0,2.0,4.0,31.6,38.2,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.62
+intellectual disability,Q55782519,"intellectual disability, X-linked 105; MRX105",none,0,0,0.5,0.0,2.0,0.0,31.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.77
+intellectual disability,Q55785167,"intellectual disability, autosomal recessive 58; MRT58",none,0,0,0.0,0.0,2.0,4.0,31.6,38.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.82
+intellectual disability,Q55787753,intellectual disability-obesity-brain malformations-facial dysmorphism syndrome,none,0,0,0.0,0.0,2.0,8.0,30.5,43.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.05
+intellectual disability,Q55782518,"intellectual disability, X-linked 104; MRX104",none,0,0,0.5,0.0,2.0,0.0,31.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.77
+intellectual disability,Q56014167,intellectual disability-expressive aphasia-facial dysmorphism syndrome,none,0,0,0.0,0.0,1.0,0.0,23.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.04
+intellectual disability,Q55787222,intellectual disability-hypotonia-skin hyperpigmentation syndrome,none,0,0,0.0,0.0,1.0,4.0,23.5,38.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.24
+deletion,Q18411409,deletion,label,1,0,1.1,0.69,0.0,5.0,0.0,49.2,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,38.53
+deletion,Q656732,deletion mutation,none,0,0,3.3,3.66,0.0,5.0,0.0,40.6,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.69
+deletion,Q558077,Williams-Beuren syndrome,none,0,0,4.9,3.85,4.0,49.0,36.8,43.2,0.125,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,41.51
+deletion,Q650250,elision,alias,0,1,2.7,3.61,2.0,5.0,33.0,40.7,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,52.38
+deletion,Q22897,Project:Deletion requests,none,0,0,0.0,5.55,2.0,0.0,25.0,0.0,0.167,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.13
+deletion,Q18554351,22q11 deletion syndrome,none,0,0,3.8,0.0,2.0,2.0,29.6,19.5,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.7
+deletion,Q1892153,WAGR syndrome,none,0,0,2.7,2.83,2.0,28.0,30.5,50.9,0.091,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,24.08
+deletion,Q10964165,Wikipedia:Proposed deletion,alias,0,1,2.7,3.18,2.0,0.0,25.0,0.0,0.4,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,42.76
+deletion,Q408179,SMAD family member 4,none,0,0,1.1,2.48,1.0,0.0,20.1,0.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.02
+deletion,Q3297103,chromosome 1p36 deletion syndrome,none,0,0,0.0,2.77,3.0,12.0,33.1,49.2,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.26
+deletion,Q474237,chromosome 18q deletion syndrome,none,0,0,0.0,2.08,1.0,6.0,23.5,36.1,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.96
+deletion,Q5009984,Project:Deletion policy,none,0,0,1.1,5.31,2.0,0.0,25.0,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.02
+deletion,Q14904159,SMAD family member 4,none,0,0,1.1,0.0,1.0,5.0,20.1,35.7,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.35
+deletion,Q28444975,PTEN Deletion,alias,0,1,0.5,0.0,1.0,0.0,14.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,23.83
+deletion,Q28382133,IKZF1 DELETION,alias,0,1,0.5,0.0,1.0,0.0,14.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,23.83
+deletion,Q28444988,GSTP1 DELETION,alias,0,1,0.5,0.0,1.0,0.0,14.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,23.83
+deletion,Q28445190,SMAD4 Deletion,alias,0,1,0.5,0.0,1.0,0.0,14.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,23.83
+deletion,Q3508795,trichorhinophalangeal syndrome type II,none,0,0,0.5,2.08,2.0,17.0,30.5,49.3,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.66
+deletion,Q5253647,deletion,label,1,0,1.6,1.1,0.0,2.0,0.0,33.9,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,36.99
+deletion,Q574227,2q37 monosomy,none,0,0,2.7,1.95,2.0,15.0,30.5,51.3,0.143,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,16.0
+deletion,Q97303168,Wikimedia deletion template,none,0,0,0.5,0.0,0.0,4.0,0.0,39.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.37
+deletion,Q4557543,chromosome 18p deletion syndrome,none,0,0,0.0,1.1,1.0,4.0,23.5,34.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.86
+deletion,Q10467859,Deletion,label,1,0,0.0,0.69,1.0,0.0,15.6,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.11
+deletion,Q203237,Deletionpedia,none,0,0,0.0,3.18,2.0,0.0,27.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.46
+deletion,Q22753,deletionism and inclusionism in Wikipedia,none,0,0,1.6,2.83,1.0,4.0,30.2,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.16
+deletion,Q55786608,partial deletion of the long arm of chromosome 7,none,0,0,1.1,0.69,2.0,2.0,30.5,12.8,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.41
+deletion,Q55788876,12q14 microdeletion syndrome,none,0,0,2.7,0.0,2.0,9.0,30.5,45.4,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.95
+deletion,Q55789846,chromosome 12p deletion,none,0,0,0.0,0.0,1.0,2.0,15.8,24.4,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.21
+deletion,Q107942737,Deletionpedia,none,0,0,0.0,0.0,2.0,0.0,27.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.37
+deletion,Q29800458,Deletions Of G-rich DNA CELE_F33H2.1,none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.47
+deletion,Q50288859,Deletions in the AXIN1 gene prevent expression of AXIN1 protein,none,0,0,3.8,0.0,1.0,0.0,30.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.7
+deletion,Q45314413,Deletions in the AXIN1 gene destabilize the destruction complex,none,0,0,2.7,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.32
+deletion,Q45314416,Deletions in the AMER1 gene destabilize the destruction complex,none,0,0,2.7,0.0,1.0,0.0,24.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.32
+deletion,Q21154056,chromosome 13q14 deletion syndrome,none,0,0,0.0,0.0,1.0,4.0,23.5,34.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.46
+deletion,Q50288861,Deletions of the AMER1 gene prevent expression of AMER1 protein,none,0,0,3.8,0.0,1.0,0.0,30.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.7
+deletion,Q109239725,deletion of articles on Wikipedia,none,0,0,2.7,2.2,3.0,0.0,33.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.11
+deletion,Q55783279,distal monosomy 13q,none,0,0,0.0,0.0,2.0,7.0,30.5,27.2,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.99
+deletion,Q56013962,facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to 10p11.21p12.31 microdeletion,none,0,0,1.1,0.0,1.0,0.0,23.5,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.35
+deletion,Q18975953,deletion of chromosome 3p associated meningioma,none,0,0,0.5,0.0,0.0,6.0,0.0,43.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+deletion,Q18250169,Del(Y)Sxrb<Rlll>-p,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.19
+deletion,Q55790009,chromosome 17 deletion,none,0,0,0.0,0.0,1.0,8.0,15.8,43.2,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.96
+deletion,Q18975948,deletion of chromosome 22 associated meningioma,none,0,0,0.5,0.0,0.0,4.0,0.0,42.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.4
+deletion,Q18975944,deletion of short arm of chromosome 1 (1p) associated meningioma,none,0,0,0.5,0.0,0.0,6.0,0.0,43.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+deletion,Q29683113,dog-1,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.04
+deletion,Q1879759,deletion instead of blocking,none,0,0,0.5,0.69,1.0,0.0,8.2,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.08
+deletion,Q752298,maladie du cri du chat,none,0,0,0.0,3.71,2.0,8.0,27.7,46.7,0.111,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.24
+deletion,Q39048665,délétion partielle du chromosome 2q,none,0,0,0.0,0.69,2.0,4.0,30.5,24.6,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.71
+deletion,Q2916689,délétion de la spermatogenèse,none,0,0,0.5,2.08,0.0,2.0,0.0,30.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.14
+deletion,Q8046191,délétions de l'Y,none,0,0,0.5,1.61,2.0,6.0,29.6,39.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.47
+deletion,Q7252851,deletion proximale 18q,none,0,0,1.1,1.1,0.0,4.0,0.0,23.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.45
+rare variants,Q55786087,rare variants of adenocarcinoma of the corpus uteri,none,0,0,2.2,0.0,1.0,3.0,23.5,23.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.65
+rare variants,Q18393518,rare variant,label,1,0,2.2,0.69,0.0,2.0,0.0,35.4,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.71
+glra2,Q18026157,GLRA2,label,1,0,2.2,1.39,1.0,2.0,42.0,41.9,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,40.46
+glra2,Q21115954,Glycine receptor alpha 2,alias,0,1,2.7,0.0,1.0,4.0,20.1,37.8,0.333,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,32.39
+glra2,Q29776637,glra4a,alias,0,1,2.2,0.0,1.0,0.0,42.0,0.0,0.333,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.58
+glra2,Q29737949,glra2,label,1,0,2.2,0.0,1.0,0.0,42.0,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.15
+glra2,Q24409164,Glra2,label,1,0,2.2,0.0,1.0,2.0,42.0,41.9,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.32
+glra2,Q18298575,Glra2,label,1,0,2.2,0.0,1.0,2.0,42.0,41.9,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.99
+glra2,Q21983317,"Glycine receptor, alpha 2 subunit",alias,0,1,3.3,0.0,1.0,0.0,20.1,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,30.8
+glra2,Q29821654,"Glycine receptor, alpha 2",alias,0,1,2.7,0.0,1.0,0.0,20.1,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,29.16
+glra2,Q28562406,"Glycine receptor, alpha 2",alias,0,1,2.7,0.0,1.0,0.0,20.1,0.0,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.45
+glra2,Q56470526,glycine receptor alpha 2 glra2,alias,0,1,2.7,0.0,1.0,0.0,42.0,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,29.55
+glra2,Q24597287,GLRA2,label,1,0,2.2,0.0,0.0,5.0,0.0,40.7,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,38.87
+autism spectrum disorder,Q38404,autism,alias,0,1,2.7,4.77,2.0,13.0,29.1,49.9,0.154,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,60.98
+autism spectrum disorder,Q1436063,autism spectrum disorder,label,1,0,3.3,4.17,2.0,5.0,42.8,46.0,0.167,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,60.56
+autism spectrum disorder,Q108696374,autism and LGBT identities,none,0,0,3.3,2.08,1.0,3.0,15.4,38.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.89
+autism spectrum disorder,Q55784749,autism spectrum disorder-epilepsy-arthrogryposis syndrome,none,0,0,1.1,0.0,3.0,12.0,35.0,44.3,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.61
+autism spectrum disorder,Q124330929,autism spectrum disorder in girls and women,none,0,0,2.7,0.69,0.0,7.0,0.0,49.3,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.22
+autism spectrum disorder,Q97046164,Autism Spectrum Disorders: Double Blind Randomized Placebo-control Active Pilot Study of Transcranial Magnetic Stimulation Applied to the Superior Temporal Sulcus,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+autism spectrum disorder,Q54851565,Autism Spectrum Disorder Foundation,none,0,0,1.6,0.0,1.0,0.0,32.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.09
+autism spectrum disorder,Q65346865,Autism Spectrum Disorder (ASD) and Intellectual Disability (ID) Determinants in Tuberous Sclerosis Complex (TSC),none,0,0,3.3,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.92
+autism spectrum disorder,Q96178837,Autism Spectrum Disorder or Attention Deficit Hyperactivity Disorder in Covid-19 Outbreak,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+autism spectrum disorder,Q63817006,Autism Spectrum Disorders (ASD) Driving Study,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+autism spectrum disorder,Q64709004,Autism Spectrum Disorders (ASD) Characterization Study,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+repetitive behaviors,Q61917964,Repetitive Behavior Disorders in People With Severe Mental Retardation,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+repetitive behaviors,Q18312647,Reb1,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.19
+social interaction,Q609298,social interaction,label,1,0,1.1,3.3,1.0,8.0,35.9,49.6,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,53.84
+social interaction,Q7551199,social interaction and first-person shooters,none,0,0,1.1,0.69,1.0,0.0,25.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.72
+social interaction,Q100552494,social exchange,alias,0,1,0.5,0.69,1.0,6.0,25.0,44.3,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,30.41
+social interaction,Q112838101,Social Interaction in Brockville,none,0,0,2.7,0.0,1.0,0.0,27.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.35
+social interaction,Q63840049,Social Interactions: Ocular Explorations and Pupillometry in Autism,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+social interaction,Q66073098,Social Interaction and Compassion in Depression,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+social interaction,Q64393779,Social Interactions Between People With Dementia in Nursing Home,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+locomotor activity,Q18313230,Loca1,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.19
+locomotor activity,Q18313023,Loca2,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.84
+locomotor activity,Q18312325,Loco2,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.84
+locomotor activity,Q18313019,Loco1,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.19
+rotarod,Q7370237,rotarod performance test,none,0,0,1.1,1.61,1.0,0.0,21.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.13
+rotarod,Q18312340,Rrodp1,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.19
+rotarod,Q18312341,Rrodp2,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.84
+microarray,Q591745,DNA microarray,alias,0,1,0.5,3.53,0.0,2.0,0.0,20.5,0.4,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,36.25
+microarray,Q1931516,microarray,label,1,0,1.1,2.56,0.0,2.0,0.0,30.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,41.14
+microarray,Q110828941,microarray analysis,none,0,0,0.5,0.69,0.0,5.0,0.0,37.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.3
+microarray,Q108855372,comparative genomic hybridisation array,none,0,0,0.0,0.0,0.0,2.0,0.0,22.9,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.58
+microarray,Q111848071,Microarray data and other gene expression databases,none,0,0,3.8,0.0,0.0,2.0,0.0,18.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.94
+microarray,Q63818165,Microarray CGH Analysis of Circulating Tumoral Plasma DNA in NF1 Patients With MPNSTs,none,0,0,2.2,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+microarray,Q23924056,Microarray profiling in breast cancer patients,none,0,0,0.5,0.0,1.0,0.0,16.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.62
+microarray,Q66024772,Microarray Analysis of Gene Expression in Prostate Tissues,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q26339844,Microarray analysis of gene expression patterns induced by irritant and sensitizing chemicals,none,0,0,4.4,0.0,1.0,0.0,26.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.31
+microarray,Q65378161,Microarray Analysis of Sinus Samples From Patients With and Without Chronic Rhinosinusitis,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q63591247,Microarray Analysis of Gene Expression and Identification of Progenitor Cells in Lung Carcinoma,none,0,0,3.3,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.92
+microarray,Q25930743,Microarray analysis of the pulmonary effects of stainless and mild steel welding fumes in A/J and C57BL/6J mice,none,0,0,3.8,0.0,1.0,0.0,26.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.65
+microarray,Q66386915,Microarray Analysis of Scalp Biopsies After Minoxidil Treatment,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+microarray,Q114677897,Microarray experimental conditions,none,0,0,0.5,0.0,1.0,0.0,25.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.71
+microarray,Q63318514,Microarray Analysis of microRNA Expression in Basal Cell Carcinoma,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q65390035,Microarray Analysis of IFN-Induced Gene Expression in Obese and Non-Obese Patients With Chronic Hepatitis C,none,0,0,3.8,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.57
+microarray,Q61932717,Microarray Analysis of Gene Expression in Liver Tumors,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q65540071,Microarray Analysis of Gene Expression in Idiopathic Pulmonary Fibrosis (IPF),none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q66060920,Microarray Analysis for Human Genetic Disease,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+microarray,Q61957642,Microarray Analysis of microRNA Expression Profiles in Cutaneous Squamous Cell Carcinoma,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+microarray,Q64658959,Microarray Analysis in Syndromic Obesity,none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+microarray,Q136657137,Microarray-based screening of putative HSP90 inhibitors predicted and isolated from microorganisms,none,0,0,1.6,0.0,1.0,0.0,16.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.93
+microarray,Q64187146,Microarray Expression Profiling to Identify Stereotypic mRNA Profiles for Preterm Delivery in Order to Unravel the Biological Mechanisms,none,0,0,3.3,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.92
+microarray,Q65377135,Microarray Analysis of Sinus Samples From Patients With and Without Chronic Rhinosinusitis.,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+x chromosome,Q61333,X chromosome,label,1,0,2.2,3.87,1.0,3.0,29.9,27.5,0.286,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,50.89
+x chromosome,Q14862225,dosage compensation by inactivation of X chromosome,none,0,0,2.7,0.0,1.0,3.0,30.9,34.6,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.96
+x chromosome,Q18553394,blue cone monochromacy,none,0,0,0.0,1.61,2.0,7.0,27.1,47.5,0.105,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.57
+x chromosome,Q55786714,X chromosome number anomaly with female phenotype,none,0,0,0.5,0.0,2.0,3.0,30.5,26.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.57
+x chromosome,Q55786715,X chromosome number anomaly with male phenotype,none,0,0,0.5,0.0,2.0,3.0,30.5,26.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.57
+x chromosome,Q22328905,"X chromosome located dosage compensation complex, transcription activating",none,0,0,5.5,0.0,1.0,5.0,29.9,41.3,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.99
+x chromosome,Q55786713,X chromosome number anomaly,none,0,0,0.0,0.0,2.0,5.0,30.5,35.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.19
+x chromosome,Q29799324,X chromosome NonDisjunction factor CELE_C05D2.5,none,0,0,1.1,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.81
+x chromosome,Q29679659,xnd-1,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.69
+x chromosome,Q18274208,Xic,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.39
+x chromosome,Q18032384,XIC,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.19
+x chromosome,Q66590559,x chromosome-bearing sperm cell,none,0,0,1.1,0.0,1.0,2.0,23.7,58.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.01
+x chromosome,Q55781725,premature centromere division,none,0,0,0.0,0.0,0.0,3.0,0.0,39.5,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.32
+x chromosome,Q18032380,XCE,none,0,0,1.6,0.0,1.0,0.0,42.0,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.39
+x chromosome,Q65538301,X-Chromosome Inactivation Status and Premature Ovarian Failure,none,0,0,0.5,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.64
+x chromosome,Q64642611,"X-chromosome Inactivation, Epigenetics and the Transcriptome",none,0,0,1.1,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+de novo,Q20828326,De Novo,label,1,0,1.1,1.1,1.0,0.0,12.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,33.94
+de novo,Q21097394,de novo centriole assembly involved in multi-ciliated epithelial cell differentiation,none,0,0,5.5,0.0,1.0,2.0,30.9,39.7,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.68
+de novo,Q56014308,acute myeloid leukemia with multilineage dysplasia,none,0,0,1.6,0.0,1.0,4.0,23.5,44.3,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.76
+de novo,Q30314076,de novo sequence assembler,none,0,0,2.2,1.1,0.0,2.0,0.0,22.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.56
+de novo,Q27862663,de novo centriole assembly,none,0,0,6.0,0.0,1.0,3.0,30.9,32.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.38
+de novo,Q64007153,de novo gene birth,none,0,0,3.8,1.39,1.0,0.0,13.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.21
+de novo,Q3330942,de novo mutation,none,0,0,3.8,2.08,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.99
+de novo,Q50296016,De novo formation of eIF2:GTP,none,0,0,3.3,0.0,1.0,0.0,30.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.04
+de novo,Q67573816,de novo assembly,none,0,0,4.4,0.0,0.0,2.0,0.0,32.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.71
+de novo,Q28797173,de novo sequence assembly,none,0,0,2.7,0.0,0.0,2.0,0.0,32.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.74
+de novo,Q15804842,De novo peptide sequencing,none,0,0,3.3,1.61,0.0,2.0,0.0,27.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.16
+de novo,Q27862664,de novo centriole assembly via blepharoplast,none,0,0,6.6,0.0,1.0,2.0,30.9,39.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.5
+de novo,Q98095278,designed protein,none,0,0,2.7,0.0,0.0,5.0,0.0,35.7,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.06
+de novo,Q105702311,unsupervised clustering algorithm,none,0,0,2.2,0.0,0.0,3.0,0.0,32.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.68
+de novo,Q56980264,De novo design of molecular wires with optimal properties for solar energy conversion,none,0,0,2.7,0.0,1.0,0.0,26.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.34
+de novo,Q62028245,De Novo o Governo do Povo,none,0,0,1.6,0.0,1.0,0.0,15.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.92
+de novo,Q61992705,De Novo o Governo do Povo,none,0,0,1.6,0.0,1.0,0.0,15.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.92
+de novo,Q63335169,De Novo Adult Philadelphia Chromosome Positive (Ph+) Acute Lymphoblastic Leukemia (ALL) Patients,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+de novo,Q29828528,"DNA (cytosine-5-)-methyltransferase 3 beta, duplicate b.2",none,0,0,2.7,0.0,1.0,0.0,20.1,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.03
+de novo,Q1063702,de novo synthesis,none,0,0,3.3,2.64,1.0,4.0,26.7,41.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.06
+de novo,Q5244958,de novo protein structure prediction,none,0,0,3.8,1.39,1.0,2.0,14.7,35.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.71
+de novo,Q28208916,de novo protein synthesis theory of memory formation,none,0,0,4.4,0.69,1.0,0.0,23.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.63
+de novo,Q5244662,De Novo Dahl,none,0,0,1.1,0.69,1.0,0.0,15.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.61
+de novo,Q11950667,de novo synthesis on liquid manure,none,0,0,1.6,0.69,1.0,4.0,26.7,41.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.12
+de novo,Q90395089,de novo design,none,0,0,1.6,0.69,0.0,3.0,0.0,27.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.34
+de novo,Q46404819,De novo design of selective compounds: a fragment-based pipeline applied to the β2 adrenergic receptor.,none,0,0,3.8,0.0,1.0,0.0,26.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.65
+de novo,Q65370570,De Novo Resistance to Epidermal Growth Factor Receptor-Tyrosine Kinase Inhibitors,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+de novo,Q86264364,De Novo Lipogenesis and Insulin Sensitivity in Obese,none,0,0,2.7,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+de novo,Q19535159,De novo traz as aparentes novas,none,0,0,1.6,0.69,1.0,0.0,11.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.22
+mutation,Q42918,mutation,label,1,0,2.7,4.55,0.0,9.0,0.0,48.7,0.2,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,61.69
+mutation,Q28444960,BRCA1 Mutation,alias,0,1,1.1,0.0,2.0,0.0,45.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.64
+mutation,Q1955810,mutational analysis,none,0,0,0.5,0.69,0.0,2.0,0.0,33.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.47
+mutation,Q28444961,BRCA2 Mutation,alias,0,1,1.1,0.0,2.0,0.0,45.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.64
+mutation,Q2656896,missense mutation,none,0,0,4.9,3.14,0.0,5.0,0.0,38.3,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.32
+mutation,Q101252532,no mutation,alias,0,1,1.6,0.0,0.0,2.0,0.0,27.0,0.25,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,24.32
+mutation,Q28531504,EGFR mutation,alias,0,1,1.1,0.0,1.0,0.0,36.8,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,25.88
+mutation,Q610425,mutation,label,1,0,5.5,2.64,0.0,2.0,0.0,26.3,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,54.48
+mutation,Q28445037,KRAS Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q28444972,NRAS Mutation,alias,0,1,1.1,0.0,2.0,0.0,41.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.56
+mutation,Q28445087,BRAF Mutation,alias,0,1,1.1,0.0,2.0,0.0,45.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.63
+mutation,Q28445189,IDH1 Mutation,alias,0,1,1.1,0.0,1.0,0.0,54.3,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.19
+mutation,Q50322058,Mutation,label,1,0,1.1,0.0,1.0,0.0,24.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.81
+mutation,Q28445027,MET Mutation,alias,0,1,1.1,0.0,2.0,0.0,40.2,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.54
+mutation,Q111926872,Mutations,none,0,0,0.5,0.0,1.0,0.0,20.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.66
+mutation,Q28444945,TET2 Mutation,alias,0,1,1.1,0.0,2.0,0.0,45.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.64
+mutation,Q28444982,TP53 Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q28445204,ERBB2 Mutation,alias,0,1,1.1,0.0,1.0,0.0,47.2,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.06
+mutation,Q28444948,VHL MUTATION,alias,0,1,1.1,0.0,2.0,0.0,45.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.64
+mutation,Q28444999,MTOR MUTATION,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q24054658,Mutation,label,1,0,1.1,0.0,1.0,0.0,24.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.81
+mutation,Q28444978,SMAD4 MUTATION,alias,0,1,1.1,0.0,2.0,0.0,39.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.53
+mutation,Q28444977,SF3B1 Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q28444953,ASXL1 Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q64512538,Mutation,label,1,0,1.1,0.0,1.0,0.0,24.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.81
+mutation,Q28445077,KIT MUTATION,alias,0,1,1.1,0.0,2.0,0.0,41.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.56
+mutation,Q59568545,Mutation,label,1,0,1.1,0.0,1.0,0.0,24.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.81
+mutation,Q112133882,Mutations Mix & Match,none,0,0,0.5,0.0,1.0,0.0,20.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.66
+mutation,Q28444943,RUNX1 Mutation,alias,0,1,1.1,0.0,2.0,0.0,39.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.53
+mutation,Q28445012,PTCH1 MUTATION,alias,0,1,1.1,0.0,2.0,0.0,45.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.64
+mutation,Q28445136,PTEN Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q28444971,NOTCH1 Mutation,alias,0,1,1.1,0.0,1.0,0.0,53.0,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.17
+mutation,Q28445019,PIK3CA Mutation,alias,0,1,1.1,0.0,2.0,0.0,41.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.56
+mutation,Q28371632,STK11 Mutation,alias,0,1,1.1,0.0,1.0,0.0,70.5,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.48
+mutation,Q29938048,FGFR3 Mutation,alias,0,1,1.1,0.0,1.0,0.0,29.9,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,25.75
+mutation,Q1150070,changement,alias,0,1,0.5,3.87,1.0,2.0,17.3,28.3,0.25,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,38.46
+mutation,Q185986,thrombophilie par mutation du facteur V,none,0,0,1.1,2.71,0.0,10.0,0.0,49.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.07
+mutation,Q3883802,mutation neutre,none,0,0,1.1,2.64,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.99
+mutation,Q56648699,mutation adoucissante,none,0,0,1.6,0.0,0.0,3.0,0.0,29.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.5
+mutation,Q1415380,mutation ponctuelle,none,0,0,1.1,3.43,0.0,6.0,0.0,45.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.49
+mutation,Q557863,mutation consonantique,none,0,0,2.2,3.18,1.0,2.0,14.5,22.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.54
+mutation,Q56648701,mutation spirante,none,0,0,4.9,0.0,0.0,2.0,0.0,27.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.52
+mutation,Q3330939,mutation professionnelle,none,0,0,0.5,1.1,0.0,2.0,0.0,38.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.21
+mutation,Q104439135,Mutation,label,1,0,1.1,0.0,1.0,0.0,24.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.81
+mutation,Q3330936,mutation,label,1,0,1.1,1.61,0.0,4.0,0.0,32.6,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,40.37
+mutation,Q4836333,mutation BRCA,none,0,0,1.1,2.56,1.0,0.0,40.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.8
+mutation,Q1440688,mutation avec décalage du cadre de lecture,none,0,0,1.6,3.09,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.87
+mutation,Q1477172,mutation,label,1,0,1.1,0.69,0.0,1.0,0.0,23.9,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.03
+mutation,Q3330935,mutation,label,1,0,1.1,0.69,0.0,2.0,0.0,38.1,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.48
+mutation,Q2215243,mutation somatique,none,0,0,0.5,2.3,1.0,8.0,35.8,51.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.18
+mutation,Q1502331,mutation monogénique,none,0,0,2.2,1.39,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.68
+mutation,Q13743995,mutation phonétique,none,0,0,1.1,2.2,0.0,2.0,0.0,22.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.79
+mutation,Q6273110,Mutation sur Argos,none,0,0,1.1,1.95,2.0,0.0,18.4,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.57
+mutation,Q518638,mutation non-sens,none,0,0,0.5,3.14,0.0,3.0,0.0,30.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.27
+mutation,Q3330943,Mutation Nation,none,0,0,1.1,1.79,1.0,0.0,16.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.67
+mutation,Q103242150,mutation gain de fonction,none,0,0,3.8,0.69,0.0,5.0,0.0,44.8,0.118,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.65
+mutation,Q927843,mutation létale,none,0,0,2.2,3.04,1.0,2.0,44.2,27.8,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.31
+mutation,Q97130345,mutation durcissante,none,0,0,3.8,0.0,0.0,2.0,0.0,27.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.01
+mutation,Q1955828,Mutationisme,none,0,0,0.5,2.94,1.0,0.0,23.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.17
+mutation,Q15832730,mutation perte de fonction,none,0,0,4.4,0.69,0.0,5.0,0.0,44.8,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.35
+mutation,Q1939530,Gène homéotique,none,0,0,0.5,2.83,0.0,4.0,0.0,38.3,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.64
+mutation,Q56648700,mutation nasale,none,0,0,0.5,0.0,0.0,2.0,0.0,27.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.27
+mutation,Q3330942,mutation de novo,none,0,0,3.8,2.08,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.99
+mutation,Q3047049,mutations en irlandais,none,0,0,1.1,0.69,0.0,2.0,0.0,27.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.08
+mutation,Q7662597,mutation synonyme,none,0,0,0.5,2.48,0.0,5.0,0.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+glycine receptor,Q426887,glycine receptor,label,1,0,1.1,2.64,1.0,5.0,40.7,40.3,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,47.71
+glycine receptor,Q29725922,Grd,alias,0,1,2.2,0.0,1.0,0.0,42.0,0.0,0.222,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,25.69
+glycine receptor,Q29817127,Glycine receptor Dmel_CG7446,none,0,0,1.6,0.0,1.0,4.0,20.1,37.8,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.27
+glycine receptor,Q18032699,GLRA3,none,0,0,2.2,1.39,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.07
+glycine receptor,Q21103155,Glycine receptor alpha 1,none,0,0,1.6,0.0,1.0,4.0,20.1,37.8,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+glycine receptor,Q18026157,GLRA2,none,0,0,3.3,1.39,1.0,2.0,42.0,41.9,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.58
+glycine receptor,Q21983316,"Glycine receptor, alpha 1 subunit",none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.62
+glycine receptor,Q18026154,GLRA1,none,0,0,2.2,1.39,1.0,2.0,42.0,41.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.07
+glycine receptor,Q21496397,"Glycine receptor, beta subunit",none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.62
+glycine receptor,Q24721695,Glycine receptor alpha,none,0,0,0.5,0.0,2.0,3.0,45.1,23.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.19
+glycine receptor,Q21115954,Glycine receptor alpha 2,none,0,0,2.2,0.0,1.0,4.0,20.1,37.8,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.33
+glycine receptor,Q18250856,Glra1,none,0,0,2.7,0.0,1.0,2.0,42.0,41.9,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.78
+glycine receptor,Q18026160,GLRB,none,0,0,2.2,1.39,1.0,2.0,42.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.57
+glycine receptor,Q21103162,Glycine receptor beta,none,0,0,1.6,0.0,1.0,4.0,20.1,37.8,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+glycine receptor,Q29782890,glra1,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+glycine receptor,Q21103146,Glycine receptor alpha 3,none,0,0,1.6,0.0,1.0,4.0,20.1,37.8,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+glycine receptor,Q24409765,Glra1,none,0,0,2.2,0.0,1.0,2.0,42.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.88
+glycine receptor,Q24775543,Glycine receptor beta,none,0,0,0.5,0.0,1.0,4.0,47.7,34.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.11
+glycine receptor,Q18058577,GLRA4,none,0,0,2.2,1.1,1.0,2.0,37.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.38
+glycine receptor,Q24725232,Glycine receptor alpha1,none,0,0,0.5,0.0,1.0,2.0,47.7,16.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.76
+glycine receptor,Q24779596,Glycine receptor alpha2,none,0,0,0.5,0.0,1.0,2.0,47.7,16.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.76
+glycine receptor,Q24407536,Glra4,none,0,0,2.2,0.0,1.0,2.0,42.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.88
+glycine receptor,Q21148586,glycine receptor clustering,none,0,0,4.4,0.0,1.0,2.0,30.9,49.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.95
+glycine receptor,Q24382317,Glrb,none,0,0,2.2,0.0,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.38
+glycine receptor,Q18250858,Glrb,none,0,0,2.7,0.0,1.0,2.0,42.0,41.9,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.89
+glycine receptor,Q18250857,Glra4,none,0,0,2.7,0.0,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.03
+glycine receptor,Q29836306,"Glycine receptor, alpha 1",none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.97
+glycine receptor,Q24772524,Glycine receptor alpha3,none,0,0,0.5,0.0,1.0,2.0,47.7,16.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.76
+glycine receptor,Q18292843,Glra3,none,0,0,2.7,0.0,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.03
+glycine receptor,Q29749215,glrbb,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.04
+glycine receptor,Q29757617,glrba,none,0,0,2.7,0.0,1.0,0.0,42.0,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.25
+glycine receptor,Q29776637,glra4a,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.84
+glycine receptor,Q29809111,Ora transientless Dmel_CG7411,none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.37
+glycine receptor,Q24425078,Glra3,none,0,0,2.2,0.0,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.38
+glycine receptor,Q29738487,glra3,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+glycine receptor,Q29737949,glra2,none,0,0,3.3,0.0,1.0,0.0,42.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.16
+glycine receptor,Q24409164,Glra2,none,0,0,3.3,0.0,1.0,2.0,42.0,41.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.19
+glycine receptor,Q18298575,Glra2,none,0,0,3.8,0.0,1.0,2.0,42.0,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.35
+glycine receptor,Q21983315,"Glycine receptor, alpha 4 subunit",none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.12
+glycine receptor,Q21983317,"Glycine receptor, alpha 2 subunit",none,0,0,2.7,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.78
+glycine receptor,Q21983318,"Glycine receptor, alpha 3 subunit",none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.12
+glycine receptor,Q29762882,glra4b,none,0,0,2.2,0.0,1.0,0.0,42.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+glycine receptor,Q29825263,"Glycine receptor, beta b",none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.83
+glycine receptor,Q18345071,Glycine receptor antagonist,none,0,0,1.1,1.1,1.0,3.0,21.1,42.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.01
+glycine receptor,Q29828734,"Glycine receptor, alpha 4b",none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.47
+glycine receptor,Q62285420,glycine receptor subunit beta,none,0,0,2.7,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.78
+glycine receptor,Q29827142,"Glycine receptor, beta a",none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.37
+glycine receptor,Q29822005,"Glycine receptor, alpha 3",none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.47
+glycine receptor,Q29527055,"Glycine receptor, alpha 3",none,0,0,1.6,0.0,1.0,0.0,20.1,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.97
+glycine receptor,Q62306982,glycine receptor subunit beta,none,0,0,2.2,0.0,1.0,0.0,20.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.63
+prefrontal cortex,Q18680,prefrontal cortex,label,1,0,3.8,3.53,2.0,5.0,31.7,44.8,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,60.27
+prefrontal cortex,Q61936127,Prefrontal Cortex and Abstract Thinking,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+prefrontal cortex,Q63335653,Prefrontal Cortex Stimulation as Treatment for Crack-cocaine Addiction,none,0,0,1.6,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+learning and memory,Q123147289,Learning and Memory Processes,none,0,0,1.6,0.0,2.0,0.0,21.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.79
+functional analysis,Q190549,functional analysis,label,1,0,2.2,4.13,2.0,6.0,20.7,42.6,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,61.37
+functional analysis,Q111735273,Functional Analysis,label,1,0,2.2,0.0,1.0,0.0,14.2,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.87
+functional analysis,Q63341474,Functional analysis of a novel viral RNA binding protein,none,0,0,3.3,0.0,2.0,0.0,25.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.79
+functional analysis,Q106464795,Functional Analysis of SARS-CoV-2 Proteins in Drosophila Identifies Orf6-induced Pathogenicity Attenuated by Selinexor,none,0,0,2.7,0.0,1.0,0.0,23.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.31
+functional analysis,Q2845225,functional analysis,label,1,0,3.8,1.79,0.0,3.0,0.0,34.6,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,46.5
+functional analysis,Q116985262,functional analysis,label,1,0,2.2,0.0,1.0,4.0,14.2,40.2,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,39.67
+functional analysis,Q112905759,Functional Analysis of Disease-Associated 3’ UTR Variants: the CXCL12β 3’ UTR G801A Polymorphism,none,0,0,3.8,0.0,1.0,0.0,27.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.66
+functional analysis,Q63843154,Functional Analysis by Dynamic Imaging of the Respiratory Epithelium in Infants With Cystic Fibrosis,none,0,0,3.8,0.0,1.0,0.0,18.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.57
+cracks,Q106566824,Cracks,label,1,0,1.8,0.0,1.0,0.0,22.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.84
+cracks,Q33436982,Crackshell,none,0,0,0.0,0.0,1.0,0.0,29.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.09
+cracks,Q30610636,Cracksman,none,0,0,0.0,1.39,1.0,0.0,21.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.71
+cracks,Q3344264,Crackstate,none,0,0,0.9,1.61,1.0,0.0,25.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.93
+cracks,Q18984851,Crackstraat,none,0,0,1.8,0.69,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.54
+cracks,Q20786335,"Cracks and Life, (no. 2)",none,0,0,3.6,0.0,1.0,0.0,22.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.31
+cracks,Q42811339,Crackstone,none,0,0,0.0,0.0,1.0,0.0,27.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.07
+cracks,Q109504154,Cracks that let the light in,none,0,0,3.6,0.0,1.0,0.0,25.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.34
+cracks,Q118903266,Cracks,label,1,0,1.8,0.69,1.0,0.0,15.4,0.0,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.47
+cracks,Q107157973,Cracks,label,1,0,1.8,0.0,1.0,0.0,26.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.95
+cracks,Q106996383,Cracks,label,1,0,2.7,0.0,1.0,0.0,25.4,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.6
+cracks,Q111964992,CRACKS,label,1,0,0.9,0.0,1.0,0.0,11.5,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.93
+cracks,Q22410225,Crackshot Lake,none,0,0,0.9,1.1,1.0,0.0,18.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.61
+cracks,Q3526480,Crackstadion,none,0,0,0.9,0.69,1.0,0.0,16.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.38
+cracks,Q135026223,Cracks Where the Light Gets In,none,0,0,4.5,0.0,1.0,0.0,24.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.4
+cracks,Q135025734,Cracks In Hell,none,0,0,3.6,0.0,1.0,0.0,24.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.33
+cracks,Q119726623,Crackstone Rib,none,0,0,0.9,0.0,1.0,0.0,22.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.09
+cracks,Q18984846,Crackstate,none,0,0,1.8,0.0,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.2
+cracks,Q18984848,Crackstate,none,0,0,1.8,0.0,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.2
+cracks,Q115734388,Crackston Lake,none,0,0,0.9,0.0,1.0,0.0,18.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.06
+cracks,Q107497452,Crackshot,none,0,0,1.8,0.0,1.0,0.0,32.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.77
+cracks,Q6816265,Men in White,none,0,0,2.7,0.69,1.0,0.0,26.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.63
+cracks,Q41576,cocaine,none,0,0,1.8,4.73,1.0,8.0,26.2,43.4,0.08,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.96
+cracks,Q13266,cookie,none,0,0,0.0,4.23,0.0,22.0,0.0,41.4,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,16.65
+cracks,Q330694,crack,label,1,0,1.8,3.83,1.0,0.0,19.0,0.0,0.286,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.23
+cracks,Q2798820,security hacker,none,0,0,3.6,3.53,1.0,4.0,29.2,48.2,0.167,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.43
+cracks,Q157518,Salix fragilis,none,0,0,1.8,3.74,1.0,0.0,29.2,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.1
+cracks,Q841027,Hamadryas,none,0,0,0.9,2.77,1.0,0.0,29.2,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.41
+cracks,Q856330,cracker,none,0,0,0.0,3.43,0.0,16.0,0.0,45.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.68
+cracks,Q2256933,crack,label,1,0,1.8,2.77,0.0,6.0,0.0,49.2,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,48.03
+cracks,Q1420828,Cornus canadensis,none,0,0,0.9,3.47,1.0,0.0,29.2,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+cracks,Q65862755,crevice,none,0,0,3.6,0.69,2.0,4.0,32.5,40.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.48
+cracks,Q105978806,Crack,label,1,0,1.8,0.0,1.0,0.0,22.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.84
+cracks,Q588748,firecracker,none,0,0,0.9,3.97,0.0,4.0,0.0,43.6,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.8
+cracks,Q28402245,threat actor,none,0,0,3.6,0.69,1.0,6.0,20.9,47.2,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.48
+cracks,Q32554,cracker,none,0,0,0.9,3.47,1.0,5.0,29.2,48.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.29
+cracks,Q715542,krupuk,none,0,0,0.0,3.09,1.0,4.0,19.7,47.6,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.32
+cracks,Q635954,red sky at morning,none,0,0,2.7,3.43,1.0,3.0,20.1,33.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.0
+cracks,Q212749,cracking,none,0,0,4.5,4.03,2.0,4.0,37.8,47.1,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.67
+cracks,Q3756433,craic,none,0,0,2.7,1.79,1.0,0.0,20.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.11
+cracks,Q497584,Cracked tooth syndrome,none,0,0,0.0,1.61,0.0,5.0,0.0,41.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.13
+cracks,Q115557928,burst,none,0,0,1.8,0.0,0.0,3.0,0.0,42.6,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.83
+cracks,Q3073047,crack,label,1,0,2.7,1.95,1.0,5.0,16.3,46.4,0.25,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,47.61
+cracks,Q631948,Cracker,none,0,0,0.0,2.3,1.0,0.0,22.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.18
+cracks,Q63439027,Crack,label,1,0,0.9,0.0,1.0,0.0,27.4,0.0,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,27.28
+cracks,Q693661,Atlanta 500,none,0,0,0.9,2.08,1.0,2.0,27.6,5.4,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.98
+cracks,Q3047117,Ectima,none,0,0,0.9,2.4,1.0,0.0,29.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.36
+cracks,Q26879674,crushed ice,none,0,0,1.8,1.79,0.0,9.0,0.0,47.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.82
+cracks,Q973331,crackles,none,0,0,0.0,2.71,2.0,8.0,44.1,46.5,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.42
+cracks,Q3001956,Crack the Sky,none,0,0,1.8,1.1,1.0,0.0,22.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+cracks,Q1138424,Crackdown,none,0,0,0.0,2.94,1.0,0.0,24.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.52
+cracks,Q21483053,Cracknell,none,0,0,0.0,1.1,1.0,0.0,27.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.62
+cracks,Q377740,Crackenthorpe,none,0,0,0.9,2.77,2.0,0.0,35.7,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.42
+cracks,Q2742747,Crack Down,none,0,0,0.9,2.08,1.0,0.0,24.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.15
+cracks,Q96943453,CrackedGhostGames,none,0,0,0.0,0.0,1.0,0.0,32.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.13
+cracks,Q1482392,Cracker,none,0,0,0.0,2.64,1.0,0.0,26.8,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.89
+cracks,Q2598287,Crackdown 2,none,0,0,0.0,2.48,1.0,0.0,24.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.29
+cracks,Q2558350,Cracked nipple,none,0,0,0.9,2.83,2.0,5.0,36.5,40.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.77
+cracks,Q8351470,Crack,label,1,0,2.7,1.39,1.0,3.0,14.9,30.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,45.01
+cracks,Q1138407,Crack,label,1,0,0.9,1.39,1.0,0.0,20.8,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.68
+cracks,Q5180324,Crack dot Com,none,0,0,0.9,0.69,1.0,0.0,29.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.01
+cracks,Q109007355,Cracked Heads Games,none,0,0,0.0,0.0,1.0,0.0,29.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.59
+cracks,Q10436326,Acarospora fuscata,none,0,0,0.9,1.79,1.0,0.0,29.2,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.56
+cracks,Q21095,Crack a Bottle,none,0,0,3.6,2.94,1.0,0.0,21.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.77
+cracks,Q20762666,Crackdown 3,none,0,0,0.0,2.64,1.0,0.0,24.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.36
+cracks,Q28429799,Snowfall,none,0,0,1.8,2.08,1.0,0.0,26.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.25
+cracks,Q171171,dermatologie,none,0,0,0.0,4.5,2.0,5.0,32.3,44.5,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.03
+cracks,Q2312963,Ratchet and Clank: A Crack in Time,none,0,0,3.6,3.09,1.0,0.0,24.3,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.87
+cracks,Q1020018,krach,none,0,0,0.9,3.61,0.0,3.0,0.0,43.5,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.02
+cracks,Q1138423,cracking,none,0,0,3.6,3.09,0.0,6.0,0.0,47.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.01
+cracks,Q2316943,Tetris Attack,none,0,0,0.9,2.71,1.0,0.0,24.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.47
+cracks,Q4492609,Cracker Barrel,none,0,0,0.0,2.77,2.0,0.0,36.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.35
+cracks,Q3001971,Crackout,none,0,0,0.0,1.95,1.0,0.0,24.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.52
+cracks,Q3538290,Cracked,none,0,0,0.9,1.95,1.0,0.0,26.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.11
+cracks,Q3001966,Crack the Shutters,none,0,0,1.8,2.2,1.0,0.0,21.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.26
+probabilistic model,Q51287502,probabilistic modeling,none,0,0,1.4,0.0,0.0,2.0,0.0,44.3,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.26
+probabilistic model,Q26360182,"Probabilistic modeling of tailings embankment designs. Volume IV User's manual for cone penetrometer data analysis computer programs, horz and vert",none,0,0,4.3,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.16
+probabilistic model,Q26367165,Probabilistic modeling of tailings embankment designs. Volume I Model development and verification,none,0,0,3.5,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.31
+probabilistic model,Q26362884,Probabilistic modeling of soil loss from surface mined areas,none,0,0,2.8,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.46
+probabilistic model,Q26358712,Probabilistic modeling of tailings embankment designs. Volume 1. Appendix J. Cone penetrometer records,none,0,0,2.1,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+probabilistic model,Q26359992,Probabilistic modeling of tailings embankment designs. Volume II. Model application and verification,none,0,0,3.5,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.31
+probabilistic model,Q26361860,Probabilistic modeling of tailings embankment designs. Volume I. Appendix I. Cone penetrometer records,none,0,0,2.1,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+probabilistic model,Q26361966,"Probabilistic modeling of tailings embankment designs. Volume III User's manual for probabilistic slope stability computer program, probish",none,0,0,2.8,0.0,1.0,0.0,25.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.46
+infrared thermography,Q624587,thermography,alias,0,1,2.5,3.61,0.0,11.0,0.0,50.4,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,50.84
+infrared thermography,Q108054004,infrared thermography,label,1,0,1.5,0.69,0.0,2.0,0.0,27.3,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.33
+infrared thermography,Q29009263,Infrared thermography identifies laser ignition thresholds,none,0,0,1.5,0.0,1.0,0.0,24.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.81
+infrared thermography,Q65541072,Infrared Thermography in Finding Skin Lesions in Patients With Kaposi's Sarcoma,none,0,0,2.0,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.33
+infrared thermography,Q74283279,Infrared Thermography for the Diagnosis of Musculoskeletal Pain,none,0,0,2.5,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.92
+infrared thermography,Q113895367,Infrared Thermography Associated With Cutaneous Microcirculation for Detection of Brown-adipose Tissue (MICROBAT),none,0,0,2.5,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.92
+infrared thermography,Q98603754,Infrared Thermography and Apgar Score,none,0,0,1.5,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.74
+infrared thermography,Q66081738,Infrared Thermography for Assessment of Caudal Block in Children,none,0,0,2.5,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.92
+phase change materials,Q1806889,phase-change material,alias,0,1,2.9,2.83,0.0,5.0,0.0,48.4,0.4,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,44.08
+1979,Q2484,1979,label,1,0,0.7,5.35,2.0,0.0,35.5,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,52.33
+1979,Q918450,1979 United Kingdom general election,none,0,0,2.1,3.09,1.0,0.0,22.3,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.34
+1979,Q53388906,1979-1980 one-year-period,none,0,0,3.6,0.0,1.0,0.0,20.1,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.89
+1979,Q1376068,1979 European Parliament election,none,0,0,2.9,3.04,1.0,0.0,23.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.48
+1979,Q21084465,48th Parliament of the United Kingdom,none,0,0,1.4,0.0,1.0,0.0,20.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+1979,Q2447229,1979 Spanish general election,none,0,0,1.4,2.77,2.0,0.0,27.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.97
+1979,Q536715,1979–80 Fußball-Bundesliga,none,0,0,2.1,3.26,1.0,0.0,23.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.24
+1979,Q1378385,1979 Swedish general election,none,0,0,1.4,2.48,1.0,0.0,21.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.98
+1979,Q11185939,1979 Soviet census,none,0,0,2.1,2.08,1.0,0.0,29.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.71
+1979,Q107356003,1979–1982 Swedish Riksdag,none,0,0,2.1,0.0,1.0,0.0,30.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.68
+1979,Q1348525,1979 Pan American Games,none,0,0,2.1,2.77,1.0,0.0,20.4,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.16
+1979,Q126065,Iranian Revolution,none,0,0,2.1,4.61,1.0,0.0,27.4,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.55
+1979,Q27882,EuroBasket 1979,none,0,0,0.7,3.3,1.0,0.0,23.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.74
+1979,Q98925585,1979-1980 Massachusetts legislature,none,0,0,1.4,1.1,1.0,0.0,30.5,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.12
+1979,Q2115160,1979 Ghanaian general election,none,0,0,2.1,1.95,1.0,0.0,11.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.46
+1979,Q1579644,1979 Portuguese legislative election,none,0,0,0.7,2.3,1.0,0.0,13.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.94
+1979,Q539578,1979 FIBA World Championship for Women,none,0,0,2.1,2.83,2.0,0.0,32.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.91
+1979,Q12681706,1979,label,1,0,0.7,2.4,3.0,0.0,32.6,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,41.12
+1979,Q1450524,1979 European Parliament election in the Netherlands,none,0,0,2.1,2.3,1.0,0.0,23.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.75
+1979,Q402437,1979 Mediterranean Games,none,0,0,2.1,3.09,1.0,0.0,23.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.35
+1979,Q104903248,Montreux Jazz Festival 1979,none,0,0,2.9,0.0,1.0,0.0,20.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.63
+1979,Q3465264,1979 Grand Prix circuit,none,0,0,0.7,1.79,1.0,0.0,13.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.69
+1979,Q1150801,1979 Summer Universiade,none,0,0,1.4,3.09,2.0,0.0,33.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.69
+1979,Q698348,1979 European Athletics Indoor Championships,none,0,0,2.1,3.0,1.0,0.0,21.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.09
+1979,Q2733678,1979,label,1,0,1.4,2.83,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.06
+1979,Q104771059,11th Alaska State Legislature,none,0,0,1.4,0.69,1.0,0.0,30.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.37
+1979,Q28145,1979-80 Cypriot Cup,none,0,0,1.4,1.95,1.0,0.0,23.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.72
+1979,Q744066,1979 Tour de France,none,0,0,1.4,3.04,1.0,0.0,21.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.25
+1979,Q3294923,March 1979,none,0,0,1.4,2.08,3.0,0.0,31.4,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.97
+1979,Q104737304,80th Michigan Legislature,none,0,0,1.4,0.0,1.0,0.0,30.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.02
+1979,Q69415,1979 Formula One season,none,0,0,0.7,3.61,2.0,0.0,28.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.55
+1979,Q202465,Uganda–Tanzania War,none,0,0,1.4,3.64,1.0,0.0,27.9,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.36
+1979,Q3042489,December 1979,none,0,0,1.4,1.79,3.0,0.0,31.2,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.32
+1979,Q13072288,May 1979,none,0,0,1.4,1.79,3.0,0.0,31.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.82
+1979,Q3188194,July 1979,none,0,0,1.4,1.79,3.0,0.0,32.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.83
+1979,Q16667777,October 1979,none,0,0,2.1,1.79,3.0,0.0,34.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.71
+1979,Q17172624,June 1979,none,0,0,1.4,1.79,3.0,0.0,31.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.82
+1979,Q3345431,November 1979,none,0,0,1.4,1.79,3.0,0.0,32.2,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.83
+1979,Q13080499,August 1979,none,0,0,1.4,1.79,3.0,0.0,31.2,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.82
+1979,Q2874559,April 1979,none,0,0,1.4,1.95,3.0,0.0,31.7,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.9
+1979,Q11918794,1979 Spanish local elections,none,0,0,1.4,1.79,1.0,0.0,28.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.69
+1979,Q16676406,September 1979,none,0,0,1.4,1.79,3.0,0.0,32.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.84
+1979,Q16645034,January 1979,none,0,0,1.4,1.79,3.0,0.0,32.7,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.84
+1979,Q13070118,February 1979,none,0,0,1.4,1.79,3.0,0.0,32.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.83
+1979,Q2948722,1979 NCAA Division I basketball tournament,none,0,0,0.7,1.61,1.0,0.0,23.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.2
+1979,Q17047803,1979 United Kingdom local elections,none,0,0,1.4,0.69,1.0,0.0,30.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.17
+1979,Q27792234,1979 Super Prestige Pernod,none,0,0,0.7,1.39,1.0,0.0,9.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.45
+1979,Q100161161,Merchant Shipping Act 1979,none,0,0,2.1,0.0,1.0,0.0,24.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.12
+1979,Q23976492,1979 Revolution: Black Friday,none,0,0,0.7,2.71,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.23
+1979,Q83085,guerre d'Afghanistan,alias,0,1,0.7,4.61,1.0,0.0,27.9,0.0,0.2,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,39.27
+1979,Q543609,élections générales britanniques de 1992,none,0,0,2.1,3.22,1.0,0.0,22.3,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.4
+1979,Q753322,1979 au cinéma,none,0,0,0.7,3.33,2.0,0.0,36.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.49
+1979,Q250683,(4015) Wilson-Harrington,none,0,0,0.7,3.64,5.0,0.0,45.0,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.98
+1979,Q2354888,1979 en musique,none,0,0,1.4,3.04,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.33
+1979,Q918806,(3073) Koursk,none,0,0,1.4,3.37,1.0,0.0,23.5,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.1
+1979,Q1032990,(7630) Yidumduma,none,0,0,1.4,2.77,1.0,0.0,23.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+1979,Q632195,1979 en sport,none,0,0,0.7,2.77,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.34
+1979,Q2812768,1979 à la télévision,none,0,0,2.9,2.56,1.0,0.0,29.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.81
+1979,Q4578959,1979 au Japon,none,0,0,2.1,1.95,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.64
+1979,Q2812778,1979 en littérature,none,0,0,1.4,3.0,1.0,0.0,29.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.31
+1979,Q2574263,1979 en arts plastiques,none,0,0,2.9,2.4,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.73
+1979,Q4579002,1979 aux États-Unis,none,0,0,0.7,1.79,1.0,0.0,29.8,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.85
+1979,Q18344364,1979 au Mexique,none,0,0,0.7,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.76
+1979,Q11170174,1979 av. J.-C.,none,0,0,0.7,1.61,1.0,0.0,17.7,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.84
+1979,Q4578995,1979 en Chine,none,0,0,2.1,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.47
+1979,Q18559349,1979 en Suède,none,0,0,1.4,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+1979,Q2586906,1979 en science,none,0,0,0.7,2.48,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.2
+1979,Q931341,1979 à la radio,none,0,0,1.4,1.39,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.51
+1979,Q1065282,51e cérémonie des Oscars,alias,0,1,0.7,3.53,1.0,0.0,15.9,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,37.13
+1979,Q2812741,1979 au Canada,none,0,0,0.7,1.79,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.85
+1979,Q4578967,1979 en Norvège,none,0,0,1.4,1.79,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.71
+1979,Q16820628,1979 en Corée du Sud,none,0,0,1.4,1.79,1.0,0.0,29.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.71
+1979,Q3890894,1979 en Israël,none,0,0,2.1,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.47
+1979,Q4578963,1979 en Malaisie,none,0,0,2.1,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.47
+1979,Q4578998,1979 au Royaume-Uni,none,0,0,2.1,1.61,2.0,0.0,36.8,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.84
+1979,Q6103437,1979 en Turquie,none,0,0,1.4,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+1979,Q16482003,1979 au Brésil,none,0,0,0.7,1.61,2.0,0.0,31.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.58
+1979,Q2083992,1979 en astronautique,none,0,0,0.7,2.2,2.0,0.0,36.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.92
+1979,Q4578951,1979 au Danemark,none,0,0,2.1,1.39,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.36
+1979,Q2812749,1979 en Suisse,none,0,0,1.4,1.39,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.51
+1979,Q15901485,1979 à Taïwan,none,0,0,1.4,1.39,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.51
+1979,Q9548950,1979 en politique,none,0,0,2.1,1.79,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.56
+1979,Q2812747,1979 en France,none,0,0,1.4,1.79,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.71
+1979,Q2539232,1979 en jeu vidéo,none,0,0,0.7,2.48,1.0,0.0,29.8,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.7
+1979,Q16023870,1979 en sport automobile,none,0,0,2.9,1.1,1.0,0.0,29.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.08
+1979,Q19568463,1979 en Allemagne,none,0,0,1.4,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+1979,Q19568465,1979 en Iran,none,0,0,1.4,1.61,1.0,0.0,29.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+antibes,Q126898,Antibes,label,1,0,2.1,4.65,2.0,0.0,27.2,0.0,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,51.24
+antibes,Q2600783,Olympique Antibes,none,0,0,1.4,2.48,1.0,0.0,18.0,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.69
+antibes,Q50435466,Antibes,label,1,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.39
+antibes,Q50319773,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q112234137,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q28130739,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q20771387,"Antibes, Bacon's small harbour",none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.42
+antibes,Q6557856,Antibes,label,1,0,1.4,1.95,1.0,0.0,15.6,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,37.08
+antibes,Q2942253,Antibes Cathedral,none,0,0,2.1,2.56,1.0,0.0,21.2,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.87
+antibes,Q50733733,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q20487174,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q744640,Jazz à Juan,none,0,0,2.1,2.08,1.0,0.0,11.8,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.39
+antibes,Q20538857,Antibes Seen from the Plateau Notre-Dame,none,0,0,2.1,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.59
+antibes,Q47510327,"Antibes, le soir",none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+antibes,Q78654632,Antibes Seen from La Salis,none,0,0,2.9,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.45
+antibes,Q20538846,"Antibes, Afternoon Effect",none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.73
+antibes,Q2853136,Antibes Land,none,0,0,2.9,1.1,1.0,0.0,19.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.97
+antibes,Q19828597,Antibes (Pauly-Wissowa),none,0,0,1.4,0.69,1.0,0.0,27.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.14
+antibes,Q17490696,Antibes. La promenade à cheval,none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.73
+antibes,Q25301122,Antibes - Morning,none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+antibes,Q115909558,municipality of Antibes,none,0,0,2.1,0.0,1.0,0.0,24.2,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.36
+antibes,Q110243556,"Antibes, The towers",none,0,0,1.4,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.08
+antibes,Q84263751,"Antibes, The Pink Cloud",none,0,0,1.4,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.08
+antibes,Q110420694,Antibes. Small Port de Bacon,none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.42
+antibes,Q115125390,"Antibes, Thunderstorm",none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+antibes,Q20521863,1928 Antibes Grand Prix,none,0,0,0.7,0.69,1.0,0.0,24.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.25
+antibes,Q20521882,1932 Antibes Grand Prix,none,0,0,0.7,0.69,1.0,0.0,24.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.25
+antibes,Q119212120,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q119347287,Antibes,label,1,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,30.76
+antibes,Q134549009,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q119287507,Antibes,label,1,0,2.1,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.91
+antibes,Q31883622,Antibesskie Swamps,none,0,0,0.7,0.69,1.0,0.0,11.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.12
+antibes,Q21124995,Antibes Grand Prix,none,0,0,0.7,0.69,1.0,2.0,23.5,29.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.68
+antibes,Q131655987,Antibes raid,none,0,0,0.7,0.69,1.0,0.0,23.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.24
+antibes,Q117881663,Antibes weather station,none,0,0,2.1,0.0,1.0,0.0,32.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.7
+antibes,Q134460171,"Antibes, Morning",none,0,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+antibes,Q106677308,flag of Antibes,none,0,0,1.4,0.0,1.0,0.0,14.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.66
+antibes,Q118246371,Antibes-Garoupe weather station,none,0,0,1.4,0.0,1.0,0.0,32.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.84
+antibes,Q119214334,Antibes in Shadow,none,0,0,2.9,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.45
+antibes,Q4774536,Antibes Yacht Show,none,0,0,2.1,0.0,2.0,0.0,36.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.54
+antibes,Q105576380,"Antibes, Côte d'Azur, France",none,0,0,1.4,0.0,1.0,0.0,19.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.7
+antibes,Q113671353,Antibes observatory,none,0,0,0.7,0.0,1.0,0.0,18.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.84
+antibes,Q119796397,"Antibes, France",none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.73
+antibes,Q18938939,Antibespad,none,0,0,1.4,0.0,1.0,0.0,22.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.74
+antibes,Q118246372,Antibes-Golf weather station,none,0,0,1.4,0.0,1.0,0.0,32.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.84
+antibes,Q1994367,Cap d'Antibes,none,0,0,0.7,2.2,2.0,0.0,29.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.35
+antibes,Q16627253,canton of Antibes-1,none,0,0,1.4,1.95,1.0,0.0,25.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.75
+antibes,Q16627258,canton of Antibes-3,none,0,0,1.4,1.95,1.0,0.0,25.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.75
+antibes,Q800390,Antibes,label,1,0,0.7,2.56,1.0,0.0,24.2,0.0,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,36.94
+antibes,Q66625806,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q64504374,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q81825443,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q46731104,"Antibes, le fort",none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+antibes,Q97105253,"Les rochers à Antibes, effet du matin",none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.73
+antibes,Q112802732,Antibesski,none,0,0,0.0,0.0,1.0,0.0,24.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.04
+antibes,Q64494952,Antibes (variante),none,0,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+antibes,Q17490695,Antibes et Nice. Vue du cap en novembre,none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.73
+antibes,Q127729979,gare de péage d'Antibes,alias,0,1,1.4,0.0,1.0,0.0,21.6,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,26.61
+antibes,Q123469415,Antibes,label,1,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.62
+antibes,Q126811424,"Antibes, le Fort carré",none,0,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+antibes,Q1724185,canton d'Antibes-Biot,none,0,0,0.0,2.77,1.0,0.0,31.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.0
+antibes,Q125718,canton de Vallauris-Antibes-Ouest,none,0,0,0.0,2.71,1.0,0.0,31.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.47
+antibes,Q16627255,canton d'Antibes-2,none,0,0,0.0,1.95,1.0,0.0,25.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.03
+antibes,Q1490114,canton d'Antibes-Centre,none,0,0,0.0,2.83,1.0,0.0,31.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.53
+antibes,Q16273152,Antibésskaia,none,0,0,0.0,1.61,1.0,0.0,27.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+antibes,Q131386142,Antibes : le parc Marineland évoque une « fermeture définitive » le 5 janvier prochain,none,0,0,1.4,0.0,1.0,0.0,33.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.85
+antibes,Q126811402,Antibes (la pinède),none,0,0,1.4,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.73
+antibes,Q2859215,aqueduc de Clausonnes,none,0,0,1.4,1.39,2.0,0.0,27.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.78
+antibes,Q83187,thiamine(1+) ion,none,0,0,0.0,4.37,1.0,5.0,23.9,34.9,0.035,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.61
+antibes,Q5583743,Goody Music Records,none,0,0,1.4,1.1,1.0,0.0,28.2,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+antibes,Q34595918,Antibelos (Pauly-Wissowa),none,0,0,0.7,0.69,1.0,0.0,27.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.28
+antibes,Q708312,mouvement pacifiste,none,0,0,4.3,3.37,0.0,6.0,0.0,48.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.81
+antibes,Q58848,pacifisme,none,0,0,0.7,4.56,1.0,3.0,30.0,41.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.87
+antibes,Q506674,antimilitarisme,none,0,0,0.0,3.58,2.0,2.0,33.5,34.6,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.2
+antibes,Q83197,antimatière,none,0,0,0.7,4.51,0.0,2.0,0.0,34.8,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.79
+antibes,Q503288,antigel,none,0,0,2.1,3.85,1.0,11.0,22.9,47.6,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.51
+antibes,Q931155,tragédie des anticommuns,none,0,0,0.7,3.0,1.0,2.0,26.8,35.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.91
+civil engineering,Q811979,architectural structure,none,0,0,0.7,3.5,1.0,10.0,27.9,47.9,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.53
+civil engineering,Q77590,civil engineering,label,1,0,3.6,4.54,6.0,3.0,46.2,38.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,69.83
+civil engineering,Q106372013,civil engineering studies,none,0,0,1.4,0.0,2.0,0.0,36.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.68
+civil engineering,Q73303844,civil engineering,label,1,0,0.7,0.0,1.0,6.0,22.2,44.5,0.286,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.67
+civil engineering,Q1411945,civil engineering construction,none,0,0,0.7,1.95,0.0,10.0,0.0,48.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.41
+civil engineering,Q11423672,JSCE Civil Engineering Heritage Site,none,0,0,0.0,1.1,1.0,4.0,28.6,45.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.4
+civil engineering,Q64759461,Civil Engineering,label,1,0,2.1,0.0,2.0,0.0,32.4,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,33.81
+civil engineering,Q2431808,civil engineering worker,none,0,0,2.9,0.69,2.0,8.0,34.2,43.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.87
+civil engineering,Q72167818,School of Civil Engineering of the NTUA,none,0,0,1.4,0.0,1.0,0.0,25.1,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.96
+civil engineering,Q105299234,UCLA Civil and Environmental Engineering,none,0,0,2.1,0.0,1.0,0.0,28.8,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.26
+civil engineering,Q30266108,Civil Engineering Research Institute for Cold Region,none,0,0,0.7,0.0,1.0,0.0,24.7,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.91
+civil engineering,Q107494657,civil engineering award,none,0,0,0.7,0.0,1.0,2.0,20.1,19.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+civil engineering,Q5124663,civil engineering software,none,0,0,0.0,1.39,1.0,0.0,23.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.72
+civil engineering,Q11423674,civil engineering department,none,0,0,0.0,1.1,0.0,3.0,0.0,37.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.65
+civil engineering,Q26220819,Civil Engineering Building,none,0,0,0.0,0.69,1.0,0.0,25.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.4
+civil engineering,Q66606229,Civil engineering - structural engineering,none,0,0,2.1,0.69,1.0,0.0,14.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.86
+civil engineering,Q112085338,Civil Engineering Research and Innovation for Sustainability,none,0,0,0.7,0.0,1.0,0.0,23.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.89
+civil engineering,Q115753880,civil engineering works,none,0,0,1.4,0.0,1.0,2.0,13.0,21.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.02
+civil engineering,Q100321118,civil engineering technician,none,0,0,0.7,0.0,2.0,7.0,34.6,41.6,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.34
+civil engineering,Q110593678,Textbooks > Engineering > Civil Engineering,alias,0,1,0.0,0.0,1.0,0.0,5.1,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,20.69
+civil engineering,Q110594017,iTunes U > Engineering > Civil Engineering,alias,0,1,0.0,0.0,1.0,0.0,5.9,0.0,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,20.71
+civil engineering,Q5124661,civil engineering and infrastructure repair in New Orleans after Hurricane Katrina,none,0,0,2.1,1.39,1.0,0.0,27.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.34
+civil engineering,Q12750473,"Civil Engineering Technical School ""Neimar"" Niš",none,0,0,1.4,1.1,1.0,0.0,29.2,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.56
+environmental management,Q65246763,environmental management,label,1,0,2.9,0.69,1.0,2.0,20.0,38.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,40.21
+environmental management,Q929380,environmental resource management,alias,0,1,2.1,3.37,1.0,8.0,19.4,45.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,50.86
+environmental management,Q1520901,environmental management system,none,0,0,2.9,2.71,0.0,2.0,0.0,37.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.78
+environmental management,Q904574,Eco-Management and Audit Scheme,none,0,0,2.1,3.09,1.0,0.0,22.9,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.35
+environmental management,Q3577942,Environmental Management & Engineering School,none,0,0,1.4,1.1,1.0,0.0,21.7,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.95
+environmental management,Q135424760,environmental management,label,1,0,1.4,0.0,1.0,4.0,19.4,46.2,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,37.63
+environmental management,Q122192528,environmental management strategy,none,0,0,2.1,0.0,0.0,2.0,0.0,31.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.03
+environmental management,Q136180380,Environmental Management For Livelihood Improvement Bwaise Facility,none,0,0,0.7,0.0,1.0,0.0,32.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.99
+environmental management,Q64195583,Environmental Management Records (NAID 77149025),none,0,0,2.9,0.0,1.0,0.0,25.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.48
+environmental management,Q136437039,Environmental Management Agency,none,0,0,2.1,0.0,1.0,0.0,33.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.7
+environmental management,Q116282221,Environmental Management Authority,none,0,0,0.7,0.0,1.0,0.0,33.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.99
+environmental management,Q131875141,Environmental Management And Technology Center,none,0,0,1.4,0.0,1.0,0.0,24.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.76
+geotechnical engineering,Q1349130,geotechnical engineering,label,1,0,2.9,3.85,4.0,2.0,46.3,31.4,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,58.22
+hydrogeology,Q179509,hydrogeology,label,1,0,2.1,4.04,4.0,5.0,41.0,46.6,0.25,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,60.93
+hydrogeology,Q26377491,"Hydrogeology and hydrochemistry of the Midnite Mine, northeastern Washington",none,0,0,2.9,0.0,1.0,0.0,24.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.48
+mapping,Q28061352,"Mapping file of InChIStrings, InChIKeys and DTXSIDs for the EPA CompTox Dashboard",none,0,0,4.3,0.0,2.0,0.0,34.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.09
+mapping,Q11348,function,alias,0,1,2.9,4.87,1.0,8.0,17.4,46.6,0.154,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,54.88
+mapping,Q370502,mapping,label,1,0,3.6,3.33,0.0,7.0,0.0,46.6,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,58.14
+mapping,Q2330408,data mapping,alias,0,1,3.6,2.08,3.0,2.0,40.2,35.7,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,46.09
+mapping,Q1734603,cartographic mapping,none,0,0,3.6,0.69,1.0,2.0,26.3,33.6,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.36
+mapping,Q11736611,geoscientific mapping,none,0,0,5.7,1.39,1.0,2.0,26.3,34.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.29
+mapping,Q4688034,aerial survey,none,0,0,4.3,2.94,0.0,8.0,0.0,51.1,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.57
+mapping,Q106866757,tagging for the renderer,none,0,0,3.6,0.0,2.0,7.0,30.3,47.6,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.52
+mapping,Q5508846,functional predicate,alias,0,1,0.7,1.61,0.0,5.0,0.0,47.5,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,33.29
+mapping,Q3845212,mapping class group,none,0,0,2.1,2.08,1.0,2.0,18.3,28.8,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.02
+mapping,Q60817979,SKOS generic mapping relation,none,0,0,1.4,0.0,0.0,2.0,0.0,34.1,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.04
+mapping,Q15052158,navigation radar,none,0,0,1.4,0.0,0.0,4.0,0.0,38.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.42
+mapping,Q54514942,"Mapping visual cortical regions in awake, behaving monkey using functional mri",none,0,0,2.1,0.0,1.0,0.0,28.3,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.66
+mapping,Q3412573,cartography of Venus,none,0,0,2.1,1.79,1.0,0.0,17.8,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.3
+mapping,Q306560,mapping cone,none,0,0,0.7,1.79,1.0,2.0,7.0,36.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.61
+mapping,Q47295061,RFC 1327: Mapping between X.400(1988) / ISO 10021 and RFC 822,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q66588892,topographical corps,none,0,0,2.9,0.69,0.0,4.0,0.0,37.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.98
+mapping,Q17078772,Mapping L.A.,none,0,0,2.9,0.69,2.0,0.0,40.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.78
+mapping,Q101064503,Connect 2020,none,0,0,2.9,0.69,1.0,0.0,21.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.79
+mapping,Q47260615,RFC 1138: Mapping between X.400(1988) / ISO 10021 and RFC 822,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q107242973,Mapping USA 2021,none,0,0,2.9,0.0,2.0,0.0,34.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.37
+mapping,Q47259576,RFC 1148: Mapping between X.400(1988) / ISO 10021 and RFC 822,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q47457601,RFC 987: Mapping between X.400 and RFC 822,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q897819,Universal Character Set characters,none,0,0,1.4,1.95,1.0,0.0,23.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.22
+mapping,Q1014869,mapping cylinder,none,0,0,0.7,1.79,1.0,2.0,7.0,36.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.11
+mapping,Q47450644,RFC 2569: Mapping between LPD and IPP Protocols,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q6754182,Mapping of Airline Traffic over Internet Protocol,none,0,0,1.4,1.1,1.0,0.0,16.7,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.23
+mapping,Q113472553,Mapping skills for B7,none,0,0,1.4,0.0,1.0,2.0,25.5,17.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.11
+mapping,Q54838916,geographic region of Venus,none,0,0,2.1,0.0,0.0,2.0,0.0,41.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.31
+mapping,Q21668548,mapping from cause of death,none,0,0,2.1,0.0,1.0,0.0,34.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.72
+mapping,Q114242021,Mapping USA,none,0,0,2.9,0.69,2.0,0.0,23.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.61
+mapping,Q107448588,Mapping the knowledge of Insect Biodiversity across Northland,none,0,0,2.9,0.0,1.0,0.0,20.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.44
+mapping,Q107575504,Mapping the Lives,none,0,0,2.9,0.0,1.0,0.0,26.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.49
+mapping,Q111795956,Mapping LGBTI Rights in Europe,none,0,0,1.4,0.0,1.0,0.0,15.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.67
+mapping,Q108824507,Mapping Manuscript Migrations,none,0,0,3.6,0.0,1.0,0.0,27.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.36
+mapping,Q112189258,photographic mapping squadron,none,0,0,2.1,0.0,1.0,3.0,24.6,40.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.94
+mapping,Q114242035,Mapping USA 2022,none,0,0,3.6,0.0,2.0,0.0,34.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.23
+mapping,Q47469803,RFC 1495: Mapping between X.400 and RFC-822 Message Bodies,none,0,0,1.4,0.0,1.0,0.0,20.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.22
+mapping,Q58748,mapping objet-relationnel,none,0,0,0.7,3.43,0.0,2.0,0.0,31.4,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.69
+mapping,Q776483,Vidéo mapping,none,0,0,1.4,3.04,0.0,2.0,0.0,30.3,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.35
+mapping,Q113839930,Mapping objet-document,none,0,0,0.7,0.69,0.0,2.0,0.0,31.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.66
+mapping,Q20635329,Samsung Freebase-Wikidata mapping,none,0,0,1.4,0.0,2.0,0.0,37.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.69
+mapping,Q6647569,MuSAR,none,0,0,1.4,0.69,1.0,0.0,17.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.53
+mapping,Q1821766,level design,alias,0,1,1.4,2.77,1.0,0.0,35.0,0.0,0.286,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,34.89
+mapping,Q114713058,Mapping Software Startup DroneDeploy Raises $20M Series B,none,0,0,0.7,0.0,1.0,0.0,33.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.99
+mapping,Q2986178,Comment sera le monde en 2020 ?,none,0,0,2.1,0.0,1.0,0.0,20.8,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.25
+mediterranean sea,Q4918,Mediterranean Sea,label,1,0,0.7,5.59,3.0,0.0,45.1,0.0,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,53.1
+mediterranean sea,Q986177,mediterranean sea,label,1,0,1.4,3.47,0.0,2.0,0.0,25.5,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.33
+mediterranean sea,Q72499,Mediterranean Basin,none,0,0,2.1,4.25,4.0,0.0,46.2,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.11
+mediterranean sea,Q17379799,Akdeniz,alias,0,1,0.0,2.3,1.0,0.0,14.2,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,31.4
+mediterranean sea,Q83641243,X-Press Netravati,alias,0,1,1.4,0.69,1.0,0.0,14.6,0.0,0.222,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,25.7
+mediterranean sea,Q83650360,Mediterranean Sea,label,1,0,1.4,0.69,1.0,0.0,14.5,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.04
+mediterranean sea,Q107540061,Mediterranean Sea marine province,none,0,0,0.7,0.69,1.0,0.0,13.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.13
+mediterranean sea,Q111384107,Mediterranean Sea Area,none,0,0,0.7,0.0,1.0,0.0,12.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.78
+mediterranean sea,Q96392500,Mediterranean Sea refugee smuggling,none,0,0,2.9,2.08,1.0,2.0,23.7,24.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.9
+mediterranean sea,Q105812443,Mediterranean Sea View 2017,none,0,0,0.0,0.69,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.36
+mediterranean sea,Q119706042,Mediterranean Seascape with Galleys,none,0,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+mediterranean sea,Q118144797,"Mediterranean Sea, La Ciotat",none,0,0,0.7,0.0,1.0,0.0,21.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.88
+mediterranean sea,Q118144812,"Mediterranean Sea, Crete",none,0,0,0.0,0.0,1.0,0.0,21.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.02
+mediterranean sea,Q119804265,Mediterranean Seascape,none,0,0,0.7,0.0,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+mediterranean sea,Q117079586,Mediterranean Sea.,label,1,0,1.4,0.0,1.0,0.0,21.5,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,29.43
+mediterranean sea,Q118144748,"Mediterranean Sea, Cassis",none,0,0,0.0,0.0,1.0,0.0,21.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.02
+mediterranean sea,Q28310666,City of Exeter,alias,0,1,2.1,1.39,1.0,0.0,15.4,0.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,34.19
+nice airport,Q821557,Nice Côte d'Azur Airport,alias,0,1,2.1,3.87,3.0,0.0,42.2,0.0,0.105,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,43.31
+tsunami,Q8070,tsunami,label,1,0,2.9,5.18,0.0,8.0,0.0,48.0,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,63.86
+tsunami,Q963944,melioidosis,none,0,0,0.7,3.3,2.0,13.0,41.1,44.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.13
+tsunami,Q7850148,Tsunami,label,1,0,0.7,1.1,1.0,0.0,20.5,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.99
+tsunami,Q1037889,Tsunami,label,1,0,0.7,1.95,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,36.36
+tsunami,Q80420024,Tsunami,label,1,0,2.9,0.0,2.0,0.0,23.5,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.76
+tsunami,Q76920834,civil defense siren model,none,0,0,2.9,0.69,1.0,5.0,25.1,46.5,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.86
+tsunami,Q28936859,Tsunami VIII,none,0,0,0.7,0.0,1.0,0.0,32.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.98
+tsunami,Q2169285,Tsunami,label,1,0,0.7,1.79,1.0,0.0,23.5,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.5
+tsunami,Q25211995,Tsunami,label,1,0,0.7,0.69,1.0,0.0,20.5,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.37
+tsunami,Q647787,Project 205 Moskit,none,0,0,1.4,3.04,1.0,2.0,15.5,31.6,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.39
+tsunami,Q84579637,Tsunami,label,1,0,1.4,0.69,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,33.5
+tsunami,Q98845625,Tsunami,label,1,0,0.7,1.39,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.13
+tsunami,Q7850146,Tsunami,label,1,0,0.7,1.39,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.13
+tsunami,Q98022589,Tsunami,label,1,0,0.7,0.0,1.0,0.0,20.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,28.6
+tsunami,Q15042655,Tsunami,label,1,0,1.4,1.79,1.0,0.0,19.9,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,37.89
+tsunami,Q2458569,Tsunami,label,1,0,0.7,1.39,1.0,0.0,34.8,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,34.45
+tsunami,Q97193091,Tsunami,label,1,0,0.7,0.69,1.0,0.0,21.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.39
+tsunami,Q84239463,Tsunami,label,1,0,0.7,0.69,1.0,0.0,25.1,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.47
+tsunami,Q63504657,Tsunami,label,1,0,1.4,0.0,1.0,0.0,33.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,31.03
+tsunami,Q7850159,Tsunami Games,none,0,0,0.7,0.69,1.0,0.0,25.7,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.76
+tsunami,Q16143815,tsunami museum,none,0,0,0.7,1.1,1.0,3.0,13.2,45.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.5
+tsunami,Q493098,Tsunami Bomb,none,0,0,0.7,2.08,1.0,0.0,20.5,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.9
+tsunami,Q2744117,tsunami warning system,none,0,0,5.7,2.64,1.0,2.0,16.7,35.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.12
+tsunami,Q11559340,Tsunami Umino,none,0,0,0.7,1.1,1.0,0.0,32.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.53
+tsunami,Q2414754,The Tsunami and the Cherry Blossom,none,0,0,2.1,2.08,1.0,0.0,20.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+tsunami,Q32463,Tsunami: The Aftermath,none,0,0,1.4,1.79,2.0,0.0,34.8,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.06
+tsunami,Q11442814,Tsunami Tenkai,none,0,0,0.7,1.1,1.0,0.0,32.9,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.73
+tsunami,Q3542427,Tsunamitsu Adachi,none,0,0,0.0,1.95,1.0,0.0,32.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.1
+tsunami,Q2580904,tsunami bomb,none,0,0,0.7,1.95,1.0,2.0,23.4,15.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.19
+tsunami,Q66320381,TSUNAMI DAMAGE FROM A NAVY P-3 AIRCRAFT (NAID 140105792),none,0,0,4.3,0.0,1.0,0.0,31.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.25
+tsunami,Q100000058,tsunami stone,none,0,0,2.1,1.61,0.0,10.0,0.0,45.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.74
+tsunami,Q11556222,tsunami boulder,none,0,0,0.7,1.1,0.0,3.0,0.0,30.5,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.95
+tsunami,Q18396210,Tsunami 2265,none,0,0,0.7,1.1,1.0,0.0,21.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.42
+tsunami,Q11434687,Tsunamichi Ōyama,none,0,0,0.0,0.69,1.0,0.0,32.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.48
+tsunami,Q52665281,Tsunami Society International,none,0,0,1.4,0.0,1.0,0.0,19.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.7
+tsunami,Q7850171,tsunami earthquake,none,0,0,1.4,2.4,1.0,5.0,8.9,48.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.19
+tsunami,Q1579255,tsunami deposit,none,0,0,2.1,2.2,0.0,2.0,0.0,33.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.14
+tsunami,Q11124429,Tsunami Warning,none,0,0,2.1,1.95,0.0,3.0,0.0,24.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.54
+tsunami,Q34494121,Tsunamia,none,0,0,0.7,0.69,1.0,0.0,27.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.28
+tsunami,Q36204,séisme de 2011 de la côte Pacifique du Tōhoku,none,0,0,1.4,4.53,5.0,0.0,43.2,0.0,0.087,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.67
+tsunami,Q130754,séisme et tsunami de 2004 dans l'océan Indien,none,0,0,1.4,4.45,4.0,0.0,47.9,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.29
+tsunami,Q1288535,Storegga,none,0,0,1.4,3.33,1.0,0.0,24.5,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.28
+tsunami,Q60042839,Tsunami de 2018 dans le détroit de la Sonde,none,0,0,1.4,3.58,2.0,0.0,37.7,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.48
+tsunami,Q1348976,séisme de juillet 2006 à Java,none,0,0,1.4,2.94,3.0,0.0,45.5,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.79
+tsunami,Q1049092,séisme du 25 octobre 2010 à Sumatra,none,0,0,0.7,3.04,1.0,0.0,31.4,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.69
+tsunami,Q3516173,Tauredunum,none,0,0,0.7,2.2,2.0,0.0,25.8,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.01
+tsunami,Q6516996,Tsunami du Tafjord,none,0,0,0.7,1.61,1.0,0.0,28.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.74
+tsunami,Q7850167,Tsunami,label,1,0,0.7,1.61,2.0,0.0,39.2,0.0,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,36.11
+tsunami,Q30338959,Tsunami de 2017 au Groenland,none,0,0,0.7,1.39,1.0,0.0,25.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.6
+tsunami,Q56319497,Tsunami,label,1,0,0.7,1.1,1.0,0.0,33.7,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,33.28
+tsunami,Q191055,tremblement de terre de Lisbonne,none,0,0,0.7,4.08,1.0,0.0,31.4,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.01
+tsunami,Q56768333,séisme du 28 septembre 2018 à Célèbes,none,0,0,0.7,3.56,4.0,0.0,47.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.31
+tsunami,Q212618,séisme de 1960 à Valdivia,none,0,0,1.4,3.99,3.0,0.0,45.5,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.76
+tsunami,Q846330,super mardi,none,0,0,1.4,3.43,0.0,5.0,0.0,46.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.3
+tsunami,Q1479008,Tsunami météorologique,none,0,0,2.9,2.89,1.0,2.0,22.0,27.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.31
+tsunami,Q2313887,Satoshi Tsunami,none,0,0,0.7,3.99,1.0,0.0,32.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.98
+tsunami,Q583313,mégatsunami,none,0,0,1.4,3.26,0.0,3.0,0.0,44.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.5
+tsunami,Q3388879,séisme de 1933 à Sanriku,none,0,0,2.1,2.77,1.0,0.0,25.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.01
+tsunami,Q5327275,Tsunami de Naples en 1343,none,0,0,2.1,1.79,1.0,0.0,25.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.52
+tsunami,Q14345617,tsunami de l'aéroport de Nice,none,0,0,2.9,1.61,1.0,0.0,25.0,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.28
+nonlinear dynamics,Q1985198,nonlinear dynamics,label,1,0,2.0,1.1,1.0,10.0,17.7,54.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,52.86
+nonlinear dynamics,Q660848,système non linéaire,alias,0,1,5.3,3.69,0.0,3.0,0.0,39.8,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,54.69
+stochastic modeling,Q7617825,stochastic modelling,alias,0,1,2.0,1.1,0.0,2.0,0.0,22.9,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,33.07
+stochastic modeling,Q107613684,Stochastic Modeling Techniques and Data Analysis International Conference,none,0,0,2.7,0.0,1.0,0.0,24.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.24
+stochastic modeling,Q24703697,Stochastic modeling of rotational degrees of freedom in molecules,none,0,0,2.7,0.0,1.0,0.0,17.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.18
+uncertainty quantification,Q7882499,uncertainty quantification,label,1,0,4.0,0.69,0.0,3.0,0.0,43.0,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.13
+uncertainty quantification,Q111026956,Uncertainty Quantification and Assimilation for Efficient Coastal Ocean Forecasting,none,0,0,2.0,0.0,1.0,0.0,18.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.38
+uncertainty quantification,Q99980222,Uncertainty Quantification And Design Tools For Robust Organic Rankine Cycles,none,0,0,2.0,0.0,2.0,0.0,28.6,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.29

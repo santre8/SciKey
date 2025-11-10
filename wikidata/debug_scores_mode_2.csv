@@ -1,0 +1,310 @@
+kw,qid,label,mode,exact_label,exact_alias,ctx,sl_log1p,p31_cnt,p279_cnt,ctx_p31,ctx_p279,alias_inv,w_ctx,w_sl,w_p31,w_p279,w_ctx_p31,w_ctx_p279,w_alias_inv,bonus_label,bonus_alias,total
+parallel tempering,Q7135015,parallel tempering,label,1,0,3.9,1.39,0.0,2.0,0.0,42.3,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,43.75
+electrospray ionisation,Q902061,electrospray ionization,alias,0,1,0.0,2.64,0.0,3.0,0.0,44.9,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,33.23
+coarse-grained models,Q25305554,Coarse-grained model,label,1,0,1.3,1.1,0.0,6.0,0.0,45.6,0.667,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,40.87
+monte carlo simulations,Q112879986,Monte Carlo Simulations of Chemical Vapour Deposition Diamond Detectors,none,0,0,6.5,0.0,1.0,0.0,37.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.97
+monte carlo simulations,Q122034143,Monte Carlo simulations using the physical self-description questionnaire,none,0,0,6.5,0.0,1.0,0.0,39.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.99
+monte carlo simulations,Q232207,Monte Carlo method,none,0,0,7.8,4.01,1.0,6.0,32.8,40.6,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,17.26
+excited states,Q215328,excited state,label,1,0,6.9,3.78,1.0,0.0,28.6,0.0,0.4,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,59.95
+excited states,Q113207671,excited state chemistry,none,0,0,4.9,0.0,4.0,2.0,46.7,39.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.06
+excited states,Q113207230,excited-state proton-coupled electron transfer,none,0,0,1.0,0.0,0.0,2.0,0.0,36.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.17
+excited states,Q9138558,excited state absorption,none,0,0,2.0,0.69,0.0,2.0,0.0,40.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.23
+molecular anions,Q55511438,polyatomic anion,none,0,0,2.0,0.0,1.0,4.0,34.1,46.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.26
+collagen,Q26868,collagen,label,1,0,7.1,4.17,2.0,6.0,39.1,38.9,0.333,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,74.1
+collagen,Q24768908,Collagen triple helix repeat,none,0,0,1.8,2.48,1.0,0.0,38.8,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.77
+collagen,Q1779300,connective tissue disease,none,0,0,1.8,2.83,1.0,4.0,43.0,45.2,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.1
+collagen,Q54810453,collagen-containing extracellular matrix,none,0,0,0.0,0.0,1.0,2.0,30.3,46.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.68
+collagen,Q450470,collagenous colitis,none,0,0,5.4,2.3,1.0,6.0,43.0,38.3,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.72
+collagen,Q95353897,"collagen triple helix repeat, protein family",none,0,0,1.8,0.0,2.0,2.0,46.5,40.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.73
+collagen,Q1446169,collagen disease,none,0,0,3.6,2.08,1.0,3.0,43.0,44.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.71
+collagen,Q14819451,collagen binding,none,0,0,16.1,0.0,1.0,2.0,41.7,46.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,24.08
+collagen,Q14864949,collagen fibril organization,none,0,0,5.4,1.1,1.0,5.0,42.5,46.6,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.57
+collagen,Q14877619,collagen catabolic process,none,0,0,5.4,0.0,1.0,3.0,42.5,47.1,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.83
+collagen,Q18035016,CERT1,none,0,0,1.8,1.39,1.0,2.0,29.5,38.7,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.04
+collagen,Q5145884,collagen type I alpha 1 chain,none,0,0,1.8,2.3,1.0,0.0,39.9,0.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.96
+collagen,Q5145885,Collagen type III alpha 1 chain,none,0,0,1.8,2.08,1.0,0.0,39.9,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.98
+collagen,Q21102497,Collagen type VII alpha 1 chain,none,0,0,1.8,1.95,1.0,0.0,39.9,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.07
+collagen,Q29817579,Collagen type IV alpha 1 Dmel_CG4145,none,0,0,1.8,0.0,1.0,0.0,39.9,0.0,0.1,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.64
+collagen,Q18051562,CCBE1,none,0,0,3.6,1.95,1.0,2.0,29.5,38.7,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.36
+collagen,Q21109884,Collagen type XI alpha 2 chain,none,0,0,1.8,2.2,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+collagen,Q5145890,Collagen type V alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+collagen,Q5013311,Collagen type I alpha 2 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.61
+collagen,Q5145888,Collagen type II alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.84
+collagen,Q5145901,Collagen type XVII alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.7
+collagen,Q21102501,Collagen type IX alpha 2 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.0
+collagen,Q21131338,Collagen type XI alpha 1 chain,none,0,0,1.8,1.95,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.17
+collagen,Q21111945,Collagen type XXV alpha 1 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.81
+collagen,Q5013327,Collagen type V alpha 2 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.0
+collagen,Q5145904,Collagen type XXVII alpha 1 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.15
+collagen,Q21106784,Collagen type XII alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.24
+collagen,Q21100856,Collagen type XXIII alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.24
+collagen,Q21106791,Collagen type XVI alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.1
+collagen,Q21102486,Collagen type IX alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.99
+collagen,Q21130730,Collagen type XIII alpha 1 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.15
+collagen,Q21130061,Collagen type IV alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.99
+collagen,Q5145886,COL4A1,none,0,0,1.8,0.0,1.0,2.0,29.5,38.7,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.21
+collagen,Q22298371,"molting cycle, collagen and cuticulin-based cuticle",none,0,0,8.9,0.0,1.0,2.0,42.5,46.5,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.01
+collagen,Q21102491,Collagen type V alpha 3 chain,none,0,0,1.8,1.39,1.0,0.0,39.9,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.03
+collagen,Q21115678,Collagen type XIV alpha 1 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.0
+collagen,Q5145914,Collagenous spherulosis,none,0,0,0.0,1.1,1.0,3.0,41.3,44.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.92
+collagen,Q21111547,Collagen type XXIV alpha 1 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.35
+collagen,Q5145905,Collagen type IV alpha 3 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.9
+collagen,Q14914343,collagen metabolic process,none,0,0,14.3,0.0,1.0,2.0,42.5,42.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,21.41
+collagen,Q21116171,Collagen type XVIII alpha 1 chain,none,0,0,1.8,1.79,1.0,0.0,39.9,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.9
+collagen,Q5145913,collagenous fibroma,none,0,0,0.0,1.1,0.0,3.0,0.0,44.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.2
+collagen,Q810010,Basigin (Ok blood group),none,0,0,0.0,2.48,1.0,0.0,39.9,0.0,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.9
+collagen,Q21130069,Collagen type IX alpha 3 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.0
+collagen,Q15317046,COL1A2,none,0,0,1.8,0.0,1.0,2.0,29.5,38.7,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.61
+collagen,Q5161704,Connective tissue nevus,none,0,0,0.0,1.1,0.0,2.0,0.0,44.2,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.65
+collagen,Q21118029,procollagen-proline 4-dioxygenase activity,none,0,0,3.6,0.0,1.0,3.0,41.7,36.0,0.143,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.02
+collagen,Q508356,COL8A1,none,0,0,1.8,0.0,1.0,2.0,29.5,38.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.95
+collagen,Q21130062,Collagen type IV alpha 2 chain,none,0,0,1.8,1.61,1.0,0.0,39.9,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.35
+collagen,Q7434197,collagénome storiforme circonscrit,none,0,0,0.0,0.69,0.0,7.0,0.0,41.9,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.74
+collagen,Q304956,collagénase,none,0,0,1.8,2.77,1.0,6.0,35.0,44.7,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.64
+collagen,Q19000791,collagénome éruptif,none,0,0,0.0,0.0,1.0,6.0,43.0,41.3,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.76
+collagen,Q5145911,collagénase de clostridium histolyticum,none,0,0,0.0,0.69,3.0,3.0,44.4,47.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.87
+collagen,Q7300317,collagénose perforante réactionnelle,none,0,0,0.0,0.69,0.0,2.0,0.0,42.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.89
+collagen,Q22669857,collage,alias,0,1,1.8,0.0,1.0,5.0,40.3,46.1,1.0,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,36.37
+collagen,Q18558142,connectivité éosinophilique disséminée,none,0,0,0.0,0.0,1.0,5.0,43.0,43.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.57
+collagen,Q3281418,collagène type VI,none,0,0,3.6,1.61,1.0,4.0,28.6,42.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.12
+collagen,Q5424305,Collagène FACIT,none,0,0,0.0,1.1,1.0,4.0,38.9,42.7,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.48
+collagen,Q18113554,Collagenus,none,0,0,0.0,0.69,1.0,0.0,40.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.55
+collagen,Q14871594,Collagenus dasysternus,none,0,0,0.0,1.79,1.0,0.0,40.3,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.1
+collagen,Q55780406,collagénome cutané familial,none,0,0,0.0,0.69,1.0,4.0,43.0,44.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.83
+biosensors,Q74284867,Biosensors for Open and Closed-loop Glycemia Control in T1D Patients With Insulin Pump,none,0,0,5.4,0.0,1.0,0.0,35.8,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.59
+biosensors,Q669391,biosensor,label,1,0,1.8,3.43,0.0,2.0,0.0,44.2,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,44.98
+biosensors,Q591745,DNA microarray,none,0,0,1.8,3.53,0.0,2.0,0.0,38.9,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.62
+biosensors,Q130882910,Biosensor Research Center,none,0,0,0.0,0.0,1.0,0.0,38.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.18
+classification,Q5962346,classification scheme,none,0,0,5.9,3.22,1.0,5.0,14.3,37.1,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.4
+classification,Q20530786,Classification of Estonian administrative units and settlements,none,0,0,1.6,1.1,1.0,0.0,55.0,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.79
+classification,Q13582682,classification,label,1,0,1.2,3.04,1.0,9.0,8.2,48.5,0.5,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,54.37
+classification,Q1503443,secrecy,alias,0,1,2.4,3.18,1.0,2.0,54.8,20.4,0.25,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,41.69
+classification,Q1744559,classification in sports,none,0,0,1.6,1.39,1.0,2.0,14.7,51.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.14
+classification,Q11398,biological classification,none,0,0,1.2,4.78,1.0,4.0,44.2,40.1,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.32
+classification,Q830588,field guide,none,0,0,2.8,2.56,1.0,14.0,27.8,53.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.35
+classification,Q1744627,classification algorithm,none,0,0,2.8,2.4,0.0,11.0,0.0,50.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.51
+classification,Q519608,classification yard,none,0,0,1.2,3.4,0.0,11.0,0.0,36.2,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.01
+classification,Q5128413,Classification of the Functions of Government,none,0,0,1.2,1.1,2.0,3.0,45.9,37.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.63
+classification,Q192625,linguistic typology,none,0,0,0.8,4.01,1.0,3.0,10.6,24.7,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.71
+classification,Q5128386,classification,label,1,0,1.6,0.69,0.0,2.0,0.0,28.2,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,35.06
+classification,Q10872045,Classification and code of disciplines,none,0,0,1.2,0.69,3.0,0.0,44.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.11
+classification,Q770487,cruiser tank,none,0,0,0.8,3.26,1.0,2.0,18.4,26.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.17
+classification,Q16766476,decision tree learning,none,0,0,0.4,3.09,1.0,6.0,25.0,32.8,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.43
+classification,Q1163643,classification society,none,0,0,1.6,3.33,0.0,2.0,0.0,34.9,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.54
+classification,Q22814967,Classification of Mammals Above the Species Level,none,0,0,1.6,0.69,1.0,0.0,28.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.32
+classification,Q386963,soil classification,none,0,0,0.8,3.33,1.0,2.0,44.2,51.4,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.46
+classification,Q11790,Classification of Built Heritage in Portugal,none,0,0,1.6,1.61,0.0,2.0,0.0,24.1,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.09
+classification,Q7860960,type of restaurant,none,0,0,0.8,1.1,1.0,3.0,14.7,32.1,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.36
+classification,Q218682,identification key,none,0,0,2.4,2.89,0.0,5.0,0.0,37.7,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.25
+classification,Q1352932,Office of Film and Literature Classification,none,0,0,1.6,2.56,1.0,0.0,2.4,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.85
+classification,Q548492,classification of wine,none,0,0,1.6,2.3,2.0,2.0,42.4,51.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.68
+classification,Q478216,virus classification,none,0,0,2.0,3.47,0.0,3.0,0.0,34.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.17
+classification,Q2976560,classification of minerals,none,0,0,2.8,2.56,1.0,3.0,44.2,37.9,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.79
+classification,Q2578772,Classification of inhabited localities in Russia,none,0,0,2.0,2.94,1.0,2.0,31.4,25.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.35
+classification,Q541961,discontinuity,none,0,0,2.0,3.04,0.0,2.0,0.0,26.4,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.05
+classification,Q98966309,classification of human settlements,none,0,0,1.2,0.0,2.0,3.0,34.7,37.9,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.47
+classification,Q164667,Arabian,none,0,0,1.2,3.0,1.0,2.0,23.3,12.2,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.45
+classification,Q113435339,classification of societies,none,0,0,0.8,0.69,1.0,6.0,6.2,37.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.72
+classification,Q3679755,classification of roads in Italy,none,0,0,2.4,0.69,0.0,2.0,0.0,42.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.72
+classification,Q28933312,Classification der Batrachier,none,0,0,0.8,0.69,2.0,0.0,26.7,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.16
+classification,Q109532996,typology item,none,0,0,1.6,0.0,0.0,3.0,0.0,37.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.99
+classification,Q101068094,classification of neurons,none,0,0,1.2,0.0,0.0,2.0,0.0,33.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.89
+classification,Q468874,classification of birds,none,0,0,2.0,2.89,1.0,5.0,55.0,37.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.45
+classification,Q863985,Classification of European Inland Waterways,none,0,0,1.6,2.4,2.0,0.0,37.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.06
+classification,Q1520859,waterbody number,none,0,0,0.8,1.61,0.0,2.0,0.0,51.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.36
+classification,Q1564708,Classification of objects of the administrative-territorial system of Ukraine,none,0,0,1.6,2.71,1.0,0.0,24.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.29
+classification,Q636033,archive type,none,0,0,0.8,1.1,1.0,4.0,24.0,30.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.67
+classification,Q101068098,classification of cells,none,0,0,1.2,0.0,1.0,4.0,44.2,35.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.35
+classification,Q10708051,competition class,alias,0,1,2.0,0.69,0.0,2.0,0.0,39.6,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,31.61
+classification,Q4844781,Statistical Classification of Products by Activity in the European Economic Community,none,0,0,2.0,0.69,1.0,0.0,40.4,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.41
+classification,Q2748242,musical instrument classification,none,0,0,0.8,2.83,0.0,2.0,0.0,51.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.97
+classification,Q1340623,classification of finite simple groups,none,0,0,0.8,3.33,2.0,0.0,30.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.52
+classification,Q5128406,Classification of minerals – Silicates,none,0,0,1.2,0.69,1.0,0.0,12.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.69
+classification,Q5128405,Classification of minerals – Non silicates,none,0,0,1.2,0.69,0.0,2.0,0.0,48.4,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.35
+classification,Q233309,tumeur du cerveau,none,0,0,2.0,4.26,0.0,5.0,0.0,25.9,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.3
+classification,Q12893838,ordre,alias,0,1,0.4,3.0,0.0,5.0,0.0,39.1,0.2,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,35.35
+classification,Q4223026,classification Carnegie des institutions d'enseignement supérieur,none,0,0,0.8,1.79,1.0,0.0,52.4,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.17
+classification,Q48473,classification bibliographique,none,0,0,0.8,3.61,1.0,5.0,44.2,41.8,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.83
+classification,Q187588,classe sociale,none,0,0,0.4,4.45,0.0,3.0,0.0,28.1,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.39
+classification,Q1277447,regroupement hiérarchique,none,0,0,2.0,2.94,0.0,6.0,0.0,41.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.62
+classification,Q1233766,classification internationale type des professions,none,0,0,0.8,2.89,1.0,0.0,47.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.16
+classification,Q3045304,détection d'objet,none,0,0,2.0,3.0,0.0,1.0,0.0,21.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.83
+classification,Q25377588,classification des étoiles,none,0,0,0.8,3.83,0.0,2.0,0.0,49.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.66
+classification,Q18189,classification des niveaux scolaires,none,0,0,0.4,3.0,2.0,5.0,38.0,38.3,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.01
+classification,Q10693,tableau périodique des éléments,none,0,0,0.8,5.42,1.0,2.0,65.9,23.4,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.1
+classification,Q672593,Classification des locomotives,none,0,0,1.2,3.26,1.0,3.0,55.0,36.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.99
+classification,Q1390351,Classification internationale de type de l'éducation,none,0,0,0.8,3.33,2.0,0.0,37.8,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.59
+classification,Q908254,Classification cinématographique de Hong Kong,none,0,0,2.0,2.2,1.0,0.0,45.2,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.71
+classification,Q192093,"Classification anatomique, thérapeutique et chimique",none,0,0,5.1,3.99,1.0,0.0,24.1,0.0,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.84
+classification,Q621080,Classification de la Bibliothèque du Congrès,none,0,0,0.8,3.71,2.0,0.0,40.7,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.01
+classification,Q1744628,classification automatique,none,0,0,0.4,3.53,1.0,2.0,44.2,19.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.83
+classification,Q2976575,Classification double,none,0,0,2.4,1.79,0.0,4.0,0.0,37.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.43
+classification,Q48460,classification décimale de Dewey,none,0,0,0.4,4.04,4.0,0.0,26.5,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.96
+classification,Q1998962,type de bière,none,0,0,0.4,2.71,1.0,12.0,14.7,42.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.81
+classification,Q2976606,classification phylogénétique,none,0,0,0.4,2.83,2.0,3.0,26.6,40.4,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.34
+classification,Q839752,classification de Sibley-Ahlquist,none,0,0,0.4,3.3,1.0,0.0,40.0,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.18
+classification,Q17005494,classification binaire,none,0,0,4.3,2.71,0.0,4.0,0.0,32.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.21
+classification,Q1752284,classification des cancers,none,0,0,3.1,2.83,1.0,0.0,30.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.31
+classification,Q836985,classification des automobiles,none,0,0,0.4,3.61,3.0,2.0,28.6,25.1,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.36
+classification,Q112111674,Classification internationale type des industries rév.4,none,0,0,0.8,0.0,1.0,0.0,21.0,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.81
+classification,Q302088,classification et catégorisation de documents,none,0,0,0.4,3.09,0.0,2.0,0.0,26.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.93
+classification,Q112135548,classification centrale des produits version 2.1,none,0,0,0.4,0.0,1.0,0.0,28.2,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.05
+classification,Q243350,classification décimale universelle,none,0,0,0.4,3.89,4.0,0.0,31.4,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.13
+classification,Q967960,Classification AMS,none,0,0,0.8,2.83,1.0,0.0,52.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.69
+classification,Q1666934,Classification internationale type des industries,none,0,0,0.8,3.04,1.0,0.0,21.0,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.48
+classification,Q3663344,classification en sport paralympique,none,0,0,1.2,2.3,0.0,2.0,0.0,39.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.09
+classification,Q6934605,Classification en classes multiples,none,0,0,2.0,2.3,1.0,2.0,44.2,26.3,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.17
+classification,Q124095,classification de Köppen,none,0,0,0.8,4.44,1.0,0.0,60.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.07
+classification,Q3518464,terminologies et classifications en médecine,none,0,0,0.4,1.95,1.0,2.0,44.2,51.4,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.5
+classification,Q50018,Classification statistique internationale des maladies et des problèmes de santé connexes,none,0,0,1.2,4.29,3.0,2.0,35.5,31.6,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.63
+classification,Q5100524,classification systématique des bibliothèques de Chine populaire,none,0,0,1.2,1.61,3.0,0.0,27.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.9
+classification,Q36642,nom binominal,none,0,0,0.4,4.77,2.0,3.0,53.6,33.3,0.167,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.56
+classification,Q156982,Classification APG III,none,0,0,0.4,3.61,1.0,0.0,43.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.01
+classification,Q3442619,classification des Rosidées,none,0,0,0.4,3.14,1.0,0.0,22.4,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.07
+classification,Q55695727,CIM-11,none,0,0,0.4,3.26,3.0,0.0,36.1,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.86
+classification,Q2976602,classification type des industries,none,0,0,0.8,2.3,1.0,4.0,44.2,31.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.84
+classification,Q2976556,classification des hôtels de tourisme,none,0,0,2.4,3.26,0.0,9.0,0.0,50.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.27
+definition,Q101072,definition,label,1,0,2.0,4.53,0.0,3.0,0.0,22.2,0.286,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,50.12
+definition,Q106205899,ontology concept definition,alias,0,1,2.0,0.0,0.0,2.0,0.0,34.5,0.5,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,27.42
+definition,Q2308807,memory management,alias,0,1,1.2,3.4,0.0,6.0,0.0,34.2,0.4,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,41.86
+definition,Q192439,domain of a function,none,0,0,3.1,4.01,2.0,9.0,17.9,44.3,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.86
+definition,Q9203276,defining,alias,0,1,1.6,1.61,0.0,3.0,0.0,23.1,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,34.84
+definition,Q2037833,piecewise function,none,0,0,2.8,3.3,0.0,5.0,0.0,43.6,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.5
+definition,Q5251600,Definition,label,1,0,1.2,0.69,1.0,0.0,13.0,0.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,32.6
+definition,Q47470529,RFC 2474: Definition of the Differentiated Services Field (DS Field) in the IPv4 and IPv6 Headers,none,0,0,2.8,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.91
+definition,Q488677,genus–differentia definition,none,0,0,3.1,2.56,1.0,2.0,69.4,29.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.99
+definition,Q14946150,RFC 6716: Definition of the Opus Audio Codec,none,0,0,2.0,0.69,1.0,0.0,30.6,0.0,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.01
+definition,Q2096586,Definition of Free Cultural Works,none,0,0,1.2,2.89,1.0,0.0,34.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.5
+definition,Q114980101,defining quality,none,0,0,4.7,0.0,1.0,2.0,11.9,26.8,0.095,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.29
+definition,Q5251607,definition of music,none,0,0,2.8,2.48,1.0,0.0,34.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.69
+definition,Q1749083,Definitions,none,0,0,2.0,2.48,1.0,0.0,33.0,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.23
+definition,Q47472756,RFC 2798: Definition of the inetOrgPerson LDAP Object Class,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47483279,RFC 1657: Definitions of Managed Objects for the Fourth Version of the Border Gateway Protocol (BGP-4) using SMIv2,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47462186,RFC 1269: Definitions of Managed Objects for the Border Gateway Protocol: Version 3,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47469534,RFC 4273: Definitions of Managed Objects for BGP-4,none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q5251603,Definition of Sound,none,0,0,0.8,1.1,1.0,0.0,11.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.91
+definition,Q2142721,definition of religion,none,0,0,2.0,1.95,0.0,2.0,0.0,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.81
+definition,Q1295751,definitions of fascism,none,0,0,1.2,2.71,0.0,2.0,0.0,17.3,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.11
+definition,Q47466542,RFC 2787: Definitions of Managed Objects for the Virtual Router Redundancy Protocol,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47484521,RFC 3636: Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs),none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q7888408,United Nations General Assembly Resolution 3314,none,0,0,1.2,2.4,1.0,0.0,15.2,0.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.57
+definition,Q16743,definition of planet,none,0,0,1.6,3.3,1.0,2.0,13.9,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.95
+definition,Q47468474,RFC 1407: Definitions of Managed Objects for the DS3/E3 Interface Type,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47462214,RFC 1623: Definitions of Managed Objects for the Ethernet-like Interface Types,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47466532,RFC 2665: Definitions of Managed Objects for the Ethernet-like Interface Types,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47467871,RFC 1398: Definitions of Managed Objects for the Ethernet-Like Interface Types,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47481519,RFC 6527: Definitions of Managed Objects for Virtual Router Redundancy Protocol Version 3 (VRRPv3),none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47259383,RFC 2954: Definitions of Managed Objects for Frame Relay Service,none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47455841,RFC 1232: Definitions of managed objects for the DS1 Interface type,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47476709,"RFC 3895: Definitions of Managed Objects for the DS1, E1, DS2, and E2 Interface Types",none,0,0,2.8,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.91
+definition,Q47458407,RFC 1286: Definitions of Managed Objects for Bridges,none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47484262,RFC 1643: Definitions of Managed Objects for the Ethernet-like Interface Types,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47468050,RFC 1660: Definitions of Managed Objects for Parallel-printer-like Hardware Devices using SMIv2,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47304910,RFC 1493: Definitions of Managed Objects for Bridges,none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47483247,RFC 1604: Definitions of Managed Objects for Frame Relay Service,none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47479383,RFC 2496: Definitions of Managed Object for the DS3/E3 Interface Type,none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47459128,RFC 4544: Definitions of Managed Objects for Internet Small Computer System Interface (iSCSI),none,0,0,2.0,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.97
+definition,Q47483884,RFC 2668: Definitions of Managed Objects for IEEE 802.3 Medium Attachment Units (MAUs),none,0,0,1.6,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+definition,Q47481175,RFC 2358: Definitions of Managed Objects for the Ethernet-like Interface Types,none,0,0,2.4,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.44
+definition,Q47392049,RFC 1406: Definitions of Managed Objects for the DS1 and E1 Interface Types,none,0,0,2.8,0.0,1.0,0.0,30.6,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.91
+definition,Q1580166,article de dictionnaire,none,0,0,0.0,1.79,0.0,8.0,0.0,49.4,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.29
+definition,Q171141,gastronomie,none,0,0,0.0,4.23,2.0,5.0,21.1,45.4,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.29
+definition,Q114425676,définition mathématique,none,0,0,0.0,0.69,2.0,2.0,20.7,34.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.63
+definition,Q224989,uchronie,none,0,0,0.0,3.74,1.0,3.0,10.4,35.6,0.083,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.11
+definition,Q12538706,définition d'écran,none,0,0,0.0,3.97,2.0,7.0,31.4,39.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.42
+definition,Q212327,Document Type Definition,none,0,0,0.4,3.5,2.0,0.0,19.1,0.0,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.87
+definition,Q1140158,étude d'échecs,none,0,0,0.4,3.26,1.0,5.0,42.0,37.2,0.105,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.93
+definition,Q1026899,définition par intension,none,0,0,0.0,1.61,1.0,2.0,69.4,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.77
+definition,Q173462,crime contre l'humanité,none,0,0,0.4,4.34,0.0,4.0,0.0,30.9,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.04
+definition,Q5421961,définition par extension,none,0,0,0.0,1.39,1.0,2.0,69.4,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.66
+definition,Q2361306,définition des planètes de l'UAI,none,0,0,3.5,3.18,1.0,0.0,34.1,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.98
+definition,Q332629,Définition d'opérateur,none,0,0,0.4,3.04,0.0,2.0,0.0,19.9,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.35
+definition,Q2466486,définition par récurrence,none,0,0,0.0,2.83,1.0,2.0,69.4,34.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.39
+definition,Q3043208,définition ostensive,none,0,0,1.6,2.4,1.0,2.0,69.4,34.5,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.81
+definition,Q2466038,Définition du logiciel libre,none,0,0,0.0,2.89,1.0,0.0,25.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.0
+definition,Q11356003,définition légale,none,0,0,0.0,0.69,1.0,2.0,69.4,34.5,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.32
+definition,Q3365007,parentalité,none,0,0,2.4,1.79,2.0,2.0,36.4,21.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.27
+definition,Q115287558,Définition du vol spatial humain par la Fédération aéronautique internationale,none,0,0,0.8,1.61,1.0,0.0,34.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.89
+definition,Q15709883,définition utilisée par des organismes statistiques,none,0,0,0.4,0.0,0.0,2.0,0.0,34.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.95
+definition,Q3043192,Définition du terrorisme,none,0,0,0.0,2.4,1.0,0.0,34.1,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.84
+definition,Q5533460,définitions du génocide,none,0,0,0.0,1.61,1.0,0.0,34.1,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.95
+definition,Q744823,Définitions du Tibet,none,0,0,0.8,1.39,1.0,0.0,35.6,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.79
+glucose,Q37525,glucose,label,1,0,4.7,4.73,2.0,3.0,46.3,38.1,0.286,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,64.29
+glucose,Q191835,gluconeogenesis,none,0,0,7.0,3.81,1.0,4.0,44.3,46.0,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.69
+glucose,Q95987978,glucose monitoring,none,0,0,2.3,0.0,0.0,4.0,0.0,43.5,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.54
+glucose,Q2661464,glucose intolerance,none,0,0,7.0,2.48,1.0,6.0,44.6,38.3,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.31
+glucose,Q848343,glucose-6-phosphate dehydrogenase deficiency,none,0,0,4.7,3.53,1.0,7.0,44.6,34.1,0.118,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.42
+glucose,Q21036645,aldehydo-D-glucose,alias,0,1,0.0,0.0,1.0,3.0,42.0,44.2,0.2,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,22.62
+glucose,Q14758903,glucose metabolic process,none,0,0,2.3,0.0,1.0,2.0,44.3,46.5,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.81
+glucose,Q14758934,glucose homeostasis,none,0,0,9.3,0.0,1.0,2.0,44.3,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.94
+glucose,Q41797974,Glucose permease domain IIB,none,0,0,0.0,0.0,2.0,4.0,46.6,38.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.27
+glucose,Q24782903,glucose-6-phosphate dehydrogenase,none,0,0,0.0,0.0,2.0,9.0,46.1,38.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.77
+glucose,Q1420402,incretins,none,0,0,2.3,3.4,0.0,6.0,0.0,38.6,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.4
+glucose,Q1485893,encephalopathy due to GLUT1 deficiency,none,0,0,2.3,2.4,3.0,11.0,47.3,36.9,0.08,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,14.0
+glucose,Q14863085,glucose 6-phosphate metabolic process,none,0,0,11.6,0.0,1.0,5.0,44.3,42.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,20.03
+glucose,Q83162170,"Glucose-methanol-choline oxidoreductase, C-terminal domain, protein family",none,0,0,0.0,0.0,2.0,2.0,48.8,36.4,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.58
+glucose,Q21972891,glucose transmembrane transport,none,0,0,9.3,0.0,1.0,2.0,44.3,47.1,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.98
+glucose,Q24781463,"Glucose-methanol-choline oxidoreductase, C-terminal",none,0,0,0.0,0.0,1.0,0.0,41.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.72
+glucose,Q21108800,insulin secretion involved in cellular response to glucose stimulus,none,0,0,11.6,0.0,1.0,5.0,44.3,43.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,19.75
+glucose,Q83141499,"Glucose-methanol-choline oxidoreductase, N-terminal domain, protein family",none,0,0,0.0,0.69,2.0,4.0,48.8,41.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.66
+glucose,Q24773884,"Glucose-methanol-choline oxidoreductase, N-terminal",none,0,0,0.0,0.0,1.0,0.0,41.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.72
+glucose,Q14863056,glucokinase activity,none,0,0,4.7,0.0,1.0,3.0,43.6,42.7,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.96
+glucose,Q14887301,glucose transmembrane transporter activity,none,0,0,9.3,0.0,1.0,2.0,43.6,40.8,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.43
+glucose,Q14865752,glucose-6-phosphate isomerase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,45.1,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.04
+glucose,Q1501412,glucose tolerance test,none,0,0,2.3,3.4,1.0,5.0,29.9,41.7,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.12
+glucose,Q21101956,UTP:glucose-1-phosphate uridylyltransferase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,39.0,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.73
+glucose,Q14877625,glucose-6-phosphate dehydrogenase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,42.5,0.167,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.86
+glucose,Q83140526,Glucose/Sorbosone dehydrogenase family,none,0,0,0.0,0.0,1.0,0.0,42.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.23
+glucose,Q24773170,Phosphoglucose isomerase (PGI),none,0,0,0.0,0.0,2.0,7.0,46.1,39.4,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.18
+glucose,Q14863057,glucose binding,none,0,0,7.0,0.0,1.0,3.0,43.6,41.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,13.74
+glucose,Q14907693,glucose catabolic process,none,0,0,9.3,0.0,1.0,4.0,44.3,45.2,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,16.17
+glucose,Q24783096,"Glucose-6-phosphate dehydrogenase, C-terminal",none,0,0,0.0,0.0,1.0,0.0,41.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.72
+glucose,Q24772013,Glucose/Sorbosone dehydrogenase,none,0,0,0.0,0.0,1.0,0.0,41.9,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.72
+glucose,Q83163307,"Glucose-6-phosphate dehydrogenase, C-terminal domain, protein family",none,0,0,0.0,0.0,2.0,5.0,48.8,40.9,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.42
+glucose,Q83138081,"Glucose-6-phosphate dehydrogenase, NAD-binding domain, protein family",none,0,0,0.0,0.0,2.0,4.0,48.8,39.2,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.8
+glucose,Q24784656,"Glucose-1-phosphate thymidylyltransferase, short form",none,0,0,0.0,0.0,2.0,8.0,46.1,36.2,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.65
+glucose,Q14887304,glucose import,none,0,0,9.3,0.0,1.0,2.0,44.3,50.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,15.51
+glucose,Q24719895,Glucose-methanol-choline oxidoreductase,none,0,0,0.0,0.0,2.0,9.0,46.1,37.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.26
+glucose,Q24745428,"Glucose-6-phosphate dehydrogenase, NAD-binding domain",none,0,0,0.0,0.0,1.0,2.0,41.9,43.1,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.26
+glucose,Q21118383,phosphoglucomutase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,42.1,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.35
+glucose,Q24782307,"Glucose-6-phosphate dehydrogenase, active site",none,0,0,0.0,0.0,1.0,0.0,41.3,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.71
+glucose,Q21199229,glucose-1-phosphate adenylyltransferase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,37.0,0.125,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.69
+glucose,Q21756492,glucose-1-phosphate thymidylyltransferase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,38.3,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.87
+glucose,Q95354608,"Glucose-6-phosphate dehydrogenase, active site, protein family",none,0,0,0.0,0.0,1.0,0.0,42.8,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.23
+glucose,Q421793,glucose-6-phosphate dehydrogenase,none,0,0,2.3,3.37,1.0,0.0,40.5,0.0,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.28
+glucose,Q24723404,"Glucose-1-phosphate adenylyltransferase GlgC, bacterial",none,0,0,0.0,0.0,2.0,3.0,46.1,41.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.69
+glucose,Q54456755,"Glucose Oxidase, domain 2",none,0,0,0.0,0.0,1.0,0.0,39.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.7
+glucose,Q18024934,G6PC1,none,0,0,4.7,1.61,1.0,2.0,32.6,40.3,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,9.7
+glucose,Q14863081,hexokinase activity,none,0,0,4.7,0.0,1.0,4.0,43.6,39.5,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.28
+glucose,Q61497978,Glucose oxidase,none,0,0,2.3,0.0,1.0,5.0,40.5,41.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.32
+glucose,Q18556224,glucose metabolism disease,none,0,0,0.0,0.69,1.0,5.0,44.6,40.2,0.286,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.77
+glucose,Q418097,glucose-6-phosphate isomerase,none,0,0,2.3,3.09,1.0,0.0,40.5,0.0,0.095,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.83
+glucose,Q24724068,Glucose-1-phosphate cytidylyltransférase,none,0,0,0.0,1.61,2.0,7.0,46.1,37.8,0.154,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.83
+glucose,Q14770547,sirop de glucose,none,0,0,0.0,3.09,2.0,6.0,46.9,42.1,0.4,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.75
+glucose,Q419321,Glucose oxydase,none,0,0,0.0,2.89,1.0,7.0,37.0,44.3,0.2,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.77
+glucose,Q24785320,Glucose-6-phosphatase,none,0,0,0.0,3.0,2.0,5.0,46.1,37.5,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,7.86
+glucose,Q74566546,Glucose-6-phosphate,none,0,0,2.3,3.5,1.0,5.0,43.3,35.2,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,12.05
+glucose,Q420277,Glucose transporter,none,0,0,0.0,3.0,1.0,5.0,30.4,41.0,0.333,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.93
+glucose,Q4122197,"glucose-1,6-bisphosphate",none,0,0,0.0,2.4,1.0,2.0,42.0,44.8,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.98
+glucose,Q32778969,Glucose-6-phosphate,none,0,0,0.0,0.0,1.0,2.0,42.0,41.2,0.105,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,3.06
+glucose,Q408508,UDP-glucose pyrophosphorylase,none,0,0,0.0,2.08,1.0,4.0,37.0,41.9,0.133,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.34
+glucose,Q275157,glycémie,none,0,0,0.0,4.09,1.0,9.0,21.8,33.4,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,10.23
+glucose,Q1122680,pyranose-oxidase,none,0,0,0.0,2.2,1.0,3.0,37.0,41.3,0.222,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,5.06
+glucose,Q2877028,bouillon glucosé tamponné,none,0,0,0.0,0.69,1.0,0.0,37.3,0.0,0.25,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.27
+glucose,Q14629318,Glucose-6-phosphate translocase,none,0,0,0.0,1.39,1.0,2.0,30.4,38.6,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,6.31
+glucose,Q419977,peptide insulinotrope dépendant du glucose,none,0,0,0.0,0.69,1.0,2.0,32.6,40.3,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.5
+glucose,Q618739,sirop de maïs,none,0,0,0.0,3.61,0.0,6.0,0.0,42.1,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.74
+glucose oxidase,Q61497978,Glucose oxidase,label,1,0,2.3,0.0,1.0,5.0,40.5,41.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.19
+glucose oxidase,Q419321,glucose oxidase,label,1,0,2.3,2.89,1.0,7.0,37.0,44.3,0.2,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,53.54
+glucose oxidase,Q54456755,"Glucose Oxidase, domain 2",none,0,0,0.0,0.0,1.0,0.0,39.5,0.0,0.5,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,2.7
+glucose oxidase,Q29814692,Glucose dehydrogenase Dmel_CG1152,alias,0,1,2.3,0.0,1.0,0.0,40.5,0.0,0.2,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,25.91
+glucose oxidase,Q61532194,Glucose oxidase,label,1,0,2.3,0.0,1.0,5.0,40.5,41.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.19
+glucose oxidase,Q61568683,Glucose oxidase,label,1,0,2.3,0.0,1.0,5.0,40.5,41.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.19
+glucose oxidase,Q61522817,Glucose oxidase,label,1,0,2.3,0.0,1.0,5.0,40.5,41.0,1.0,3.0,4.0,2.0,1.5,2.2,2.0,4.0,20.0,0.0,42.19
+glucose oxidase,Q62727825,TRIREDRAFT_22915-t26_1,alias,0,1,0.0,0.0,1.0,5.0,40.5,41.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,28.28
+glucose oxidase,Q62863961,CPSG_04633-t26_1,alias,0,1,2.3,0.0,1.0,5.0,40.5,41.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,35.26
+glucose oxidase,Q62789772,CIMG_10211-t26_1,alias,0,1,2.3,0.0,1.0,5.0,40.5,41.0,0.667,3.0,4.0,1.6,1.0,1.8,1.5,8.0,0.0,15.0,35.26
+glucose oxidase,Q22318289,glucose oxidase activity,none,0,0,4.7,0.0,1.0,2.0,43.6,44.6,0.182,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,8.92
+glucose oxidase,Q98207203,glucose oxidase gox,none,0,0,7.0,0.0,1.0,0.0,40.5,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,11.58
+glucose oxidase,Q65362265,Glucose Oxidase as Treatment Against Common Cold,none,0,0,0.0,0.0,1.0,0.0,38.9,0.0,1.0,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.19
+glucose oxidase,Q1532330,dosage du glucose à la glucose oxydase,none,0,0,0.0,0.69,1.0,1.0,35.9,0.0,0.667,1.2,0.5,0.8,0.6,1.0,0.8,3.0,0.0,0.0,4.11
