@@ -266,8 +266,8 @@ def mode_aware_total_score(keyword: str, context: str, ent_like: Dict) -> float:
     alias_inverse = round(alias_inverse, 3)
 
     # bonus
-    bonus_label = getattr(config, "EXACT_BONUS_LABEL", 4.41916603709261) * exact_label
-    bonus_alias = getattr(config, "EXACT_BONUS_ALIAS", 3.04158247354928) * exact_alias
+    bonus_label = getattr(config, "EXACT_BONUS_LABEL", 20.0) * exact_label
+    bonus_alias = getattr(config, "EXACT_BONUS_ALIAS", 15.0) * exact_alias
 
     total = (
         bonus_label + bonus_alias

@@ -15,12 +15,13 @@ from .wikidata_api import (
 def _is_semantically_valid(entity: Dict) -> bool:
     if not entity:
         return False
-    claims = entity.get("claims", {})
-    has_p31 = bool(claims.get(config.P_INSTANCE_OF))
-    has_p279 = bool(claims.get(config.P_SUBCLASS_OF))
+    #claims = entity.get("claims", {})
+    #has_p31 = bool(claims.get(config.P_INSTANCE_OF))
+    #has_p279 = bool(claims.get(config.P_SUBCLASS_OF))
     has_desc = bool(entity.get("descriptions"))
-    has_alias = bool(entity.get("aliases"))
-    return (has_p31 or has_p279) and (has_desc or has_alias)
+    #has_alias = bool(entity.get("aliases"))
+    #return (has_p31 or has_p279) and (has_desc or has_alias)
+    return has_desc
 
 
 def pick_exact_label_only(keyword: str) -> Optional[Dict]:
@@ -172,6 +173,15 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
     for c in raw:
         ent = ents.get(c["id"], {})
 
+        # REEMPLAZA la lista de aliases del search-hit por la de wbgetentities
+        alias_dict = (ent.get("aliases") or {})
+        c["aliases"] = [a["value"] for lst in alias_dict.values() for a in lst]
+
+        # (opcional, por consistencia de idioma/fallback)
+        if not c.get("description"):
+            descs = ent.get("descriptions") or {}
+            c["description"] = " ".join(v["value"] for v in descs.values())
+
         # (opcional) filtro mínimo semántico
         if not DISABLE_SEM_FILTER and not _is_semantically_valid(ent):
             continue
@@ -244,6 +254,16 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
     if not candidates:
         return None
 
+
     # 4) ordenar por el score por-modo y devolver top
+    # candidates.sort(key=lambda x: x["match_score"], reverse=True)
+    # return candidates[0]
+
+    # 4) ordenar por el score por-modo y devolver top si supera el umbral
     candidates.sort(key=lambda x: x["match_score"], reverse=True)
-    return candidates[0]
+    top = candidates[0]
+
+    MIN_TOTAL_SCORE = getattr(config, "MIN_TOTAL_SCORE", 8.0)
+    if top["match_score"] < MIN_TOTAL_SCORE:
+        return None  # descarta resultados débiles
+    return top

@@ -2,7 +2,7 @@ from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
 INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec.json")
-OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_v4.csv")
+OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec.csv")
 
 # =============== NEO4J CONFIGURATION =================
 NEO4J_URI = "bolt://127.0.0.1:7687"
@@ -16,7 +16,7 @@ HEADERS = {"User-Agent": "Keyword2Wikidata/1.2 (contact: your-email@example.com)
 # =============== LOGIC CONSTANTS =================
 LANGS = ["en", "fr"]
 MIN_LABEL_SIM = 70
-MIN_TOTAL_SCORE = -9999
+MIN_TOTAL_SCORE = 0
 MAX_LEVELS_LINEAGE = 5
 SEARCH_LIMIT = 50
 
@@ -78,17 +78,6 @@ DISALLOWED_P31 = {
     "Q10904438",#Twelve Vassals
     "Q836688", #ancient Chinese state
     "Q1093580", #Chinese family name
-    "Q191067", #article
-    "Q281643", #musical trio
-    "Q641066", #girl band
-    "Q1760610", #comic book
-    "Q867242", #comics anthology
-    "Q3305213", #painting
-    "Q100532807", #Irish Statutory Instrument
-    "Q212971", #Request for Comments
-    "Q202866", #animated film
-    "Q202444", #Vietnamese middle name
-
 
 }
 
@@ -107,7 +96,7 @@ DEBUG_SCORES_PATH = Path(
     r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores.csv"
 )
 DEBUG_SCORES_MODE_PATH = Path(
-    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec_v4.csv"
+    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec.csv"
 )
 
 # --- Context similarity filters ---
@@ -119,15 +108,15 @@ MIN_TOKEN_LEN = 4
 
 # ================== Mode-aware scoring ==================
 # Bono por exactitud
-EXACT_BONUS_LABEL = 3.98673272460203   # término por label exacto
-EXACT_BONUS_ALIAS = 2.94009424943515   # término por alias exacto
+EXACT_BONUS_LABEL = 20.0   # término por label exacto
+EXACT_BONUS_ALIAS = 15.0   # término por alias exacto
 
 # Pesos por modo para: contexto (ctx), sitelinks (sl), P31 (p31), P279 (p279),
 # contexto vs P31 (ctx_p31) y contexto vs P279 (ctx_p279).
 WEIGHTS_MODE = {
-    "label": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084 },
-    "alias": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, }, #"sl": 0.6, "alias_inv": 4.0,
-    "none":  { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, },
+    "label": { "ctx": 0.0678374418585083, "sl": 0.574929407808322, "p31": 0.203607269545165, "p279": 0.00748200105313216, "ctx_p31": -0.0150771304270335, "ctx_p279": 0.0459986688786062, "alias_inv": 0.0948131412107962 },
+    "alias": { "ctx": 0.0678374418585083, "sl": 0.574929407808322, "p31": 0.203607269545165, "p279": 0.00748200105313216, "ctx_p31": -0.0150771304270335, "ctx_p279": 0.0459986688786062, "alias_inv": 0.0948131412107962, }, #"sl": 0.6, "alias_inv": 4.0,
+    "none":  { "ctx": 0.0678374418585083, "sl": 0.574929407808322, "p31": 0.203607269545165, "p279": 0.00748200105313216, "ctx_p31": -0.0150771304270335, "ctx_p279": 0.0459986688786062, "alias_inv": 0.0948131412107962, },
 }
 
 # Filtro semántico suave del matcher (si True, se evalúa TODO; si False, descarta stubs)

@@ -2,7 +2,7 @@ from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
 INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec.json")
-OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_v4.csv")
+OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_v3.csv")
 
 # =============== NEO4J CONFIGURATION =================
 NEO4J_URI = "bolt://127.0.0.1:7687"
@@ -83,12 +83,6 @@ DISALLOWED_P31 = {
     "Q641066", #girl band
     "Q1760610", #comic book
     "Q867242", #comics anthology
-    "Q3305213", #painting
-    "Q100532807", #Irish Statutory Instrument
-    "Q212971", #Request for Comments
-    "Q202866", #animated film
-    "Q202444", #Vietnamese middle name
-
 
 }
 
@@ -107,7 +101,7 @@ DEBUG_SCORES_PATH = Path(
     r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores.csv"
 )
 DEBUG_SCORES_MODE_PATH = Path(
-    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec_v4.csv"
+    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec_v3.csv"
 )
 
 # --- Context similarity filters ---
@@ -119,15 +113,15 @@ MIN_TOKEN_LEN = 4
 
 # ================== Mode-aware scoring ==================
 # Bono por exactitud
-EXACT_BONUS_LABEL = 3.98673272460203   # término por label exacto
-EXACT_BONUS_ALIAS = 2.94009424943515   # término por alias exacto
+EXACT_BONUS_LABEL = 3.87998928695932   # término por label exacto
+EXACT_BONUS_ALIAS = 3.01028382901128   # término por alias exacto
 
 # Pesos por modo para: contexto (ctx), sitelinks (sl), P31 (p31), P279 (p279),
 # contexto vs P31 (ctx_p31) y contexto vs P279 (ctx_p279).
 WEIGHTS_MODE = {
-    "label": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084 },
-    "alias": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, }, #"sl": 0.6, "alias_inv": 4.0,
-    "none":  { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, },
+    "label": { "ctx": 0.0789858038196602, "sl": 0.494056423800518, "p31": 0.313224552712598, "p279": -0.168361215067386, "ctx_p31": -0.0201707582107981, "ctx_p279": 0.0607021671489462, "alias_inv": 0.52853669926965 },
+    "alias": { "ctx": 0.0789858038196602, "sl": 0.494056423800518, "p31": 0.313224552712598, "p279": -0.168361215067386, "ctx_p31": -0.0201707582107981, "ctx_p279": 0.0607021671489462, "alias_inv": 0.52853669926965, }, #"sl": 0.6, "alias_inv": 4.0,
+    "none":  { "ctx": 0.0789858038196602, "sl": 0.494056423800518, "p31": 0.313224552712598, "p279": -0.168361215067386, "ctx_p31": -0.0201707582107981, "ctx_p279": 0.0607021671489462, "alias_inv": 0.52853669926965, },
 }
 
 # Filtro semántico suave del matcher (si True, se evalúa TODO; si False, descarta stubs)
@@ -139,7 +133,7 @@ ENABLE_PREFERRED_P31_BONUS = True    # suma bonus si P31 ∈ PREFERRED_P31
 TYPE_BONUS = 0.0                    # tamaño del bonus por tipo preferido
 
 # (Opcional) filtra stubs sin P31/P279/desc/alias:
-PURE_SCORE_DISABLE_SEMANTIC_FILTER = False
+PURE_SCORE_DISABLE_SEMANTIC_FILTER = True
 
 # =============== PERFORMANCE / P279 EXPANSION =================
 P279_DEPTH          = 2      # niveles hacia arriba (subclass-of)
