@@ -319,7 +319,12 @@ if __name__ == "__main__":
     # Just import them or read from the JSON you saved with savetojson(...)
     # Example using the JSON you showed in the message:
     import json
-    data_path= os.path.join(os.path.dirname(__file__), '..', 'api', 'data','upec_chemical_20_n.json')
+    data_path= os.path.join(os.path.dirname(__file__), '..', 'api', 'data','upec_civil_20_n.json')
+    #upec_chemical_20_n.json
+    #upec_computer_20_n.json
+    #upec_political_20_n.json
+    #upec_marketing_20_n.json
+    #upec_civil_20_n.json
     with open(data_path, "r", encoding="utf-8") as f:
         sample_list = json.load(f)
     df_sample = pd.DataFrame(sample_list)

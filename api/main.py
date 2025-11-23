@@ -5,9 +5,9 @@ from pathlib import Path
 from api.apimodule import NEED_N, choose_url, consolidate_domains, consolidate_keywords, \
     fallback_text_match_for_discipline, fetch_page, hal_record_url, map_codes_to_discipline, savetojson
 
-NEED_N = 20
-FIELD ="Chemical Engineering"
-FILE ="upec_chemical_20_n.json"
+NEED_N = 40
+FIELD ="Civil Engineering" #"Chemical Engineering", "Computer Science","Political Science","Marketing","Civil Engineering"
+FILE ="upec_civil_20_n.json"
 
 records, cursor = [], "*"
 
@@ -18,10 +18,10 @@ if __name__ == '__main__':
     while len(records) < NEED_N:
         data = fetch_page(cursor)
         docs = data.get("response", {}).get("docs", [])
-        if not docs: #si nohay documentos no hago nada
+        if not docs: 
             break
 
-        for d in docs: # cargo documentos del api
+        for d in docs: 
             # title/abstract/halId sometimes come as single-item lists
             for k in ["title_s", "abstract_s", "halId_s"]:
                 v = d.get(k)
