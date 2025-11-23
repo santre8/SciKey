@@ -1,0 +1,1819 @@
+[
+  {
+    "docid":"1006198",
+    "halId_s":"hal-01006198",
+    "title_s":"Harmonic mechanical excitations of steady convective instabilities: a means to get more uniform heat transfers in mixed convection flows?",
+    "abstract_s":"In laminar mixed convection flows, steady thermoconvective patterns generate non uniform heat and\/or mass transfers at walls that can be detrimental in some industrial processes. For instance the longitudinal thermoconvective patterns of Poiseuille-Rayleigh-Bénard (PRB) flows generate non uniform thin films or coatings when they are present in cold wall horizontal Chemical Vapor Deposition (CVD) reactors. The aim of this paper is to show that, when the basic steady flow is convectively unstable against an unsteady flow regime, introducing small harmonic mechanical excitations in the basic flow may enable to obtain more uniform time averaged heat transfers. More specifically, three-dimensional direct numerical simulations are used to characterize the temperature field and wall heat transfer associated with unsteady wavy convective instabilities of PRB flows that result from harmonic excitations of the longitudinal thermoconvective rolls at channel inlet. A design of experiments is used to build cubic response surfaces of the different quantities analyzed (growth length of the wavy rolls, magnitude of their spanwise oscillations, wall Nusselt number ...) on a wide range of the flow parameters. Air PRB flows (Pr=0.71) in channels of aspect ratios equal to Width\/Height=10 and 150 < =Length\/Height < =300, for Reynolds numbers 100 < =Re < =300 and Rayleigh numbers 5000 < =Ra < =16000 are considered. Comparisons with experiments are presented and a good agreement is obtained. The optimal conditions to have uniform heat transfers on the horizontal walls of PRB flows correspond to the minimal growth length of the wavy rolls until saturation and the maximum magnitude of their spanwise oscillations. They are approximately obtained for moderate Reynolds number (Re≈150), high Rayleigh numbers (Ra≈15000), low excitation frequency and rather high excitation magnitude. A discussion of these results for the applications to CVD in horizontal rectangular reactors at atmospheric pressure is finally proposed.",
+    "domain_codes":"phys.meca.mefl; spi.meca.mefl",
+    "discipline":"Chemical Engineering",
+    "url_primary":"http:\/\/hal-upec-upem.archives-ouvertes.fr\/docs\/01\/00\/61\/98\/PDF\/Nicolas_Mergui_IJHMT2014_HAL.pdf",
+    "authFirstName_s":[
+      "Xavier",
+      "S."
+    ],
+    "authLastName_s":[
+      "Nicolas",
+      "Mergui"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Xavier Nicolas_FacetSep_23101-4316",
+      "S. Mergui_FacetSep_73098-932500"
+    ],
+    "authIdHasStructure_fs":[
+      "23101-4316_FacetSep_Xavier Nicolas_JoinSep_390741_FacetSep_TCM",
+      "23101-4316_FacetSep_Xavier Nicolas_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "23101-4316_FacetSep_Xavier Nicolas_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "23101-4316_FacetSep_Xavier Nicolas_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "23101-4316_FacetSep_Xavier Nicolas_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "73098-932500_FacetSep_S. Mergui_JoinSep_1138_FacetSep_Fluides, automatique, systèmes thermiques",
+      "73098-932500_FacetSep_S. Mergui_JoinSep_92966_FacetSep_Université Paris-Sud - Paris 11",
+      "73098-932500_FacetSep_S. Mergui_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "73098-932500_FacetSep_S. Mergui_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "390741_FacetSep_TCM",
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "1138_FacetSep_Fluides, automatique, systèmes thermiques",
+      "92966_FacetSep_Université Paris-Sud - Paris 11",
+      "93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "TCM",
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Fluides, automatique, systèmes thermiques",
+      "Université Paris-Sud - Paris 11",
+      "Université Pierre et Marie Curie - Paris 6",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0017-9310",
+    "journalTitle_s":"International Journal of Heat and Mass Transfer",
+    "doiId_s":"10.1016\/j.ijheatmasstransfer.2014.05.029",
+    "isbn_id":null,
+    "keyword_s":[
+      "Mixed convection",
+      "Poiseuille-Rayleigh-Bénard flow",
+      "Convective instability",
+      "Rectangular channel",
+      "Harmonic inlet excitation",
+      "CVD",
+      "3D numerical simulations",
+      "Design of experiments"
+    ]
+  },
+  {
+    "docid":"1025697",
+    "halId_s":"hal-01025697",
+    "title_s":"Identification of a new pseudo-binary hydroxide during calendar corrosion of (La, Mg)2Ni7-type hydrogen storage alloys for Nickel-Metal Hydride batteries",
+    "abstract_s":"To improve the performances of Nickel-Metal Hydride batteries, an important step is the understanding of the corrosion processes that take place in the electrode material. In particular, the present study focuses for the first time on the model (La, Mg)2Ni7 system. The calendar corrosion in 8.7 M KOH medium was investigated from 6 h to 16 weeks immersion. By a unique combination of structural and elemental characterisations, the corrosion products are evidenced in those systems. In particular, we demonstrate that Ni and Mg combine in a pseudo-binary hydroxide Mg1−xNix(OH)2 whereas La corrodes into nanoporous La(OH)3 needles with inner hollow nanochannels.",
+    "domain_codes":"chim.othe",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.archives-ouvertes.fr\/hal-01025697\/file\/Post-print_P1428.pdf",
+    "authFirstName_s":[
+      "J.",
+      "H.",
+      "Suzanne",
+      "J.",
+      "M."
+    ],
+    "authLastName_s":[
+      "Monnier",
+      "Chen",
+      "Joiret",
+      "Bourgon",
+      "Latroche"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "J. Monnier_FacetSep_214747-743219",
+      "H. Chen_FacetSep_88964-0",
+      "Suzanne Joiret_FacetSep_318869-849730",
+      "J. Bourgon_FacetSep_746377-743273",
+      "M. Latroche_FacetSep_114165-178321"
+    ],
+    "authIdHasStructure_fs":[
+      "214747-743219_FacetSep_J. Monnier_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "214747-743219_FacetSep_J. Monnier_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "214747-743219_FacetSep_J. Monnier_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "214747-743219_FacetSep_J. Monnier_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "88964-0_FacetSep_H. Chen_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "88964-0_FacetSep_H. Chen_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "88964-0_FacetSep_H. Chen_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "88964-0_FacetSep_H. Chen_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "318869-849730_FacetSep_Suzanne Joiret_JoinSep_247181_FacetSep_Laboratoire Interfaces et Systèmes Electrochimiques",
+      "318869-849730_FacetSep_Suzanne Joiret_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "318869-849730_FacetSep_Suzanne Joiret_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "318869-849730_FacetSep_Suzanne Joiret_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "746377-743273_FacetSep_J. Bourgon_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "746377-743273_FacetSep_J. Bourgon_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "746377-743273_FacetSep_J. Bourgon_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "746377-743273_FacetSep_J. Bourgon_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "114165-178321_FacetSep_M. Latroche_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "114165-178321_FacetSep_M. Latroche_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "114165-178321_FacetSep_M. Latroche_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "114165-178321_FacetSep_M. Latroche_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "247181_FacetSep_Laboratoire Interfaces et Systèmes Electrochimiques",
+      "93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Institut de Chimie et des Matériaux Paris-Est",
+      "Institut de Chimie - CNRS Chimie",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire Interfaces et Systèmes Electrochimiques",
+      "Université Pierre et Marie Curie - Paris 6",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0378-7753",
+    "journalTitle_s":"Journal of Power Sources",
+    "doiId_s":"10.1016\/j.jpowsour.2014.05.008",
+    "isbn_id":null,
+    "keyword_s":[
+      "Corrosion",
+      "Ni-MH batteries",
+      "Raman micro spectroscopy",
+      "TEM",
+      "Combination of techniques"
+    ]
+  },
+  {
+    "docid":"1060481",
+    "halId_s":"hal-01060481",
+    "title_s":"π-Conjugated sulfonium-based photoacid generators: an integrated molecular approach for efficient one and two-photon polymerization",
+    "abstract_s":"The cationic photoinitiating abilities of a series of 'push-pull' sulfonium-based photoacid generators (PAGs) have been investigated. In this linear π-conjugated series, a 4-<i>N,N<\/i>-diphenylaminostilbene subunit is associated with different types of sulfonium substituents, which are connected to the stilbene moiety either in the 4′ position or in the 3′ position. This <i>para<\/i>-to-<i>meta<\/i> substitution effect leads to a strong increase of the quantum yield for acid generation with a maximum value of <i>ca<\/i>. 0.5. Such a positioning effect has a strong influence on the efficiency of the S-C bond cleavage. A detailed photolysis mechanism has been proposed. In contrast to commercially available sulfonium salts, these highly reactive π-conjugated PAGs all exhibit large absorption in the visible range as well as large two-photon absorption cross-sections (δ<sub>max<\/sub> > 600 GM) in the near-infrared region. As a consequence, efficient one and two-photon polymerization reactions are observed at 405 nm and 800 nm, respectively, using typical monomers such as cyclohexene oxide, <i>n<\/i>-butyl vinyl ether or SU-8 photoresists. By the fabrication of well resolved two-dimensional microstructures, we finally demonstrate the potential use of these new generation PAGs in the fields of one and two-photon lithography.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01060481",
+    "authFirstName_s":[
+      "M.",
+      "H.",
+      "J.",
+      "J.P.",
+      "A.",
+      "O.",
+      "D.",
+      "H.",
+      "D.L.",
+      "T.",
+      "Patrice",
+      "O.",
+      "S."
+    ],
+    "authLastName_s":[
+      "Jin",
+      "Hong",
+      "Xie",
+      "Malval",
+      "Spangenberg",
+      "Soppera",
+      "Wan",
+      "Pu",
+      "Versace",
+      "Leclerc",
+      "Baldeck",
+      "Poizat",
+      "Knopf"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "M. Jin_FacetSep_369327-959476",
+      "H. Hong_FacetSep_328218-0",
+      "J. Xie_FacetSep_126994-0",
+      "J.P. Malval_FacetSep_499716-865165",
+      "A. Spangenberg_FacetSep_613861-0",
+      "O. Soppera_FacetSep_574877-0",
+      "D. Wan_FacetSep_584219-0",
+      "H. Pu_FacetSep_584220-0",
+      "D.L. Versace_FacetSep_574876-0",
+      "T. Leclerc_FacetSep_857234-0",
+      "Patrice L. Baldeck_FacetSep_204813-180603",
+      "O. Poizat_FacetSep_181131-0",
+      "S. Knopf_FacetSep_857235-0"
+    ],
+    "authIdHasStructure_fs":[
+      "369327-959476_FacetSep_M. Jin_JoinSep_265880_FacetSep_School of Materials & Engineering",
+      "369327-959476_FacetSep_M. Jin_JoinSep_303622_FacetSep_Shangai",
+      "369327-959476_FacetSep_M. Jin_JoinSep_305897_FacetSep_Tongji University",
+      "328218-0_FacetSep_H. Hong_JoinSep_265880_FacetSep_School of Materials & Engineering",
+      "328218-0_FacetSep_H. Hong_JoinSep_303622_FacetSep_Shangai",
+      "328218-0_FacetSep_H. Hong_JoinSep_305897_FacetSep_Tongji University",
+      "126994-0_FacetSep_J. Xie_JoinSep_265880_FacetSep_School of Materials & Engineering",
+      "126994-0_FacetSep_J. Xie_JoinSep_303622_FacetSep_Shangai",
+      "126994-0_FacetSep_J. Xie_JoinSep_305897_FacetSep_Tongji University",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_529628_FacetSep_Réseau nanophotonique et optique",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "499716-865165_FacetSep_J.P. Malval_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_529628_FacetSep_Réseau nanophotonique et optique",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "613861-0_FacetSep_A. Spangenberg_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "574877-0_FacetSep_O. Soppera_JoinSep_505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "574877-0_FacetSep_O. Soppera_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "574877-0_FacetSep_O. Soppera_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "574877-0_FacetSep_O. Soppera_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "574877-0_FacetSep_O. Soppera_JoinSep_529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "574877-0_FacetSep_O. Soppera_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "574877-0_FacetSep_O. Soppera_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "574877-0_FacetSep_O. Soppera_JoinSep_303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "574877-0_FacetSep_O. Soppera_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "574877-0_FacetSep_O. Soppera_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "574877-0_FacetSep_O. Soppera_JoinSep_529628_FacetSep_Réseau nanophotonique et optique",
+      "574877-0_FacetSep_O. Soppera_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "574877-0_FacetSep_O. Soppera_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "574877-0_FacetSep_O. Soppera_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "584219-0_FacetSep_D. Wan_JoinSep_265880_FacetSep_School of Materials & Engineering",
+      "584219-0_FacetSep_D. Wan_JoinSep_303622_FacetSep_Shangai",
+      "584219-0_FacetSep_D. Wan_JoinSep_305897_FacetSep_Tongji University",
+      "584220-0_FacetSep_H. Pu_JoinSep_265880_FacetSep_School of Materials & Engineering",
+      "584220-0_FacetSep_H. Pu_JoinSep_303622_FacetSep_Shangai",
+      "584220-0_FacetSep_H. Pu_JoinSep_305897_FacetSep_Tongji University",
+      "574876-0_FacetSep_D.L. Versace_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "574876-0_FacetSep_D.L. Versace_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "574876-0_FacetSep_D.L. Versace_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "574876-0_FacetSep_D.L. Versace_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_529628_FacetSep_Réseau nanophotonique et optique",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857234-0_FacetSep_T. Leclerc_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "204813-180603_FacetSep_Patrice L. Baldeck_JoinSep_148_FacetSep_Laboratoire de Spectrométrie Physique",
+      "204813-180603_FacetSep_Patrice L. Baldeck_JoinSep_51016_FacetSep_Université Joseph Fourier - Grenoble 1",
+      "204813-180603_FacetSep_Patrice L. Baldeck_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "181131-0_FacetSep_O. Poizat_JoinSep_1292_FacetSep_Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
+      "181131-0_FacetSep_O. Poizat_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "181131-0_FacetSep_O. Poizat_JoinSep_374570_FacetSep_Université de Lille",
+      "181131-0_FacetSep_O. Poizat_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857235-0_FacetSep_S. Knopf_JoinSep_505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "857235-0_FacetSep_S. Knopf_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857235-0_FacetSep_S. Knopf_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "857235-0_FacetSep_S. Knopf_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857235-0_FacetSep_S. Knopf_JoinSep_529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "857235-0_FacetSep_S. Knopf_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "857235-0_FacetSep_S. Knopf_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857235-0_FacetSep_S. Knopf_JoinSep_303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "857235-0_FacetSep_S. Knopf_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "857235-0_FacetSep_S. Knopf_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "857235-0_FacetSep_S. Knopf_JoinSep_529628_FacetSep_Réseau nanophotonique et optique",
+      "857235-0_FacetSep_S. Knopf_JoinSep_199013_FacetSep_Université de Strasbourg",
+      "857235-0_FacetSep_S. Knopf_JoinSep_237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "857235-0_FacetSep_S. Knopf_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "265880_FacetSep_School of Materials & Engineering",
+      "303622_FacetSep_Shangai",
+      "305897_FacetSep_Tongji University",
+      "505910_FacetSep_Institut de Science des Matériaux de Mulhouse",
+      "237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "529627_FacetSep_Matériaux et Nanosciences Grand-Est",
+      "199013_FacetSep_Université de Strasbourg",
+      "237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "303623_FacetSep_Institut National de la Santé et de la Recherche Médicale",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "529628_FacetSep_Réseau nanophotonique et optique",
+      "199013_FacetSep_Université de Strasbourg",
+      "237692_FacetSep_Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "148_FacetSep_Laboratoire de Spectrométrie Physique",
+      "51016_FacetSep_Université Joseph Fourier - Grenoble 1",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "1292_FacetSep_Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "374570_FacetSep_Université de Lille",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "School of Materials & Engineering",
+      "Shangai",
+      "Tongji University",
+      "Institut de Science des Matériaux de Mulhouse",
+      "Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique",
+      "Matériaux et Nanosciences Grand-Est",
+      "Université de Strasbourg",
+      "Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "Institut National de la Santé et de la Recherche Médicale",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique",
+      "Réseau nanophotonique et optique",
+      "Université de Strasbourg",
+      "Université de Haute-Alsace (UHA) Mulhouse - Colmar",
+      "Centre National de la Recherche Scientifique",
+      "Institut de Chimie et des Matériaux Paris-Est",
+      "Institut de Chimie - CNRS Chimie",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Spectrométrie Physique",
+      "Université Joseph Fourier - Grenoble 1",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire Avancé de Spectroscopie pour les Intéractions la Réactivité et l'Environnement - UMR 8516",
+      "Institut de Chimie - CNRS Chimie",
+      "Université de Lille",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"1759-9954",
+    "journalTitle_s":"Polymer Chemistry",
+    "doiId_s":"10.1039\/c4py00424h",
+    "isbn_id":null,
+    "keyword_s":[
+      "20902069",
+      "Nsfc",
+      "National natural science foundation of china",
+      "21074094",
+      "51173134"
+    ]
+  },
+  {
+    "docid":"1064801",
+    "halId_s":"hal-01064801",
+    "title_s":"Nucleophilic or Electrophilic Interactions of C2 with HX systems (X=F, Cl, Br)",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI approach are used in a comparative study of the interactions between C2 and the three hydrogen halides HX (X = F, Cl, Br). Test calculations are also presented using the UCCSD(T)-F12 approach. The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three systems C2 + HX are bound, for intermolecular distances close to 3 Ang, through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the interactions, governed by the electrophilic character of C2 are decreasing from HBr to HF. Even though the reactions towards the molecular systems HCCX or CCHX are exothermic, activation barriers (0.58 eV and more) are calculated at short distances, preventing the direct reactions towards the corresponding tetra-atomic systems",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01064801",
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "Gilberte"
+    ],
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Chambaud"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "D. Khiri_FacetSep_870793-0",
+      "H. Gritli_FacetSep_632412-0",
+      "Gilberte Chambaud_FacetSep_632407-0"
+    ],
+    "authIdHasStructure_fs":[
+      "870793-0_FacetSep_D. Khiri_JoinSep_10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "870793-0_FacetSep_D. Khiri_JoinSep_481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "632412-0_FacetSep_H. Gritli_JoinSep_10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "632412-0_FacetSep_H. Gritli_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "632412-0_FacetSep_H. Gritli_JoinSep_481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "632412-0_FacetSep_H. Gritli_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"1089-5639",
+    "journalTitle_s":"Journal of Physical Chemistry A",
+    "doiId_s":"10.1021\/jp503651u",
+    "isbn_id":null,
+    "keyword_s":[
+      "Potential curves",
+      "Long range interactions",
+      "Ab-initio calculations",
+      "Hydrogen halides"
+    ]
+  },
+  {
+    "docid":"1067996",
+    "halId_s":"hal-01067996",
+    "title_s":"In situ analysis of Titan's tholins by Laser 2 steps Desorption Ionisation",
+    "abstract_s":"The main objective of the whole project developed in collaboration (LISA\/LATMOS) is to provide a better understanding of the chemical composition of Titan aerosols laboratory analogs, called tholins, and thereby of their formation pathways. The tholins are produced in the PAMPRE reactor (French acronyme for Aerosols Microgravity Production by Reactives Plasmas) developed at LATMOS. These tholins are generated in levitation (wall effects are thus limited) in a low pressure radiofrequency plasma. Up to now, the determination of the physical and chemical properties of these tholins was achieved after their collection and ex-situ analysis by several methods. Their bulk composition was then determined but their insoluble part is still unknown. Other studies were performed after the transfer of the soluble part of the aerosols to different analytical instruments. Therefore, possible artifacts could have influenced the results. We present the SMARD (a French acronym for Mass Spectrometry of Aerosols by InfraRed Laser Desorption) program. A challenging issue of our work is to perform the soluble and unsoluble parts of PAMPRE tholins' analysis in real time and in situ. The coupling of the PAMPRE reactor to a unique instrument (Single Particle Laser Ablation Mass Spectrometry) developed at LISA should allow determining in real time and in situ the characteristics (chemical composition together with granulometry) of the nanometric aerosols. The later are introduced in the analytical instrument using an aerodynamic lens device. Their detection and aerodynamic diameter are determined using two continuous diode lasers operating at λ = 403 nm. Then, the L2DI (Laser 2 steps Desorption Ionisation) technique is used in order to access to the chemical composition of individual particles: they are vaporized using a 10 μm CO2 pulsed laser and the gas produced is then ionized by a 248 nm KrF Excimer laser. Finally, the molecular ions are analyzed by a 1 m linear time-of-flight mass spectrometer. As a first step, tests have been realized using a model of aerosols particles [Dioctylphthalate, C6H4(COOC8H17)2, PM = 390] as well as tholins which have been solubilized in water. Both types of particles have been introduced in the system via a nebulizer placed at the entrance of the aerodynamic lens device. The results, that demonstrate the feasibility of the L2DI technique, will be presented. Aware that the KrF Excimer laser might induce dissociative ionization and only allow to detect aromatic molecular compounds, we plan to use a VUV (λ = 121.56 nm) laser. This would promote direct ionization (one photon process) of all kinds of species according to their respective threshold. The final step will be to directly analyze the tholins generated in the PAMPRE reactor.",
+    "domain_codes":"sdu.astr.ep; phys.astr.ep",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01067996",
+    "authFirstName_s":[
+      "Y.",
+      "Nathalie",
+      "Guy",
+      "M.",
+      "Ahmed",
+      "Cyril",
+      "M."
+    ],
+    "authLastName_s":[
+      "Benilan",
+      "Carrasco",
+      "Cernogora",
+      "Gazeau",
+      "Mahjoub",
+      "Szopa",
+      "Schwell"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Y. Benilan_FacetSep_377296-0",
+      "Nathalie Carrasco_FacetSep_14358-175060",
+      "Guy Cernogora_FacetSep_141554-0",
+      "M. Gazeau_FacetSep_862146-0",
+      "Ahmed Mahjoub_FacetSep_167890-0",
+      "Cyril Szopa_FacetSep_16812-175829",
+      "M. Schwell_FacetSep_205768-0"
+    ],
+    "authIdHasStructure_fs":[
+      "377296-0_FacetSep_Y. Benilan_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "377296-0_FacetSep_Y. Benilan_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "377296-0_FacetSep_Y. Benilan_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "377296-0_FacetSep_Y. Benilan_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "377296-0_FacetSep_Y. Benilan_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_56663_FacetSep_Institut universitaire de France",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_301855_FacetSep_Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_391267_FacetSep_PLANETO - LATMOS",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_88261_FacetSep_Laboratoire Atmosphères, Milieux, Observations Spatiales",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "14358-175060_FacetSep_Nathalie Carrasco_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_391267_FacetSep_PLANETO - LATMOS",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_88261_FacetSep_Laboratoire Atmosphères, Milieux, Observations Spatiales",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "141554-0_FacetSep_Guy Cernogora_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "862146-0_FacetSep_M. Gazeau_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "862146-0_FacetSep_M. Gazeau_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "862146-0_FacetSep_M. Gazeau_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "862146-0_FacetSep_M. Gazeau_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "862146-0_FacetSep_M. Gazeau_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "167890-0_FacetSep_Ahmed Mahjoub_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "167890-0_FacetSep_Ahmed Mahjoub_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "167890-0_FacetSep_Ahmed Mahjoub_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "167890-0_FacetSep_Ahmed Mahjoub_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "167890-0_FacetSep_Ahmed Mahjoub_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_391267_FacetSep_PLANETO - LATMOS",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_88261_FacetSep_Laboratoire Atmosphères, Milieux, Observations Spatiales",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "16812-175829_FacetSep_Cyril Szopa_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "205768-0_FacetSep_M. Schwell_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "205768-0_FacetSep_M. Schwell_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "205768-0_FacetSep_M. Schwell_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "205768-0_FacetSep_M. Schwell_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "205768-0_FacetSep_M. Schwell_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "300301_FacetSep_Université Paris Diderot - Paris 7",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "56663_FacetSep_Institut universitaire de France",
+      "301855_FacetSep_Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche",
+      "391267_FacetSep_PLANETO - LATMOS",
+      "88261_FacetSep_Laboratoire Atmosphères, Milieux, Observations Spatiales",
+      "81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "Institut national des sciences de l'Univers",
+      "Université Paris Diderot - Paris 7",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Institut universitaire de France",
+      "Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche",
+      "PLANETO - LATMOS",
+      "Laboratoire Atmosphères, Milieux, Observations Spatiales",
+      "Université de Versailles Saint-Quentin-en-Yvelines",
+      "Université Pierre et Marie Curie - Paris 6",
+      "Institut national des sciences de l'Univers",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":null,
+    "journalTitle_s":null,
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "5210 PLANETARY SCIENCES ASTROBIOLOGY Planetary atmospheres",
+      "Clouds",
+      "And hazes",
+      "5405 PLANETARY SCIENCES SOLID SURFACE PLANETS Atmospheres",
+      "0305 ATMOSPHERIC COMPOSITION AND STRUCTURE Aerosols and particles"
+    ]
+  },
+  {
+    "docid":"1078652",
+    "halId_s":"hal-01078652",
+    "title_s":"MCMC2 (version 1.1): A Monte Carlo code for multiply-charged clusters",
+    "abstract_s":"This new version of the MCMC2 program for modeling the thermodynamic and structural properties ofmultiply-charged clusters by means of parallel classical Monte Carlo methods provides some enhancementsand corrections to the earlier version [1]. In particular, histograms for negatively and positivelycharged particles are separated, parallel Monte Carlo simulations can be performed by attempting exchangesbetween all the replica pairs and not only one randomly chosen pair, a new random numbergenerator is supplied, and the contribution of Coulomb repulsion to the total heat capacity is corrected.The main functionalities of the original MCMC2 code (e.g., potential-energy surfaces and Monte Carlo algorithms)have not been modified.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01078652",
+    "authFirstName_s":[
+      "David",
+      "Marius",
+      "Marie-Pierre"
+    ],
+    "authLastName_s":[
+      "Bonhommeau",
+      "Lewerenz",
+      "Gaigeot"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "David Bonhommeau_FacetSep_382280-735270",
+      "Marius Lewerenz_FacetSep_682053-934822",
+      "Marie-Pierre Gaigeot_FacetSep_8297-175657"
+    ],
+    "authIdHasStructure_fs":[
+      "382280-735270_FacetSep_David Bonhommeau_JoinSep_823_FacetSep_Groupe de spectrométrie moléculaire et atmosphérique",
+      "382280-735270_FacetSep_David Bonhommeau_JoinSep_7569_FacetSep_Université de Reims Champagne-Ardenne",
+      "382280-735270_FacetSep_David Bonhommeau_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "682053-934822_FacetSep_Marius Lewerenz_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "682053-934822_FacetSep_Marius Lewerenz_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "682053-934822_FacetSep_Marius Lewerenz_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "682053-934822_FacetSep_Marius Lewerenz_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_1061631_FacetSep_Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_300305_FacetSep_Université de Cergy Pontoise",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_531928_FacetSep_Université Paris-Seine",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_300306_FacetSep_Université d'Évry-Val-d'Essonne",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_56663_FacetSep_Institut universitaire de France",
+      "8297-175657_FacetSep_Marie-Pierre Gaigeot_JoinSep_301855_FacetSep_Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche"
+    ],
+    "structIdName_fs":[
+      "823_FacetSep_Groupe de spectrométrie moléculaire et atmosphérique",
+      "7569_FacetSep_Université de Reims Champagne-Ardenne",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "1061631_FacetSep_Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "300305_FacetSep_Université de Cergy Pontoise",
+      "531928_FacetSep_Université Paris-Seine",
+      "300306_FacetSep_Université d'Évry-Val-d'Essonne",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "56663_FacetSep_Institut universitaire de France",
+      "301855_FacetSep_Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche"
+    ],
+    "structName_s":[
+      "Groupe de spectrométrie moléculaire et atmosphérique",
+      "Université de Reims Champagne-Ardenne",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "Commissariat à l'énergie atomique et aux énergies alternatives",
+      "Université de Cergy Pontoise",
+      "Université Paris-Seine",
+      "Université d'Évry-Val-d'Essonne",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique",
+      "Institut universitaire de France",
+      "Ministère de l'Education nationale, de l’Enseignement supérieur et de la Recherche"
+    ],
+    "journalIssn_s":"0010-4655",
+    "journalTitle_s":"Computer Physics Communications",
+    "doiId_s":"10.1016\/j.cpc.2013.09.026",
+    "isbn_id":null,
+    "keyword_s":[
+      "Monte Carlo simulations",
+      "Coarse-grained models",
+      "Charged clusters",
+      "Charged droplets",
+      "Electrospray ionisation",
+      "Parallel Tempering",
+      "Parallel Charging"
+    ]
+  },
+  {
+    "docid":"1078896",
+    "halId_s":"hal-01078896",
+    "title_s":"Are there Stable Excited Triplet States of NCS-\/CNS- and NCO-\/CNO-?",
+    "abstract_s":"Highly correlated ab initio wave functions within the UCCSD(T)-F12 approach have been used to map portions of the potential energy surfaces (PESs) and to study the stability of the first excited triplet states of the NCS-\/CNS- and NCO-\/CNO- anions. These a3Π states for linear geometries, or their 3A' and 3A\" bent components, correlate with the lowest dissociation asymptote of NCX- (X = S and O) along the NC-X coordinates. The X1Σ+ linear ground states of these anions are known to be stable with respect to dissociation to the X2Π ground state of the corresponding neutral molecule with a rather large electron affinity (EA). The a3Π state of the NCS- anion is positioned below the X state of the neutral at long NC-S distances and its minimum of energy is found for bent geometries. The stability of its two components in bent geometries has been investigated, and it is found that some anionic forms are stable with respect to the X state of the neutral. The linear CNS- and CNO- isomers present a minimum only at long CN-X distances, located below the minimum of their corresponding neutral CNX ground states.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-upec-upem.archives-ouvertes.fr\/hal-01078896\/file\/NCSm-article.pdf",
+    "authFirstName_s":[
+      "D.",
+      "H.",
+      "K.",
+      "Gilberte"
+    ],
+    "authLastName_s":[
+      "Khiri",
+      "Gritli",
+      "Peterson",
+      "Chambaud"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "D. Khiri_FacetSep_870793-0",
+      "H. Gritli_FacetSep_632412-0",
+      "K. Peterson_FacetSep_150900-934705",
+      "Gilberte Chambaud_FacetSep_632407-0"
+    ],
+    "authIdHasStructure_fs":[
+      "870793-0_FacetSep_D. Khiri_JoinSep_10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "870793-0_FacetSep_D. Khiri_JoinSep_481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "870793-0_FacetSep_D. Khiri_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "870793-0_FacetSep_D. Khiri_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "870793-0_FacetSep_D. Khiri_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "870793-0_FacetSep_D. Khiri_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "632412-0_FacetSep_H. Gritli_JoinSep_10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "632412-0_FacetSep_H. Gritli_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "632412-0_FacetSep_H. Gritli_JoinSep_481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "632412-0_FacetSep_H. Gritli_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "150900-934705_FacetSep_K. Peterson_JoinSep_303893_FacetSep_Washington State University",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "303893_FacetSep_Washington State University"
+    ],
+    "structName_s":[
+      "Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Washington State University"
+    ],
+    "journalIssn_s":"0026-8976",
+    "journalTitle_s":"Molecular Physics",
+    "doiId_s":"10.1080\/00268976.2014.981606",
+    "isbn_id":null,
+    "keyword_s":[
+      "Potential energy functions",
+      "Excited states",
+      "Molecular anions"
+    ]
+  },
+  {
+    "docid":"1083001",
+    "halId_s":"hal-01083001",
+    "title_s":"245 - A highly sensitive glucose electrode using glucose oxidase collagen film",
+    "abstract_s":"Industrially reconstituted collagen films have shown excellent prop­erties for beta-D-glucose oxidase coupling. Associated with a platinum anode for amperometric detection of hydrogen peroxide, these enzymatic films form a very simple and easy to handle glucose electrode; this device presents a very high sensitivity (ca. 10-8 M) giving responses proportional to glucose concentration over 5 orders of magnitude.",
+    "domain_codes":"chim.anal; sdv.bbm",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/document\/6691CFECF2A230772693D6DFDE81EE4EE32E5AA7\/fulltext\/pdf?sid=hal",
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre",
+      "Danièle"
+    ],
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet",
+      "Gautheron"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Robert Sternberg_FacetSep_147020-0",
+      "Pierre R Coulet_FacetSep_870701-0",
+      "Danièle C Gautheron_FacetSep_870702-0"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_155441_FacetSep_Laboratoire Eau, Environnement et Systèmes Urbains",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_148117_FacetSep_AgroParisTech",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "155441_FacetSep_Laboratoire Eau, Environnement et Systèmes Urbains",
+      "148117_FacetSep_AgroParisTech",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "301545_FacetSep_École nationale des ponts et chaussées",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "300301_FacetSep_Université Paris Diderot - Paris 7",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire Eau, Environnement et Systèmes Urbains",
+      "AgroParisTech",
+      "Université Paris-Est Marne-la-Vallée",
+      "École nationale des ponts et chaussées",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "Institut national des sciences de l'Univers",
+      "Université Paris Diderot - Paris 7",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0302-4598",
+    "journalTitle_s":"Bioelectrochemistry and Bioenergetics",
+    "doiId_s":"10.1016\/0302-4598(87)85047-X",
+    "isbn_id":null,
+    "keyword_s":[
+      "Glocose oxidase",
+      "Amperometric biosensor",
+      "Collagen",
+      "Biosensors"
+    ]
+  },
+  {
+    "docid":"1083004",
+    "halId_s":"hal-01083004",
+    "title_s":"Electrochemical biosensors: Recommended definitions and classification (Technical Report)",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry, formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry), have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors.An electrochemical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device which is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration should be designated a single-use biosensor.Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, the mode of physicochemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with, macromolecules that have been isolated, engineered or present in their original biological environment. In the latter case, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biologicalrecognition element (biochemical receptor) may be achieved.A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. Thesecriteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.Republication or reproduction of this report or its storage and\/or dissemination by electronic means is permitted without the need for formal IUPAC permission on condition that an acknowledgement, with full reference to the source along with use of the copyright symbol q, the name IUPAC and the year of publication are prominently visible. Publication of a translation into another language is subject to the additional condition of prior approval from the relevant IUPAC National Adhering Organization.",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083004",
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Klara Toth_FacetSep_734086-0",
+      "Richard Durst_FacetSep_734087-0",
+      "George S. Wilson_FacetSep_734088-0"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_148117_FacetSep_AgroParisTech",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "734086-0_FacetSep_Klara Toth_JoinSep_231430_FacetSep_Institute of General and Analytical Chemistry",
+      "734086-0_FacetSep_Klara Toth_JoinSep_304826_FacetSep_Technical University of Budapest",
+      "734087-0_FacetSep_Richard Durst_JoinSep_231431_FacetSep_Department of Food Science and Technology",
+      "734087-0_FacetSep_Richard Durst_JoinSep_99874_FacetSep_Cornell University [New York]",
+      "734088-0_FacetSep_George S. Wilson_JoinSep_231432_FacetSep_Chemistry Department",
+      "734088-0_FacetSep_George S. Wilson_JoinSep_328216_FacetSep_Kansas university"
+    ],
+    "structIdName_fs":[
+      "135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "148117_FacetSep_AgroParisTech",
+      "301545_FacetSep_École nationale des ponts et chaussées",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "231430_FacetSep_Institute of General and Analytical Chemistry",
+      "304826_FacetSep_Technical University of Budapest",
+      "231431_FacetSep_Department of Food Science and Technology",
+      "99874_FacetSep_Cornell University [New York]",
+      "231432_FacetSep_Chemistry Department",
+      "328216_FacetSep_Kansas university"
+    ],
+    "structName_s":[
+      "Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "AgroParisTech",
+      "École nationale des ponts et chaussées",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Institute of General and Analytical Chemistry",
+      "Technical University of Budapest",
+      "Department of Food Science and Technology",
+      "Cornell University [New York]",
+      "Chemistry Department",
+      "Kansas university"
+    ],
+    "journalIssn_s":"0033-4545",
+    "journalTitle_s":"Pure and Applied Chemistry",
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Classification",
+      "Definition"
+    ]
+  },
+  {
+    "docid":"1083007",
+    "halId_s":"hal-01083007",
+    "title_s":"Problems in Adapting a Glucose-Oxidase Electrochemical Sensor into an Implantable Glucose-Sensing Device",
+    "abstract_s":"Taking into account the analytic patterns of different types of glucose-oxidase electrochemical sensors, the specific problems which have to be solved for such a sensor to be implantable are outlined. Of partic-ular interest is the lifetime of enzymatic membrane and the dependence of the sensor responses to oxygen concentration and hydrodynamics.",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083007",
+    "authFirstName_s":[
+      "Daniel"
+    ],
+    "authLastName_s":[
+      "Thevenot"
+    ],
+    "authQuality_s":[
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structIdName_fs":[
+      "212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structName_s":[
+      "Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "journalIssn_s":"0149-5992",
+    "journalTitle_s":"Diabetes Care",
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "Glucose oxidase",
+      "Glucose",
+      "Implantable sensor",
+      "Electrochemical biosensor"
+    ]
+  },
+  {
+    "docid":"1083014",
+    "halId_s":"hal-01083014",
+    "title_s":"A glucose electrode using high-stability glucose-oxidase collagen membranes",
+    "abstract_s":"A very sensitive glucose electrode was developed using a glucose-oxidase membrane and an anodically polarized platinum disk. Calibration curves were linear over 4.5 concentration decades. It was adapted for human blood samples. The lifetime of glucose-oxidase collagen membranes was greater than 3 yr at 4°C and was ~ 6 month at 20-30°C.",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083014",
+    "authFirstName_s":[
+      "Daniel",
+      "Robert",
+      "Pierre"
+    ],
+    "authLastName_s":[
+      "Thevenot",
+      "Sternberg",
+      "Coulet"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Robert Sternberg_FacetSep_147020-0",
+      "Pierre Coulet_FacetSep_870716-0"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "147020-0_FacetSep_Robert Sternberg_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "870716-0_FacetSep_Pierre Coulet_JoinSep_70953_FacetSep_Laboratoire de Biologie et Technologie des Membranes et des Systèmes Intégrés",
+      "870716-0_FacetSep_Pierre Coulet_JoinSep_194495_FacetSep_Université Claude Bernard Lyon 1",
+      "870716-0_FacetSep_Pierre Coulet_JoinSep_301088_FacetSep_Université de Lyon",
+      "870716-0_FacetSep_Pierre Coulet_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "70953_FacetSep_Laboratoire de Biologie et Technologie des Membranes et des Systèmes Intégrés",
+      "194495_FacetSep_Université Claude Bernard Lyon 1",
+      "301088_FacetSep_Université de Lyon",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Laboratoire de Biologie et Technologie des Membranes et des Systèmes Intégrés",
+      "Université Claude Bernard Lyon 1",
+      "Université de Lyon",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0149-5992",
+    "journalTitle_s":"Diabetes Care",
+    "doiId_s":"10.2337\/diacare.5.3.203",
+    "isbn_id":null,
+    "keyword_s":[
+      "Glucose oxidase",
+      "Glucose",
+      "Electrochemical biosensor"
+    ]
+  },
+  {
+    "docid":"1083157",
+    "halId_s":"hal-01083157",
+    "title_s":"From Alchemy to modern Chemistry: the concept of Chemical binding",
+    "abstract_s":"A wide panorama is presented from the very beginning of chemistry to the present state of theoretical chemistry. The successive models are described that contributed to the elaboration of the modern theory including the intermediate concepts based on the discovery of the atoms, of the molecules and of the electrons on which could be built quantum chemistry. A brief survey of the state of the art in theoretical chemistry follows.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083157",
+    "authFirstName_s":[
+      "Gilberte"
+    ],
+    "authLastName_s":[
+      "Chambaud"
+    ],
+    "authQuality_s":[
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Gilberte Chambaud_FacetSep_632407-0"
+    ],
+    "authIdHasStructure_fs":[
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":null,
+    "journalTitle_s":null,
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "Chemical bond concepts",
+      "Chemistry history"
+    ]
+  },
+  {
+    "docid":"1083160",
+    "halId_s":"hal-01083160",
+    "title_s":"Is C2 a nucleophilic or an electrophilic system?",
+    "abstract_s":"Highly correlated ab-initio wavefunctions within the MRCI and UCCSD(T)-F12 formalisms are used to study the long range interactions and the reactive path between C2 and the three hydrogen halides HX (X = F, Cl, Br). The asymptotic regions are investigated for different relative orientations of the two moieties. It is shown that the three van der Waals systems C2 + HX are bound through nucleophilic interactions between C2 and HX for approaches perpendicular to the C-C axis, with decreasing interaction energies from HF to HBr. For HX approaching C2 along its axis, the van der Waals interactions, governed by the electrophilic character of C2 are weaker, with decreasing interaction energies from HBr to HF. Activation barriers towards the molecular systems HCCX or CCHX (0.64 eV and more) are calculated at short distances, making difficult the reaction towards the corresponding tetra-atomic systems.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01083160",
+    "authFirstName_s":[
+      "Gilberte",
+      "D."
+    ],
+    "authLastName_s":[
+      "Chambaud",
+      "Khiri"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Gilberte Chambaud_FacetSep_632407-0",
+      "D. Khiri_FacetSep_870793-0"
+    ],
+    "authIdHasStructure_fs":[
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "632407-0_FacetSep_Gilberte Chambaud_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "870793-0_FacetSep_D. Khiri_JoinSep_10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "870793-0_FacetSep_D. Khiri_JoinSep_481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "870793-0_FacetSep_D. Khiri_JoinSep_207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)"
+    ],
+    "structIdName_fs":[
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "10902_FacetSep_Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "481790_FacetSep_Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "207896_FacetSep_Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)"
+    ],
+    "structName_s":[
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Spectroscopie Atomique, Moléculaire et Applications",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)",
+      "Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",
+      "Tunis El Manar University [University of Tunis El Manar] [Tunisia] = Université de Tunis El Manar [Tunisie] = جامعة تونس المنار (ar)"
+    ],
+    "journalIssn_s":null,
+    "journalTitle_s":null,
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "Potential energy functions",
+      "Long range interactions"
+    ]
+  },
+  {
+    "docid":"1084520",
+    "halId_s":"hal-01084520",
+    "title_s":"Relation between redox potential and oxygen levels in activated-sludge reactors",
+    "abstract_s":"The importance of dissolved oxygen level in determining the platinum electrode potential in activated sludge has been clearly demonstrated by current-potential curves plotted at different oxygen concentration. Tests have been carried out, in the laboratory and in full scale treatment plants, to define the relationship between the platinum electrode potential at equilibrium (Eh) and the dissolved oxvgen [02) concentration in the activated sIudqe. These two parameters obey a law in the form Eh = a + b log [O2]. The measured values of coefficients a and b differ widely to those found from the oxygen reduction reaction in water (a = 0.8 V at pH 7 and b = 15 mV per decade). Factors a and b mainly depend on the sludge loading, the aeration conditions and the sludge concentration. Using non-polished stationary platinum ring electrodes, the following values of a were obtained (at pH between 7 and 7.6): + 410 mV\/NHE for sludge aerated for several hours without feeding, + 265 mV\/NHE for over-aerated\/low-loaded sludge (Cm = 0.2 kg BOD.kg MLVSS-1.day-1). Factor b would seem to lie between 55 and 65 mV when the sludge is continuously aerated without feeding. At low loads with excess aeration, it lies between 70 and 90 mV. When the medium is slightly septic at low dissolved oxygen concentrations (insufficient daily aeration time, high sludge concentration or aerators shut down for too long periods), factor b increases and can reach 200 mV. In the same way, at high loads, factor b can become 150 mV. These results demonstrate the importance of dissolved oxygen concentration in the mechanisms which determine the metal electrode potentials in activated sludge. They also illustrate the role that the electroactive species play in the process. The type and concentration of these species depend on parameters such as the sludge loading, the overall oxygen supply, the aeration sequence and the sludge concentration.",
+    "domain_codes":"sde; chim.anal",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal.science\/hal-01084520",
+    "authFirstName_s":[
+      "Alain",
+      "Daniel"
+    ],
+    "authLastName_s":[
+      "Heduit",
+      "Thevenot"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Alain Heduit_FacetSep_871567-0",
+      "Daniel R. Thevenot_FacetSep_14624-892"
+    ],
+    "authIdHasStructure_fs":[
+      "871567-0_FacetSep_Alain Heduit_JoinSep_183894_FacetSep_Hydrosystèmes et Bioprocédés",
+      "871567-0_FacetSep_Alain Heduit_JoinSep_302049_FacetSep_Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structIdName_fs":[
+      "183894_FacetSep_Hydrosystèmes et Bioprocédés",
+      "302049_FacetSep_Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+      "212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structName_s":[
+      "Hydrosystèmes et Bioprocédés",
+      "Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+      "Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "journalIssn_s":"0273-1223",
+    "journalTitle_s":"Water Science and Technology",
+    "doiId_s":null,
+    "isbn_id":null,
+    "keyword_s":[
+      "Redox potential",
+      "Activated sludge",
+      "Oxygen",
+      "Waste water treatment plant",
+      "Instrumentation",
+      "Control"
+    ]
+  },
+  {
+    "docid":"1084657",
+    "halId_s":"hal-01084657",
+    "title_s":"Influence of calcium on glucose biosensor response and on hydrogen peroxide detection",
+    "abstract_s":"Of small species capable of reaching a platinum working electrode from biological samples, calcium cations have been found to inhibit significantly glucose biosensor responses. The sensitivities to glucose of sensors immersed in carbonate buffer saline solutions decreased when 0.5 mM calcium chloride was added. The degree of inhibition was proportional to the glucose response in the absence of calcium (0-17% of the normalized current). Likewise, sensor sensitivities to hydrogen peroxide decreased, in the 5-90% range, in the presence of 0.5 mM calcium. Bare Pt-Ir wires show a reversible inhibition of hydrogen peroxide sensitivity. This reversible inhibition is directly related to the decrease of hydrogen peroxide oxidation rate at the platinum anode: this has been evidenced, using rotating disk electrodes, by plotting Koutecky-Levich plots. Such inhibition has been found both for free and chelated calcium cations at levels below 1 mM. Several hypotheses for possible reactions between platinum, hydrogen per-oxide and calcium are discussed.",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-BJW07D28-5\/fulltext.pdf?sid=hal",
+    "authFirstName_s":[
+      "Nathalie",
+      "Daniel"
+    ],
+    "authLastName_s":[
+      "Labat-Allietta",
+      "Thevenot"
+    ],
+    "authQuality_s":[
+      "aut",
+      "crp"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Nathalie Labat-Allietta_FacetSep_871693-0",
+      "Daniel R. Thevenot_FacetSep_14624-892"
+    ],
+    "authIdHasStructure_fs":[
+      "871693-0_FacetSep_Nathalie Labat-Allietta_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "871693-0_FacetSep_Nathalie Labat-Allietta_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "871693-0_FacetSep_Nathalie Labat-Allietta_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structIdName_fs":[
+      "212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "structName_s":[
+      "Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12"
+    ],
+    "journalIssn_s":"0956-5663",
+    "journalTitle_s":"Biosensors and Bioelectronics",
+    "doiId_s":"10.1016\/S0956-5663(97)00084-5",
+    "isbn_id":null,
+    "keyword_s":[
+      "Platinum",
+      "Koutecky-Levich plots",
+      "Hydrogen peroxide",
+      "Calcium",
+      "Glucose sensor"
+    ]
+  },
+  {
+    "docid":"1084678",
+    "halId_s":"hal-01084678",
+    "title_s":"Electrochemical biosensors: recommended definitions and classification",
+    "abstract_s":"Two Divisions of the International Union of Pure and Applied Chemistry (IUPAC), namely Physical Chemistry (Commission I.7 on Biophysical Chemistry formerly Steering Committee on Biophysical Chemistry) and Analytical Chemistry (Commission V.5 on Electroanalytical Chemistry) have prepared recommendations on the definition, classification and nomenclature related to electrochemical biosensors; these recommendations could, in the future, be extended to other types of biosensors. An electrochem-ical biosensor is a self-contained integrated device, which is capable of providing specific quantitative or semi-quantitative analytical information using a biological recognition element (biochemical receptor) which is retained in direct spatial contact with an electrochemical transduction element. Because of their ability to be repeatedly calibrated, we recommend that a biosensor should be clearly distinguished from a bioanalytical system, which requires additional processing steps, such as reagent addition. A device that is both disposable after one measurement, i.e. single use, and unable to monitor the analyte concentration continuously or after rapid and reproducible regeneration, should be designated a single use biosensor. Biosensors may be classified according to the biological specificity-conferring mechanism or, alternatively, to the mode of physico-chemical signal transduction. The biological recognition element may be based on a chemical reaction catalysed by, or on an equilibrium reaction with macromolecules that have been isolated, engineered or present in their original biological environment. In the latter cases, equilibrium is generally reached and there is no further, if any, net consumption of analyte(s) by the immobilized biocomplexing agent incorporated into the sensor. Biosensors may be further classified according to the analytes or reactions that they monitor: direct monitoring of analyte concentration or of reactions producing or consuming such analytes; alternatively, an indirect monitoring of inhibitor or activator of the biological recognition element (biochemical receptor) may be achieved. A rapid proliferation of biosensors and their diversity has led to a lack of rigour in defining their performance criteria. Although each biosensor can only truly be evaluated for a particular application, it is still useful to examine how standard protocols for performance criteria may be defined in accordance with standard IUPAC protocols or definitions. These criteria are recommended for authors, referees and educators and include calibration characteristics (sensitivity, operational and linear concentration range, detection and quantitative determination limits), selectivity, steady-state and transient response times, sample throughput, reproducibility, stability and lifetime.",
+    "domain_codes":"chim.anal; sdv.bbm.bc",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/kuscholarworks.ku.edu\/bitstream\/1808\/8413\/1\/Wilson_1999_Electrochemical%20Biosensors.pdf",
+    "authFirstName_s":[
+      "Daniel",
+      "Klara",
+      "Richard",
+      "George"
+    ],
+    "authLastName_s":[
+      "Thevenot",
+      "Toth",
+      "Durst",
+      "Wilson"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Klara Toth_FacetSep_734086-0",
+      "Richard Durst_FacetSep_734087-0",
+      "George S. Wilson_FacetSep_734088-0"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "734087-0_FacetSep_Richard Durst_JoinSep_231431_FacetSep_Department of Food Science and Technology",
+      "734087-0_FacetSep_Richard Durst_JoinSep_99874_FacetSep_Cornell University [New York]",
+      "734088-0_FacetSep_George S. Wilson_JoinSep_231432_FacetSep_Chemistry Department",
+      "734088-0_FacetSep_George S. Wilson_JoinSep_328216_FacetSep_Kansas university"
+    ],
+    "structIdName_fs":[
+      "212248_FacetSep_Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "231431_FacetSep_Department of Food Science and Technology",
+      "99874_FacetSep_Cornell University [New York]",
+      "231432_FacetSep_Chemistry Department",
+      "328216_FacetSep_Kansas university"
+    ],
+    "structName_s":[
+      "Laboratoire de Bioélectrochimie et Analyse du Milieu",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Department of Food Science and Technology",
+      "Cornell University [New York]",
+      "Chemistry Department",
+      "Kansas university"
+    ],
+    "journalIssn_s":"0956-5663",
+    "journalTitle_s":"Biosensors and Bioelectronics",
+    "doiId_s":"10.1081\/AL-100103209",
+    "isbn_id":null,
+    "keyword_s":[
+      "Electrochemical biosensor",
+      "Definition",
+      "Single use biosensor",
+      "Calibration characteristics",
+      "Performance criteria",
+      "Analytes"
+    ]
+  },
+  {
+    "docid":"1086746",
+    "halId_s":"hal-01086746",
+    "title_s":"Critical budget of metal sources and pathways in the Seine River basin (1994–2003) for Cd, Cr, Cu, Hg, Ni, Pb and Zn",
+    "abstract_s":"River basin metal pollution originates from heavy industries (plating, automobile) and from urban sources (Paris conurbation: 2740 km2 , 9.47 million inhabitants). The natural sources of metal have been found to be limited due to sedimentary nature of this catchment and to the very low river sediment transport (10 t km − 2 y − 1). Several types of data have been collected to build the metal budget within the whole Seine River basin: field surveys, economical statistics and environmental models. Environmental contamination and related fluxes have been measured on atmospheric fallout, rural streams particles, and Seine River particles upstream and downstream of Paris and at river mouth. Metal pathways and budgets have been set up for (i) a typical cultivated area, (ii) a Paris combined sewer system, (iii) Paris conurbation and (iv) the whole catchment metal retention effect in floodplain and dredged material. Metal fluxes to the estuary have been decomposed into natural, urban domestic and other sources. The latter are within 1–2 orders of magnitude larger than waste water fluxes directly released into rivers according to an industrial census. These fluxes have been further compared to the annual use (1994–2003) of these metals. Metal excess fluxes exported by the river are now a marginal leak of metal inputs to the catchment (i.e. \"raw\" metals, metals in goods, atmospheric fallout), generally from 0.2 to 5‰. However, due to the very limited dilution power in this basin, the contamination of particles is still relatively high. The Seine River basin is gradually storing metals, mostly in manufactured products used in construction, but also in various waste dumps, industrial soils, agricultural and flood plain soils.",
+    "domain_codes":"sde; chim.inor; chim.anal; sde.es; shs.envir",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086746\/file\/Thevenot-STOTEN-Critical-Budget-2007-375-180-203.pdf",
+    "authFirstName_s":[
+      "Daniel",
+      "Régis",
+      "Laurence",
+      "Marie-Christine",
+      "Vincent",
+      "Philippe",
+      "Philippe",
+      "Jean-Louis",
+      "Claire",
+      "Michel"
+    ],
+    "authLastName_s":[
+      "Thevenot",
+      "Moilleron",
+      "Lestel",
+      "Gromaire",
+      "Rocher",
+      "Cambier",
+      "Bonté",
+      "Colin",
+      "de Pontevès",
+      "Meybeck"
+    ],
+    "authQuality_s":[
+      "crp",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Régis Moilleron_FacetSep_493895-3971",
+      "Laurence Lestel_FacetSep_3847-178259",
+      "Marie-Christine Gromaire_FacetSep_14626-17450",
+      "Vincent Rocher_FacetSep_120111-1083429",
+      "Philippe Cambier_FacetSep_750418-0",
+      "Philippe Bonté_FacetSep_225562-901192",
+      "Jean-Louis Colin_FacetSep_301835-0",
+      "Claire de Pontevès_FacetSep_620998-0",
+      "Michel Meybeck_FacetSep_355038-0"
+    ],
+    "authIdHasStructure_fs":[
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_148117_FacetSep_AgroParisTech",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "493895-3971_FacetSep_Régis Moilleron_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "493895-3971_FacetSep_Régis Moilleron_JoinSep_148117_FacetSep_AgroParisTech",
+      "493895-3971_FacetSep_Régis Moilleron_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "493895-3971_FacetSep_Régis Moilleron_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "3847-178259_FacetSep_Laurence Lestel_JoinSep_46606_FacetSep_Centre d'histoire des techniques et de l'environnement",
+      "3847-178259_FacetSep_Laurence Lestel_JoinSep_300351_FacetSep_Conservatoire National des Arts et Métiers [Cnam]",
+      "14626-17450_FacetSep_Marie-Christine Gromaire_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "14626-17450_FacetSep_Marie-Christine Gromaire_JoinSep_148117_FacetSep_AgroParisTech",
+      "14626-17450_FacetSep_Marie-Christine Gromaire_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "14626-17450_FacetSep_Marie-Christine Gromaire_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "120111-1083429_FacetSep_Vincent Rocher_JoinSep_407808_FacetSep_Direction de la Recherche et du Développement",
+      "120111-1083429_FacetSep_Vincent Rocher_JoinSep_80348_FacetSep_Syndicat Interdépartemental d'Assainissement de l'Agglomération Parisienne",
+      "120111-1083429_FacetSep_Vincent Rocher_JoinSep_505797_FacetSep_Syndicat interdépartemental pour l'assainissement de l'agglomération parisienne",
+      "750418-0_FacetSep_Philippe Cambier_JoinSep_32714_FacetSep_Unité de Sciences du Sol",
+      "750418-0_FacetSep_Philippe Cambier_JoinSep_92114_FacetSep_Institut National de la Recherche Agronomique",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_518_FacetSep_Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_419361_FacetSep_Université Paris-Saclay",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_465913_FacetSep_Direction de Recherche Fondamentale (CEA)",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_1007948_FacetSep_Géochimie Des Impacts",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_518_FacetSep_Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_419361_FacetSep_Université Paris-Saclay",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_465913_FacetSep_Direction de Recherche Fondamentale (CEA)",
+      "225562-901192_FacetSep_Philippe Bonté_JoinSep_300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_142101_FacetSep_Structure et fonctionnement des systèmes hydriques continentaux",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_110691_FacetSep_École Pratique des Hautes Études",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_564132_FacetSep_Université Paris Sciences et Lettres",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_301492_FacetSep_Mines Paris - PSL (École nationale supérieure des mines de Paris)",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_564132_FacetSep_Université Paris Sciences et Lettres",
+      "620998-0_FacetSep_Claire de Pontevès_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_142101_FacetSep_Structure et fonctionnement des systèmes hydriques continentaux",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_110691_FacetSep_École Pratique des Hautes Études",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_564132_FacetSep_Université Paris Sciences et Lettres",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_301492_FacetSep_Mines Paris - PSL (École nationale supérieure des mines de Paris)",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_564132_FacetSep_Université Paris Sciences et Lettres",
+      "355038-0_FacetSep_Michel Meybeck_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "148117_FacetSep_AgroParisTech",
+      "301545_FacetSep_École nationale des ponts et chaussées",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "46606_FacetSep_Centre d'histoire des techniques et de l'environnement",
+      "300351_FacetSep_Conservatoire National des Arts et Métiers [Cnam]",
+      "407808_FacetSep_Direction de la Recherche et du Développement",
+      "80348_FacetSep_Syndicat Interdépartemental d'Assainissement de l'Agglomération Parisienne",
+      "505797_FacetSep_Syndicat interdépartemental pour l'assainissement de l'agglomération parisienne",
+      "32714_FacetSep_Unité de Sciences du Sol",
+      "92114_FacetSep_Institut National de la Recherche Agronomique",
+      "518_FacetSep_Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "419361_FacetSep_Université Paris-Saclay",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "465913_FacetSep_Direction de Recherche Fondamentale (CEA)",
+      "300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "1007948_FacetSep_Géochimie Des Impacts",
+      "518_FacetSep_Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "81173_FacetSep_Université de Versailles Saint-Quentin-en-Yvelines",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "419361_FacetSep_Université Paris-Saclay",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "465913_FacetSep_Direction de Recherche Fondamentale (CEA)",
+      "300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "300301_FacetSep_Université Paris Diderot - Paris 7",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "142101_FacetSep_Structure et fonctionnement des systèmes hydriques continentaux",
+      "93591_FacetSep_Université Pierre et Marie Curie - Paris 6",
+      "110691_FacetSep_École Pratique des Hautes Études",
+      "564132_FacetSep_Université Paris Sciences et Lettres",
+      "301492_FacetSep_Mines Paris - PSL (École nationale supérieure des mines de Paris)",
+      "564132_FacetSep_Université Paris Sciences et Lettres",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "AgroParisTech",
+      "École nationale des ponts et chaussées",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre d'histoire des techniques et de l'environnement",
+      "Conservatoire National des Arts et Métiers [Cnam]",
+      "Direction de la Recherche et du Développement",
+      "Syndicat Interdépartemental d'Assainissement de l'Agglomération Parisienne",
+      "Syndicat interdépartemental pour l'assainissement de l'agglomération parisienne",
+      "Unité de Sciences du Sol",
+      "Institut National de la Recherche Agronomique",
+      "Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "Université de Versailles Saint-Quentin-en-Yvelines",
+      "Institut national des sciences de l'Univers",
+      "Université Paris-Saclay",
+      "Centre National de la Recherche Scientifique",
+      "Direction de Recherche Fondamentale (CEA)",
+      "Commissariat à l'énergie atomique et aux énergies alternatives",
+      "Géochimie Des Impacts",
+      "Laboratoire des Sciences du Climat et de l'Environnement [Gif-sur-Yvette]",
+      "Université de Versailles Saint-Quentin-en-Yvelines",
+      "Institut national des sciences de l'Univers",
+      "Université Paris-Saclay",
+      "Centre National de la Recherche Scientifique",
+      "Direction de Recherche Fondamentale (CEA)",
+      "Commissariat à l'énergie atomique et aux énergies alternatives",
+      "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "Institut national des sciences de l'Univers",
+      "Université Paris Diderot - Paris 7",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Structure et fonctionnement des systèmes hydriques continentaux",
+      "Université Pierre et Marie Curie - Paris 6",
+      "École Pratique des Hautes Études",
+      "Université Paris Sciences et Lettres",
+      "Mines Paris - PSL (École nationale supérieure des mines de Paris)",
+      "Université Paris Sciences et Lettres",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0048-9697",
+    "journalTitle_s":"Science of the Total Environment",
+    "doiId_s":"10.1016\/j.scitotenv.2006.12.008",
+    "isbn_id":null,
+    "keyword_s":[
+      "Cr",
+      "Cu",
+      "Cd",
+      "Zn",
+      "Hg",
+      "Pb",
+      "Heavy metals",
+      "Budget",
+      "Seine",
+      "River",
+      "Ni"
+    ]
+  },
+  {
+    "docid":"1086752",
+    "halId_s":"hal-01086752",
+    "title_s":"Trace metal determination in total atmospheric deposition in rural and urban areas",
+    "abstract_s":"The wet, dry and total atmospheric depositions of some metals (Al, Cd, Cr, Cu, Fe, Na, Pb and Zn) were sampled at two sites and atmospheric fallout fluxes were determined for these locations. This work, led by two different research groups, allowed to reach two main goals: to define a simple analytical procedure to secure accurate shipboard sampling and analysis of atmospheric deposition, and to assess anthropogenic impacts of heavy metals to the environment. The first step about the validation step showed that the prevalent deposition type was dry deposition which represents 40, 60 and 80% for Cd, Cu and Pb, respectively. This prevalence of dry deposition in total atmospheric fallout supported the necessity of funnel wall rinsing which contains 30, 50 and 40% of collected Cd, Cu and Pb, respectively. Moreover, the reproducibility of atmospheric deposition collection was determined. The second step was performed by comparing two sampling sites. A rural sampling site, situated in Morvan's regional park (250 km south-east of Paris), was chosen for its isolation from any local and regional contamination sources. Fluxes obtained in this area were compared with those obtained at an urban site (Creteil, suburb of Paris) allowing comparison between urban and rural areas and demonstrating the impact of anthropogenic activities on atmospheric deposition of Cr, Cu and Pb.",
+    "domain_codes":"sde; chim.anal; sde.es; spi",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/hal-enpc.archives-ouvertes.fr\/hal-01086752\/file\/Azimi-Total-Atm-Deposition-STOTEN-2003-308-247-256.pdf",
+    "authFirstName_s":[
+      "Sam",
+      "Alexandre",
+      "Daniel",
+      "Jean-Louis"
+    ],
+    "authLastName_s":[
+      "Azimi",
+      "Ludwig",
+      "Thevenot",
+      "Colin"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "crp",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "Sam Azimi_FacetSep_120195-1434522",
+      "Alexandre Ludwig_FacetSep_872618-0",
+      "Daniel R. Thevenot_FacetSep_14624-892",
+      "Jean-Louis Colin_FacetSep_301835-0"
+    ],
+    "authIdHasStructure_fs":[
+      "120195-1434522_FacetSep_Sam Azimi_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "120195-1434522_FacetSep_Sam Azimi_JoinSep_148117_FacetSep_AgroParisTech",
+      "120195-1434522_FacetSep_Sam Azimi_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "120195-1434522_FacetSep_Sam Azimi_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "872618-0_FacetSep_Alexandre Ludwig_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "872618-0_FacetSep_Alexandre Ludwig_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "872618-0_FacetSep_Alexandre Ludwig_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "872618-0_FacetSep_Alexandre Ludwig_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "872618-0_FacetSep_Alexandre Ludwig_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_148117_FacetSep_AgroParisTech",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_301545_FacetSep_École nationale des ponts et chaussées",
+      "14624-892_FacetSep_Daniel R. Thevenot_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_300045_FacetSep_Institut national des sciences de l'Univers",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_300301_FacetSep_Université Paris Diderot - Paris 7",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "301835-0_FacetSep_Jean-Louis Colin_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "135971_FacetSep_Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "148117_FacetSep_AgroParisTech",
+      "301545_FacetSep_École nationale des ponts et chaussées",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "1126_FacetSep_Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "300045_FacetSep_Institut national des sciences de l'Univers",
+      "300301_FacetSep_Université Paris Diderot - Paris 7",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Centre d'Enseignement et de Recherche Eau Ville Environnement",
+      "AgroParisTech",
+      "École nationale des ponts et chaussées",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Laboratoire Interuniversitaire des Systèmes Atmosphériques",
+      "Institut national des sciences de l'Univers",
+      "Université Paris Diderot - Paris 7",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0048-9697",
+    "journalTitle_s":"Science of the Total Environment",
+    "doiId_s":"10.1016\/S0048-9697(02)00678-2",
+    "isbn_id":null,
+    "keyword_s":[
+      "Anthropogenic impacts",
+      "Sampling procedures",
+      "Atmospheric fallout",
+      "Trace elements"
+    ]
+  },
+  {
+    "docid":"1087358",
+    "halId_s":"hal-01087358",
+    "title_s":"Ab initio investigations on the CaO<sup>2+<\/sup> dication",
+    "abstract_s":"The low-lying electronic states of the CaO2+ dication are investigated using high level ab initio calculations. The electronic states converging to the first and third dissociation limits are found to be thermochemically stable, with dissociation energies ranging from 0.17 eV to 0.83 eV. The electronic ground state is of 3Sigma− nature and the adiabatic double ionization energy of CaO is computed at 21.16 eV. The main spectroscopic constants of the five low-lying bound electronic states of CaO2+ are reported. The spin-orbit coupling terms related to the X3Sigma− and A3Pi states are computed and used to calculate the vibronic levels of these states.",
+    "domain_codes":"chim.theo",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/6H6-9RPVHCRF-K\/fulltext.pdf?sid=hal",
+    "authFirstName_s":[
+      "V.",
+      "Frédéric",
+      "Céline"
+    ],
+    "authLastName_s":[
+      "Brites",
+      "Le Quéré",
+      "Léonard"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "V. Brites_FacetSep_632345-1360364",
+      "Frédéric Le Quéré_FacetSep_227259-15180",
+      "Céline Léonard_FacetSep_11213-4556"
+    ],
+    "authIdHasStructure_fs":[
+      "632345-1360364_FacetSep_V. Brites_JoinSep_1061631_FacetSep_Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_300305_FacetSep_Université de Cergy Pontoise",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_531928_FacetSep_Université Paris-Seine",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_300306_FacetSep_Université d'Évry-Val-d'Essonne",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "632345-1360364_FacetSep_V. Brites_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "227259-15180_FacetSep_Frédéric Le Quéré_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "227259-15180_FacetSep_Frédéric Le Quéré_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "227259-15180_FacetSep_Frédéric Le Quéré_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "227259-15180_FacetSep_Frédéric Le Quéré_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "11213-4556_FacetSep_Céline Léonard_JoinSep_84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "11213-4556_FacetSep_Céline Léonard_JoinSep_301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "11213-4556_FacetSep_Céline Léonard_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "11213-4556_FacetSep_Céline Léonard_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "1061631_FacetSep_Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "300016_FacetSep_Commissariat à l'énergie atomique et aux énergies alternatives",
+      "300305_FacetSep_Université de Cergy Pontoise",
+      "531928_FacetSep_Université Paris-Seine",
+      "300306_FacetSep_Université d'Évry-Val-d'Essonne",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "84321_FacetSep_Laboratoire de Modélisation et Simulation Multi Echelle",
+      "301243_FacetSep_Université Paris-Est Marne-la-Vallée",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Laboratoire Analyse et Modélisation pour la Biologie et l'Environnement",
+      "Commissariat à l'énergie atomique et aux énergies alternatives",
+      "Université de Cergy Pontoise",
+      "Université Paris-Seine",
+      "Université d'Évry-Val-d'Essonne",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Modélisation et Simulation Multi Echelle",
+      "Université Paris-Est Marne-la-Vallée",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"2210-271X",
+    "journalTitle_s":"Computational and Theoretical Chemistry",
+    "doiId_s":"10.1016\/j.comptc.2014.11.009",
+    "isbn_id":null,
+    "keyword_s":[
+      "Calcium monoxide",
+      "CaO",
+      "Stable dication",
+      "MRCI+Q",
+      "Spin–orbit coupling",
+      "Vibronic states"
+    ]
+  },
+  {
+    "docid":"1088019",
+    "halId_s":"hal-01088019",
+    "title_s":"Nanocomposites of Silica Reinforced Polypropylene: Correlation Between Morphology and Properties",
+    "abstract_s":"Polypropylene\/fumed hydrophilic silica nanocomposites were prepared via melt mixing method using a single-screw extruder. Comparative study with and without compatibilizing copolymer agent (maleic anhydride grafted polypropylene: PP-g-AM) was conducted. The obtained results were interpreted in terms of silica nanoparticle-silica nanoparticle and silica nanoparticle-polymer interactions. These results have shown that the addition of nanofillers improves the properties of the nanocomposites. From transmission electron microscopy, it was found that agglomerations of silica particles into the PP matrix increased in average size with increasing silica contents, except in presence of the copolymer. Storage modulus values of the nanocomposites measured by dynamic mechanical thermal analysis were sensitive to the microstructure of the nanocomposites. Higher silica contents resulted in higher storage modulus, revealing that the material became stiffer. By adding the compatibilizer, a further increase of storage modulus was observed due to the finer dispersion of the filler in the matrix and the increased interfacial adhesion. Crystallization rates were found to increase with the increase of silica nanoparticles as well as PP-g-MA content. In addition, silica nanoparticles and the compatibilizing agent present centers of germination and nucleation of crystallites. Thus, the use of the coupling agent resulted in a further enhancement of mechanical properties of the nanocomposites due to the reduction of silica agglomeration.",
+    "domain_codes":"chim.poly; chim.mate",
+    "discipline":"Chemical Engineering",
+    "url_primary":"https:\/\/api.istex.fr\/ark:\/67375\/WNG-XS6VKPN7-F\/fulltext.pdf?sid=hal",
+    "authFirstName_s":[
+      "A.",
+      "M.",
+      "Florent",
+      "Valérie"
+    ],
+    "authLastName_s":[
+      "Bouaziz",
+      "Jaziri",
+      "Dalmas",
+      "Massardier"
+    ],
+    "authQuality_s":[
+      "aut",
+      "aut",
+      "aut",
+      "aut"
+    ],
+    "authFullNameIdFormPerson_fs":[
+      "A. Bouaziz_FacetSep_244050-0",
+      "M. Jaziri_FacetSep_471733-0",
+      "Florent Dalmas_FacetSep_8402-20373",
+      "Valérie Massardier_FacetSep_690834-747368"
+    ],
+    "authIdHasStructure_fs":[
+      "8402-20373_FacetSep_Florent Dalmas_JoinSep_24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "8402-20373_FacetSep_Florent Dalmas_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "8402-20373_FacetSep_Florent Dalmas_JoinSep_420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "8402-20373_FacetSep_Florent Dalmas_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_203996_FacetSep_Ingénierie des Matériaux Polymères",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_194495_FacetSep_Université Claude Bernard Lyon 1",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_301088_FacetSep_Université de Lyon",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_219748_FacetSep_Institut National des Sciences Appliquées de Lyon",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_301088_FacetSep_Université de Lyon",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_301232_FacetSep_Institut National des Sciences Appliquées",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_300284_FacetSep_Université Jean Monnet - Saint-Étienne",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "690834-747368_FacetSep_Valérie Massardier_JoinSep_441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structIdName_fs":[
+      "24508_FacetSep_Institut de Chimie et des Matériaux Paris-Est",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "420786_FacetSep_Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "441569_FacetSep_Centre National de la Recherche Scientifique",
+      "203996_FacetSep_Ingénierie des Matériaux Polymères",
+      "194495_FacetSep_Université Claude Bernard Lyon 1",
+      "301088_FacetSep_Université de Lyon",
+      "219748_FacetSep_Institut National des Sciences Appliquées de Lyon",
+      "301088_FacetSep_Université de Lyon",
+      "301232_FacetSep_Institut National des Sciences Appliquées",
+      "300284_FacetSep_Université Jean Monnet - Saint-Étienne",
+      "341038_FacetSep_Institut de Chimie - CNRS Chimie",
+      "441569_FacetSep_Centre National de la Recherche Scientifique"
+    ],
+    "structName_s":[
+      "Institut de Chimie et des Matériaux Paris-Est",
+      "Institut de Chimie - CNRS Chimie",
+      "Université Paris-Est Créteil Val-de-Marne - Paris 12",
+      "Centre National de la Recherche Scientifique",
+      "Ingénierie des Matériaux Polymères",
+      "Université Claude Bernard Lyon 1",
+      "Université de Lyon",
+      "Institut National des Sciences Appliquées de Lyon",
+      "Université de Lyon",
+      "Institut National des Sciences Appliquées",
+      "Université Jean Monnet - Saint-Étienne",
+      "Institut de Chimie - CNRS Chimie",
+      "Centre National de la Recherche Scientifique"
+    ],
+    "journalIssn_s":"0032-3888",
+    "journalTitle_s":"Polymer Engineering and Science",
+    "doiId_s":"10.1002\/pen.23768",
+    "isbn_id":null,
+    "keyword_s":[
+      "COMPOSITES",
+      "BLENDS",
+      "NANOPARTICLES",
+      "CRYSTALLIZATION",
+      "POLYMER",
+      "CARBON NANOTUBES",
+      "CLAY NANOCOMPOSITES",
+      "MECHANICAL-PROPERTIES",
+      "GAS BARRIER PROPERTIES",
+      "SILANE-GRAFTED POLYPROPYLENE"
+    ]
+  }
+]

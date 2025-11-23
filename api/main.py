@@ -7,7 +7,7 @@ from api.apimodule import NEED_N, choose_url, consolidate_domains, consolidate_k
 
 NEED_N = 20
 FIELD ="Chemical Engineering"
-FILE ="upec_chemical_20.json"
+FILE ="upec_chemical_20_n.json"
 
 records, cursor = [], "*"
 
@@ -58,32 +58,37 @@ if __name__ == '__main__':
 
             # keep only requested output columns
             records.append({
+                # ---- DOCUMENT ----
                 "docid": d.get("docid"),
                 "halId_s": d.get("halId_s"),
                 "title_s": d.get("title_s"),
                 "abstract_s": d.get("abstract_s"),
-                "keywords_joined": d.get("keywords_joined"),
-                "domain_codes": d.get("domain_codes"),  # raw HAL codes (for audit)
-                "domain_labels": d.get("domain_labels"),  # any labels if present
-                "discipline": d.get("discipline"),  # your 5 buckets (clean)
-                'en_domainAllCodeLabel_fs':d.get('en_domainAllCodeLabel_fs'),
+                "domain_codes": d.get("domain_codes"),
+                "discipline": d.get("discipline"),
                 "url_primary": d.get("url_primary"),
-                "authOrganismId_i": d.get("authOrganismId_i"),
-                #data for autors DANN
-                'authFirstName_s': d.get("authFirstName_s"),
-                'authFirstName_sci': d.get("authFirstName_sci"),
-                'authLastName_s': d.get("authLastName_s"),
-                'authLastName_sci': d.get("authLastName_sci"),
-                'authQuality_s': d.get("authQuality_s"),
-                #data for Organism DANN
-                'authOrganismId_i': d.get("authOrganismId_i"),
-                'authOrganism_s': d.get("authOrganism_s"),
-                'authorityInstitution_s': d.get("authorityInstitution_s"),
-                #data for keywords DANN
-                'keyword_s': d.get("keyword_s"),
-                'keyword_sci': d.get("keyword_sci"),
-                'keyword_t': d.get("keyword_t")
-    })
+
+                # ---- AUTHORS ----
+                "authFirstName_s": d.get("authFirstName_s"),
+                "authLastName_s": d.get("authLastName_s"),
+                "authQuality_s": d.get("authQuality_s"),
+                "authFullNameIdFormPerson_fs": d.get("authFullNameIdFormPerson_fs"),
+                "authIdHasStructure_fs": d.get("authIdHasStructure_fs"),
+
+                # ---- ORGANISMS ----
+                "structIdName_fs": d.get("structIdName_fs"),
+                "structName_s": d.get("structName_s"),
+
+                # ---- JOURNAL ----
+                "journalIssn_s": d.get("journalIssn_s"),
+                "journalTitle_s": d.get("journalTitle_s"),
+
+                # ---- IDENTIFIERS ----
+                "doiId_s": d.get("doiId_s"),
+                "isbn_id": d.get("isbn_id"),
+
+                # ---- KEYWORDS ----
+                "keyword_s": d.get("keyword_s"),
+            })
 
             if len(records) >= NEED_N:
                 break

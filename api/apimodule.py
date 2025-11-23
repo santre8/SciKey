@@ -38,29 +38,42 @@ FIELDS = ",".join([
     "halId_s",
     "title_s",
     "abstract_s",
-    # (authors intentionally NOT requested)
-    "keyword*",            # any keyword field variant
-    "domainAll_s",         # human-readable domain(s)
-    "domainAllCode_s",     # domain code(s)
-    'en_domainAllCodeLabel_fs',
-    "linkExtUrl_s",        # external link(s) if any
-    "files_s",              # attached file URLs (fallback)
-    #data for autors DANN
-    'authFirstName_s',
-    'authFirstName_sci',
-    'authLastName_s',
-    'authLastName_sci',
-    'authQuality_s',
-    #data for Organism DANN
-    'authOrganismId_i',
-    'authOrganism_s',
-    'authorityInstitution_s'
-    #data for docs DANN
-    'keyword_s',
-    'keyword_sci',
-    'keyword_t'
 
+    # Domains
+    "domainAll_s",
+    "domainAllCode_s",
+    "en_domainAllCodeLabel_fs",
+
+    # URLs
+    "linkExtUrl_s",
+    "files_s",
+
+    # Authors
+    "authFirstName_s",
+    "authLastName_s",
+    "authQuality_s",
+    "authFullNameIdFormPerson_fs",
+    "authIdHasStructure_fs",
+
+    # Organisms
+    "structIdName_fs",
+    "structName_s",
+
+    # Identifiers
+    "doiId_s",
+    "isbn_id",
+    "halId_s",
+
+    # Journals
+    "journalIssn_s",
+    "journalTitle_s",
+
+    # Keywords
+    "keyword_s",
+    "keyword_sci",
+    "keyword_t"
 ])
+
 
 BASE = f"https://api.archives-ouvertes.fr/search/{HAL_PORTAL}/"
 
