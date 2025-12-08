@@ -19,9 +19,7 @@ from pipeline.load import load_data
 import re
 
 def clean_structure_name(text):
-    """
-    Remueve '<id>_FacetSep_' y devuelve solo el nombre de la institución.
-    """
+
     if not isinstance(text, str):
         return text
     # Elimina '12345_FacetSep_'
@@ -101,26 +99,22 @@ def normalize_identifiers(df: pd.DataFrame) -> pd.DataFrame:
         "doc_id": pd.to_numeric(df.get("docid"), errors="coerce"),
         "doiId_s": df.get("doiId_s"),
         "halId_s": df.get("halId_s"),
-        "isbn": df.get("isbn_id"),   # viene como isbn_id de HAL
+        "isbn": df.get("isbn_id"),   
     })
     out = out.dropna(subset=["doc_id"])
     return out.drop_duplicates(subset=["doc_id", "doiId_s", "isbn"])
 
 def normalize_organisms(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Construye la tabla 'organisms' a partir de structIdName_fs:
-    - hal_structure_id: ID numérico de HAL (antes de '_FacetSep_')
-    - structIdName_fs: nombre limpio de la estructura (sin 'FacetSep' ni el ID)
-    """
+
     col = df.get("structIdName_fs")
 
-    # Si el JSON no tiene este campo, devolvemos DF vacío con columnas correctas
+    
     if col is None:
         return pd.DataFrame(columns=["hal_structure_id", "structIdName_fs"])
 
     rows = []
 
-    # _as_list ya lo tienes definido arriba
+    
     for items in col.apply(_as_list):
         for item in items:
             if not isinstance(item, str):
@@ -133,8 +127,8 @@ def normalize_organisms(df: pd.DataFrame) -> pd.DataFrame:
             except ValueError:
                 continue
 
-            # Usa tu helper para limpiar '<id>_FacetSep_'
-            clean_name = clean_structure_name(item)  # -> 'TCM', 'Université ...', etc.
+            
+            clean_name = clean_structure_name(item)  
 
             rows.append({
                 "hal_structure_id": struct_id,
@@ -145,7 +139,7 @@ def normalize_organisms(df: pd.DataFrame) -> pd.DataFrame:
         return pd.DataFrame(columns=["hal_structure_id", "structIdName_fs"])
 
     out = pd.DataFrame(rows)
-    # Un organismo por hal_structure_id
+    
     return out.drop_duplicates(subset=["hal_structure_id"])
 
 def normalize_document_organisms(df: pd.DataFrame) -> pd.DataFrame:
@@ -180,32 +174,23 @@ def normalize_document_organisms(df: pd.DataFrame) -> pd.DataFrame:
     return out.drop_duplicates()
 
 def normalize_journals(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Construye la tabla 'journals' a partir del DF de HAL.
 
-    - doc_id: docid de HAL
-    - journalIssn_s: ISSN de la revista
-    - journalTitle_s: título de la revista
-    """
     if "journalIssn_s" not in df.columns and "journalTitle_s" not in df.columns:
-        # No hay columnas -> devolvemos DF vacío con columnas correctas
+        
         return pd.DataFrame(columns=["doc_id", "journalIssn_s", "journalTitle_s"])
 
     jdf = df[["docid", "journalIssn_s", "journalTitle_s"]].copy()
 
-    # renombrar docid -> doc_id (como en tu tabla MySQL)
+    
     jdf = jdf.rename(columns={"docid": "doc_id"})
 
-    # quitar filas donde no haya ISSN ni título
+    
     jdf = jdf.dropna(subset=["journalIssn_s", "journalTitle_s"], how="all")
 
     return jdf
 
 def build_author_index_map(df: pd.DataFrame) -> dict:
-    """
-    Devuelve un diccionario {(doc_id, person_id) -> author_index}
-    usando authFullNameIdFormPerson_fs.
-    """
+
     mapping = {}
 
     col = df.get("authFullNameIdFormPerson_fs")
@@ -214,7 +199,7 @@ def build_author_index_map(df: pd.DataFrame) -> dict:
 
     for doc_id, items in zip(df["docid"], col.fillna("").apply(_as_list)):
         for idx, entry in enumerate(items, start=1):
-            # Ejemplo: "Yann Bugeaud_FacetSep_18010-748461"
+            
             if "_FacetSep_" not in entry:
                 continue
             full_name, person_id = entry.split("_FacetSep_", 1)
@@ -224,16 +209,12 @@ def build_author_index_map(df: pd.DataFrame) -> dict:
     return mapping
 
 def normalize_author_organisms(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Relación autor-organismo sin guardar person_id en MySQL:
 
-    columnas: doc_id, author_index, hal_structure_id
-    """
     col = df.get("authIdHasStructure_fs")
     if col is None:
         return pd.DataFrame(columns=["doc_id", "author_index", "hal_structure_id"])
 
-    # Mapa (doc_id, person_id) -> author_index
+    
     idx_map = build_author_index_map(df)
 
     rows = []
@@ -244,19 +225,17 @@ def normalize_author_organisms(df: pd.DataFrame) -> pd.DataFrame:
             if not isinstance(entry, str):
                 continue
 
-            # Ejemplo:
-            # "18010-748461_FacetSep_Xavier Nicolas_JoinSep_390741_FacetSep_TCM"
+            
             if "_JoinSep_" not in entry:
                 continue
 
             left, right = entry.split("_JoinSep_", 1)
 
-            # left: "18010-748461_FacetSep_Xavier Nicolas"
-            # tomamos el person_id antes del primer "_FacetSep_"
-            person_part = left.split("_FacetSep_", 1)[0]  # "18010-748461"
+            
+            person_part = left.split("_FacetSep_", 1)[0]  
             person_id = person_part.strip()
 
-            # right: "390741_FacetSep_TCM"
+            
             try:
                 struct_id_str = right.split("_", 1)[0]
                 hal_structure_id = int(struct_id_str)
@@ -265,7 +244,7 @@ def normalize_author_organisms(df: pd.DataFrame) -> pd.DataFrame:
 
             author_index = idx_map.get((doc_id, person_id))
             if author_index is None:
-                # si por alguna razón no lo encontramos, lo saltamos
+                
                 continue
 
             rows.append({

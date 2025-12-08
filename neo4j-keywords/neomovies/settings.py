@@ -81,16 +81,30 @@ WSGI_APPLICATION = 'neomovies.wsgi.application'
 #Connect to Neo4j Database
 NEOMODEL_NEO4J_BOLT_URL = os.environ.get('NEO4J_BOLT_URL', 'bolt://neo4j:test@localhost:7687')
 
+# DATABASES = {
+#     'default': {
+#         'NAME': 'movies.db',
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'USER': '',
+#         'PASSWORD': '',
+#         'PORT': '',
+#     },
+# }
+
 DATABASES = {
     'default': {
-        'NAME': 'movies.db',
-        'ENGINE': 'django.db.backends.sqlite3',
-        'USER': '',
-        'PASSWORD': '',
-        'PORT': '',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'scikey',
+        'USER': 'citizix_user',
+        'PASSWORD': 'An0thrS3crt',
+        'HOST': '127.0.0.1',   # porque Django corre en tu máquina
+        'PORT': '5362',        # el puerto publicado por docker
+        'OPTIONS': {
+            'charset': 'utf8mb4',
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+        },
     },
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators

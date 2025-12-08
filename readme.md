@@ -1,48 +1,74 @@
-# SciKey 
+# SciKey
 
+SciKey is a complete pipeline that ingests scientific records from **HAL**, enriches them using **Wikidata**, and stores the results in **Neo4j** to power an interactive graph explorer (Django front/back).  
+This repository includes the full stack: API services, ETL pipeline, MySQL storage, Neo4j database, and orchestration via Docker.
 
-## What’s inside
+---
 
-- **api/** – Python service that pulls records from **HAL** and exposes a tiny REST API (JSON).
-- **wikidata/** – ETL/worker that reads API JSON, looks up entities in **Wikidata**, builds mappings.
-- **graph/** – Neo4j database (stores authors, papers, orgs, topics, edges).
-- **web/backend** folder neo4j-keywords – Django front/back that queries Neo4j and renders the graph & filters.
+## What’s Inside
 
+### **api/**
+Python service (FastAPI) that:
+- Fetches records from **HAL**
+- Normalizes fields  
+- Outputs clean **JSON** for downstream processing  
 
-## how to run 
-ejecutar el siguiente comando en la terminal desde la carpeta donde se encuentra el archivo docker-compose.yml
-debes correr este comando solo la primera vez para crear la imagen y el contenedor
+---
 
-debe esta en donde se encuentra el archivo docker-compose.yml
+### **database-image/**
+Contains the Docker image and initialization scripts used to create the **MySQL** database.
+
+### **mysql-data/**
+Local volume where MySQL stores its generated data.
+
+---
+
+### **neo4j-keywords/**
+Django front/back application that:
+- Connects to **Neo4j**
+- Queries the knowledge graph  
+- Renders interactive visualizations and filters  
+
+---
+
+### **neo4j-scripts/**
+Cypher scripts for:
+- Index creation  
+- Constraints  
+- Data cleanup  
+- Batch inserts  
+
+---
+
+### **wikidata/**
+ETL worker that:
+- Reads the JSON produced by the API  
+- Queries **Wikidata** entities  
+- Computes mappings and similarity scores  
+- Inserts enriched nodes and relationships into Neo4j  
+
+---
+
+## How to Run
+
+### **1. Go to the folder containing `docker-compose.yml`**
+
 ```sh
-$ ./docker-compose up -d 
+./docker-compose up -d
+```
 
+### **2. Clean up (optional, for rebuilds)**
 
-docker compose down --rmi all --volumes 
+```sh
+docker compose down --rmi all --volumes
 docker rm -f mysql-container-scikey && docker rmi scikey-mysql-db
 ```
 
-verificar si esta activo 
+### **3. Verify Neo4j is running**
+
 ```sh
 docker ps --filter name=neo4j
 ```
-##  project structur scaffoldingh 
-modulos 
-
-api 
-fech information from HAL
-creates a json
-
-wikidata 
-wikidate loads json then we generate a mapping 
-insert information into neo4j graph database
-
-neo4j 
-database that sabe information in graph to be showed and filter in fronen
-
-
-django front and backconnect with  n4j databases allows queri an interac with generated data 
-
 
 ## db
 using with dbeaver Versión24.3.1.202412221611 - free for neo4j

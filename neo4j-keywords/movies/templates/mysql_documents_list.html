@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MySQL Documents</title>
+</head>
+<body>
+  <h1>Documents from MySQL</h1>
+
+  <table border="1" cellpadding="4" cellspacing="0">
+    <thead>
+      <tr>
+        <th>doc_id</th>
+        <th>halId_s</th>
+        <th>Title</th>
+        <th>Discipline</th>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in docs %}
+        <tr>
+          <td>{{ d.doc_id }}</td>
+          <td>{{ d.halid_s }}</td>
+          <td>{{ d.title }}</td>
+          <td>{{ d.discipline }}</td>
+          <td>
+            {% if d.url_primary %}
+              <a href="{{ d.url_primary }}" target="_blank">link</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% empty %}
+        <tr><td colspan="5">No documents found.</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

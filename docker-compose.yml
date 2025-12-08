@@ -32,31 +32,26 @@ services:
       NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
       NEO4J_AUTH: neo4j/test
       NEO4JLABS_PLUGINS: '["apoc"]'
-      # 4.4: nombres correctos de memoria (doble __)
+      # __)
       NEO4J_dbms_memory_heap_initial__size: 512m
       NEO4J_dbms_memory_heap_max__size: 512m
       NEO4J_dbms_memory_pagecache_size: 1G
       NEO4J_dbms_default_listen_address: 0.0.0.0
-      # CSV / APOC (válidos en 4.4)
+      # 
       NEO4J_dbms_security_allow__csv__import__from__file__urls: "true"
       NEO4J_apoc_import_file_enabled: "true"
     volumes:
       - neo4j-data:/data
       - neo4j-logs:/logs
       - ./tests/resources:/import
-    # --- Healthcheck A: chequeo simple del puerto Bolt (no requiere cypher-shell)
+    # --- 
     healthcheck:
       test: ["CMD-SHELL", "echo > /dev/tcp/127.0.0.1/7687"]
       interval: 30s
       timeout: 5s
       retries: 5
       start_period: 30s
-    # --- Healthcheck B (alternativo): usando ruta completa de cypher-shell
-    # healthcheck:
-    #   test: ["CMD-SHELL", "echo 'RETURN 1' | /var/lib/neo4j/bin/cypher-shell -u neo4j -p test --non-interactive"]
-    #   interval: 30s
-    #   timeout: 10s
-    #   retries: 5
+
     networks:
       - mybridge
 

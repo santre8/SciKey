@@ -1,0 +1,2 @@
+best_C,cv_best_f1,test_accuracy,test_f1,true_positives,false_positives,true_negatives,false_negatives,n_train_rows,n_test_rows,n_train_keywords,n_test_keywords
+3,0.43354504970009317,0.9522275899087493,0.6396761133603239,79,62,1695,27,6716,1863,231,99

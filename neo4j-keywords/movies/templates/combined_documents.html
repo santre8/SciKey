@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Combined Documents (Neo4j + MySQL)</title>
+</head>
+<body>
+  <h1>Combined Documents (Neo4j + MySQL)</h1>
+
+  <table border="1" cellpadding="4" cellspacing="0">
+    <thead>
+      <tr>
+        <th>docid (Neo4j)</th>
+        <th>Graph Title</th>
+        <th>MySQL Title</th>
+        <th>Discipline</th>
+        <th>Primary URL</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in items %}
+        <tr>
+          <td>{{ item.graph.docid }}</td>
+          <td>{{ item.graph.title }}</td>
+          <td>
+            {% if item.sql %}
+              {{ item.sql.title }}
+            {% else %}
+              <em>no MySQL row</em>
+            {% endif %}
+          </td>
+          <td>{% if item.sql %}{{ item.sql.discipline }}{% endif %}</td>
+          <td>
+            {% if item.sql and item.sql.url_primary %}
+              <a href="{{ item.sql.url_primary }}" target="_blank">link</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% empty %}
+        <tr><td colspan="5">No documents found.</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

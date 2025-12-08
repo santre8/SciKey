@@ -1,8 +1,8 @@
 from pathlib import Path
 
 # =============== INPUT / OUTPUT PATHS =================
-INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec.json")
-OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_v4.csv")
+INPUT_JSON = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\api\data\upec_n.json")
+OUTPUT_CSV = Path(r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\hal_field_audit_out\Wikidata_upec_n_v3.csv")
 
 # =============== NEO4J CONFIGURATION =================
 NEO4J_URI = "bolt://127.0.0.1:7687"
@@ -17,14 +17,14 @@ HEADERS = {"User-Agent": "Keyword2Wikidata/1.2 (contact: your-email@example.com)
 LANGS = ["en", "fr"]
 MIN_LABEL_SIM = 70
 MIN_TOTAL_SCORE = -9999
-MAX_LEVELS_LINEAGE = 5
+MAX_LEVELS_LINEAGE = 6
 SEARCH_LIMIT = 50
 
 #==================== Neo4j =======================
-ENABLE_NEO4J_INGEST = False  # Ponlo True solo cuando quieras cargar a Neo4j
+ENABLE_NEO4J_INGEST = True  
 
 # =============== PERFORMANCE OPTIONS =================
-ENABLE_P279_PATHS = False  # True si quieres expandir jerarquías P279 (más lento)
+ENABLE_P279_PATHS = True  
 
 # ================== Properties y QIDs =================
 P_INSTANCE_OF = "P31"
@@ -33,7 +33,7 @@ P_BNF_ID = "P268"
 Q_DISAMBIGUATION = "Q4167410"
 P_FIELD_OF_WORK = "P101"
 
-# =============== P31 filters (solo para otros flujos) ===============
+# =============== P31 filters ===============
 DISALLOWED_P31 = {
     "Q13442814","Q571","Q1002697","Q737498","Q47461344","Q732577",
     # "Q5",
@@ -88,6 +88,7 @@ DISALLOWED_P31 = {
     "Q212971", #Request for Comments
     "Q202866", #animated film
     "Q202444", #Vietnamese middle name
+    "Q431289", #brand
 
 
 }
@@ -104,44 +105,53 @@ PREFERRED_P31  = {
 # ================== DEBUG ==================
 DEBUG_SCORES = True
 DEBUG_SCORES_PATH = Path(
-    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores.csv"
+    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_v3.csv"
 )
 DEBUG_SCORES_MODE_PATH = Path(
-    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec_v4.csv"
+    r"C:\Users\sanda\Documents\Langara_College\DANA-4850-001-Capstone_Project\hall-api-test-db-mysql\wikidata\debug_scores_mode_upec_n_v3.csv"
 )
 
 # --- Context similarity filters ---
 STOPWORDS = {
-    "the","and","of","in","on","for","with","by","from","to","at","as","is","are","was","were",
-    "a","an","this","that","these","those","it","its","their","our"
+    "the", "and", "of", "in", "on", "at", "for", "with", "by", "from", "to",
+    "as", "is", "are", "was", "were", "be", "been", "being",
+    "a", "an", "this", "that", "these", "those", "it", "its", "their", "our",
+    "such", "many", "various", "several", "within", "between", "across",
+    "through", "throughout", "overall", "including", "based", "related",
+    "according", "further", "however", "also", "often", "generally",
+    "mainly", "mostly", "nearly", "usually", "already",
+    "may", "might", "can", "could", "should", "would",
+    "used", "using", "use", "make", "made",
+    "per", "via", "over", "under", "towards", "onto", "into", "out"
 }
-MIN_TOKEN_LEN = 4
+MIN_TOKEN_LEN = 2
 
 # ================== Mode-aware scoring ==================
-# Bono por exactitud
-EXACT_BONUS_LABEL = 3.98673272460203   # término por label exacto
-EXACT_BONUS_ALIAS = 2.94009424943515   # término por alias exacto
 
-# Pesos por modo para: contexto (ctx), sitelinks (sl), P31 (p31), P279 (p279),
-# contexto vs P31 (ctx_p31) y contexto vs P279 (ctx_p279).
+EXACT_BONUS_LABEL = 4.71283719812918   
+EXACT_BONUS_ALIAS = 3.62412709435424  
+
+
 WEIGHTS_MODE = {
-    "label": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084 },
-    "alias": { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, }, #"sl": 0.6, "alias_inv": 4.0,
-    "none":  { "ctx": 0.0671353793282494, "sl": 0.435317355788317, "p31": 0.279584450316963, "p279": -0.1154692337735, "ctx_p31": -0.0195759779915391, "ctx_p279": 0.0550509690073979, "alias_inv": 0.521282117642084, },
+    "label": { "ctx": 0.0543224825527197, "sl": 0.528106969082633, "p31": 0.195429005395847, "p279": -0.128992085884209, "ctx_p31": -0.0194360330503352, "ctx_p279": 0.0569351710003201, "alias_inv": 0.524144976653911},
+    "alias": { "ctx": 0.0543224825527197, "sl": 0.528106969082633, "p31": 0.195429005395847, "p279": -0.128992085884209, "ctx_p31": -0.0194360330503352, "ctx_p279": 0.0569351710003201, "alias_inv": 0.524144976653911, }, #"sl": 0.6, "alias_inv": 4.0,
+    "none":  { "ctx": 0.0543224825527197, "sl": 0.528106969082633, "p31": 0.195429005395847, "p279": -0.128992085884209, "ctx_p31": -0.0194360330503352, "ctx_p279": 0.0569351710003201, "alias_inv": 0.524144976653911, },
 }
 
-# Filtro semántico suave del matcher (si True, se evalúa TODO; si False, descarta stubs)
+
 PURE_SCORE_DISABLE_SEMANTIC_FILTER = True
 
-# === Controles de filtrado / bonus por tipo ===
-ENABLE_P31_BLOCK = True              # descarta candidatos cuyo P31 ∈ DISALLOWED_P31
-ENABLE_PREFERRED_P31_BONUS = True    # suma bonus si P31 ∈ PREFERRED_P31
-TYPE_BONUS = 0.0                    # tamaño del bonus por tipo preferido
 
-# (Opcional) filtra stubs sin P31/P279/desc/alias:
+ENABLE_P31_BLOCK = True              
+ENABLE_PREFERRED_P31_BONUS = True    
+TYPE_BONUS = 0.0                    
+
+
 PURE_SCORE_DISABLE_SEMANTIC_FILTER = False
 
 # =============== PERFORMANCE / P279 EXPANSION =================
-P279_DEPTH          = 2      # niveles hacia arriba (subclass-of)
-P279_MAX_NODES      = 300    # techo de nodos acumulados para evitar explosiones
-P279_TEXT_MAXCHARS  = 12000  # recorte de texto concatenado para similitud
+P279_DEPTH          = 1      
+P279_MAX_NODES      = 300    
+P279_TEXT_MAXCHARS  = 12000  
+
+

@@ -9,8 +9,6 @@ from .wikidata_api import (
 )
 
 # ----------------------------------------------------------------------------- #
-# Filtro semántico (opcional). Puedes desactivarlo con                         #
-# PURE_SCORE_DISABLE_SEMANTIC_FILTER=True en config si quieres evaluar todo.   #
 # ----------------------------------------------------------------------------- #
 def _is_semantically_valid(entity: Dict) -> bool:
     if not entity:
@@ -56,18 +54,13 @@ def pick_exact_label_only(keyword: str) -> Optional[Dict]:
 # ------------------------------- MATCHER PRINCIPAL --------------------------- #
 
 def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
-    """
-    Estrategia:
-      1) Buscar candidatos (keyword y singular) via wbsearchentities/label_only.
-      2) Fetch masivo; preparar señales: __sitelinks, __has_p279, __p31s, __p279s,
-         y construir __p31_text / __p279_text para similitud contextual.
-      3) Calcular mode_aware_total_score() y ordenar solo por ese score.
-    """
+
+    raw_keyword = keyword
     keyword = normalize_kw(keyword)
     context = normalize_kw(context)
     DISABLE_SEM_FILTER = getattr(config, "PURE_SCORE_DISABLE_SEMANTIC_FILTER", True)
 
-    # 1) términos y búsqueda
+    
     terms = [keyword]
     kw_sing = singularize_en(keyword)
     if kw_sing != keyword:
@@ -94,17 +87,17 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
     if not raw:
         return None
 
-    # 2) fetch masivo de entidades
+   
     ents = wbgetentities([c["id"] for c in raw])
 
-    # 2a) recolectar todos los P31 y P279 para batch-fetch de textos de contexto
+    
     all_p31_ids, all_p279_ids = set(), set()
     for c in raw:
         ent = ents.get(c["id"], {})
         # P31
         for q in get_p31_ids(ent):
             all_p31_ids.add(q)
-        # P279 (padres directos)
+        # P279 
         for q in _claim_ids(ent, config.P_SUBCLASS_OF):
             all_p279_ids.add(q)
 
@@ -118,20 +111,20 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
         100% genérico: no hace supuestos de dominio y usa solo P279.
         """
         texts, visited = [], set()
-        # frontera inicial: padres directos ya vienen en start_qids
+        
         frontier = set(q for q in (start_qids or set()) if q)
 
         depth = 0
         while frontier and depth < max_depth and len(visited) < max_nodes:
-            # limpia la frontera de visitados
+            
             batch = [q for q in frontier if q not in visited]
             if not batch:
                 break
 
-            # fetch de las entidades de esta capa
+            
             ents_level = wbgetentities(batch) or {}
 
-            # texto de esta capa
+            
             for qid, ent in ents_level.items():
                 visited.add(qid)
                 if ent:
@@ -143,7 +136,7 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
                     if txt:
                         texts.append(txt)
 
-            # prepara la siguiente frontera con los padres P279 de esta capa
+            
             next_frontier = set()
             for ent in ents_level.values():
                 if not ent:
@@ -169,20 +162,20 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
 
     candidates: List[Dict] = []
 
-    # 3) enriquecer y puntuar
+    
     for c in raw:
         ent = ents.get(c["id"], {})
 
-        # REEMPLAZA la lista de aliases del search-hit por la de wbgetentities
+        
         alias_dict = (ent.get("aliases") or {})
         c["aliases"] = [a["value"] for lst in alias_dict.values() for a in lst]
 
-        # (opcional, por consistencia de idioma/fallback)
+        
         if not c.get("description"):
             descs = ent.get("descriptions") or {}
             c["description"] = " ".join(v["value"] for v in descs.values())
 
-        # (opcional) filtro mínimo semántico
+        
         if not DISABLE_SEM_FILTER and not _is_semantically_valid(ent):
             continue
 
@@ -199,26 +192,23 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
         c["__p279s"] = p279s
         c["__p101s"] = get_p101_ids(ent) if ent else set()
 
-        # --- AQUI: filtro por P31 prohibidos ---
+        # --- 
         if getattr(config, "ENABLE_P31_BLOCK", True):
             if p31s & config.DISALLOWED_P31:
-                # bloqueado por tipo
+                
                 continue
 
-        # textos para contexto-P31 / contexto-P279
+        # 
         p31_texts= []
         for pid in p31s:
             pe = p31_ents.get(pid, {})
             if pe:
                 p31_texts.append(_text_of_entity(pe))
-        # for pid in p279s:
-        #     pe = p279_ents.get(pid, {})
-        #     if pe:
-        #         p279_texts.append(_text_of_entity(pe))
-        c["__p31_text"]  = " ".join(p31_texts)[:5000]
-        #c["__p279_text"] = " ".join(p279_texts)[:5000]
 
-        # --- nuevo bloque: expansión genérica a 5 niveles ---
+        c["__p31_text"]  = " ".join(p31_texts)[:5000]
+        
+
+        #
         if getattr(config, "ENABLE_P279_PATHS", False) and p279s:
             p279_text, p279_all = _expand_p279_text(
                 start_qids=p279s,
@@ -226,9 +216,9 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
                 max_nodes=int(getattr(config, "P279_MAX_NODES", 300)),
             )
             c["__p279_text"] = p279_text
-            c["__p279s"]     = p279_all  # incluye directos + ancestros
+            c["__p279s"]     = p279_all
         else:
-            # fallback: solo padres directos (como antes)
+            
             p279_texts = []
             for pid in p279s:
                 pe = p279_ents.get(pid, {})
@@ -236,10 +226,10 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
                     p279_texts.append(_text_of_entity(pe))
             c["__p279_text"] = " ".join(p279_texts)[:5000]
             c["__p279s"]     = p279s
-        # score por-modo
-        score = mode_aware_total_score(keyword, context, c)
+        
+        score = mode_aware_total_score(keyword, context, c, raw_keyword=raw_keyword)
 
-        # --- BONUS opcional por tipo preferido ---
+
         type_bonus = 0.0
         if getattr(config, "ENABLE_PREFERRED_P31_BONUS", True):
             if p31s & config.PREFERRED_P31:
@@ -255,15 +245,11 @@ def pick_with_context_then_exact(keyword: str, context: str) -> Optional[Dict]:
         return None
 
 
-    # 4) ordenar por el score por-modo y devolver top
-    # candidates.sort(key=lambda x: x["match_score"], reverse=True)
-    # return candidates[0]
 
-    # 4) ordenar por el score por-modo y devolver top si supera el umbral
     candidates.sort(key=lambda x: x["match_score"], reverse=True)
     top = candidates[0]
 
     MIN_TOTAL_SCORE = getattr(config, "MIN_TOTAL_SCORE", 8.0)
     if top["match_score"] < MIN_TOTAL_SCORE:
-        return None  # descarta resultados débiles
+        return None 
     return top

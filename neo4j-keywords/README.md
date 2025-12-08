@@ -47,9 +47,12 @@ Run migrations and create your superuser (for the admin, this is using an SQLite
 
 be sure you are inside django folder
 cd  neo4j-keywords
+.\.venv\Scripts\Activate.ps1
 ```shell
 python manage.py runserver
 ```
+
+python scripts/fill_missing_item_labels.py
 
 Now you should be able to access http://localhost:8000 and play with the app.
 

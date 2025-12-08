@@ -25,7 +25,7 @@ DB_URL = (
 engine = create_engine(DB_URL, pool_pre_ping=True, future=True)
 
 def get_engine():
-    """Devuelve el engine global de SQLAlchemy."""
+    
     return engine
 
 def load_data(df, table_name, if_exists="append"):
