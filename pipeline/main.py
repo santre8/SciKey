@@ -22,7 +22,7 @@ def clean_structure_name(text):
 
     if not isinstance(text, str):
         return text
-    # Elimina '12345_FacetSep_'
+    
     cleaned = re.sub(r"^\d+_FacetSep_", "", text)
     return cleaned.strip()
 
