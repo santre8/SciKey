@@ -70,5 +70,9 @@ docker rm -f mysql-container-scikey && docker rmi scikey-mysql-db
 docker ps --filter name=neo4j
 ```
 
-## db
-using with dbeaver Versión24.3.1.202412221611 - free for neo4j
+
+## Recommended Tools (Optional)
+
+- Visual Studio Code – Suggested IDE for browsing and editing the project
+- DBeaver – To explore MySQL and Neo4j
+- Docker Desktop – To manage containers
